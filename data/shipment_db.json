@@ -28081,11 +28081,13 @@
           "barcode": "0889698905411"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079668",
+      "tnl_status": "Arrived NZ",
+      "eta": "2026-07-03",
+      "edd": "2026-07-10",
+      "actual_delivery": "",
+      "entry_ref": "89585640",
+      "vessel": "ANL ROTORUA"
     },
     "515482": {
       "invoice_no": "515482",
@@ -28625,11 +28627,13 @@
           "barcode": "0889698905329"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079670",
+      "tnl_status": "Arrived NZ",
+      "eta": "2026-06-30",
+      "edd": "2026-07-07",
+      "actual_delivery": "",
+      "entry_ref": "47418531",
+      "vessel": "ANL ROTORUA"
     },
     "515483": {
       "invoice_no": "515483",
@@ -29025,11 +29029,13 @@
           "barcode": "0889698862721"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079667",
+      "tnl_status": "Arrived NZ",
+      "eta": "2026-07-03",
+      "edd": "2026-07-10",
+      "actual_delivery": "",
+      "entry_ref": "72599960",
+      "vessel": "ANL ROTORUA"
     },
     "515484": {
       "invoice_no": "515484",
@@ -29633,11 +29639,13 @@
           "barcode": "5061062271673"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079669",
+      "tnl_status": "Delivered",
+      "eta": "2026-06-30",
+      "edd": "2026-07-07",
+      "actual_delivery": "2026-07-03 15:34",
+      "entry_ref": "33560086",
+      "vessel": "ANL ROTORUA"
     },
     "515485": {
       "invoice_no": "515485",
@@ -30169,11 +30177,13 @@
           "barcode": "0889698862721"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079667",
+      "tnl_status": "Arrived NZ",
+      "eta": "2026-07-03",
+      "edd": "2026-07-10",
+      "actual_delivery": "",
+      "entry_ref": "72599960",
+      "vessel": "ANL ROTORUA"
     },
     "515486": {
       "invoice_no": "515486",
@@ -30457,11 +30467,13 @@
           "barcode": "0889698862721"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079667",
+      "tnl_status": "Arrived NZ",
+      "eta": "2026-07-03",
+      "edd": "2026-07-10",
+      "actual_delivery": "",
+      "entry_ref": "72599960",
+      "vessel": "ANL ROTORUA"
     },
     "515487": {
       "invoice_no": "515487",
@@ -31102,7 +31114,7 @@
       "eta": "2026-06-30",
       "edd": "2026-07-07",
       "actual_delivery": "",
-      "entry_ref": "",
+      "entry_ref": "33631451",
       "vessel": "ANL ROTORUA"
     },
     "515488": {
@@ -31867,11 +31879,13 @@
           "barcode": "0889698905428"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079671",
+      "tnl_status": "Delivered",
+      "eta": "2026-06-30",
+      "edd": "2026-07-07",
+      "actual_delivery": "2026-07-02 16:33",
+      "entry_ref": "91860020",
+      "vessel": "ANL ROTORUA"
     },
     "516561": {
       "invoice_no": "516561",
@@ -34304,7 +34318,2487 @@
       "eta": "",
       "edd": "",
       "actual_delivery": ""
+    },
+    "516879": {
+      "invoice_no": "516879",
+      "store": "Papanui",
+      "store_code": "POPSHOPSEA",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516879 - POPSHOPSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 8,
+          "price": 7.25,
+          "exc_value": 55.1,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN72048",
+          "description": "Jujutsu Kaisen - Gojo S2 Pop! Keychain",
+          "quantity": 8,
+          "price": 7.25,
+          "exc_value": 55.1,
+          "barcode": "0889698720489"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 8,
+          "price": 7.25,
+          "exc_value": 55.1,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN90667",
+          "description": "Dan Da Dan - Okarun (Transformed) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906678"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN86305",
+          "description": "South Park - Craig Tucker Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698863056"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516880": {
+      "invoice_no": "516880",
+      "store": "Sylvia Park",
+      "store_code": "POPSTOPSF",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516880 - POPSTOPSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN72048",
+          "description": "Jujutsu Kaisen - Gojo S2 Pop! Keychain",
+          "quantity": 14,
+          "price": 7.25,
+          "exc_value": 96.43,
+          "barcode": "0889698720489"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN90667",
+          "description": "Dan Da Dan - Okarun (Transformed) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906678"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN90780",
+          "description": "Jason Universe - Jason Voorhees Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698907804"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94210",
+          "description": "One Piece - Chopper 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698942102"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN84435",
+          "description": "Shoresy - Shoresy (White Jersey) Pop! RS",
+          "quantity": 1,
+          "price": 15.15,
+          "exc_value": 14.39,
+          "barcode": "0889698844352"
+        },
+        {
+          "sku": "FUN86106",
+          "description": "Sonic - Neo Metal Sonic (Metallic) Pop!",
+          "quantity": 6,
+          "price": 13.3,
+          "exc_value": 75.81,
+          "barcode": "0889698861069"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "FUN93367",
+          "description": "The Folk of the Air - Oak Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698933674"
+        },
+        {
+          "sku": "FUN93368",
+          "description": "The Folk of the Air - Wren Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698933681"
+        },
+        {
+          "sku": "FUN92868",
+          "description": "Tom & Jerry: Gokko - Jerry Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928687"
+        },
+        {
+          "sku": "FUN92869",
+          "description": "Tom & Jerry: Gokko - Nibbles Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928694"
+        },
+        {
+          "sku": "FUN92870",
+          "description": "Tom & Jerry: Gokko - Tom Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928700"
+        },
+        {
+          "sku": "BLO73571",
+          "description": "Evangelion - Fantastics Series Asuka Shikinami Langley (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532098"
+        },
+        {
+          "sku": "BLO73572",
+          "description": "Evangelion - Fantastics Series Rei Ayanami (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532104"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516881": {
+      "invoice_no": "516881",
+      "store": "Dunedin",
+      "store_code": "POPSTOPDUNSEA",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516881 - POPSTOPDUNSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 8,
+          "price": 7.25,
+          "exc_value": 55.1,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN72048",
+          "description": "Jujutsu Kaisen - Gojo S2 Pop! Keychain",
+          "quantity": 8,
+          "price": 7.25,
+          "exc_value": 55.1,
+          "barcode": "0889698720489"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "FUN93367",
+          "description": "The Folk of the Air - Oak Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933674"
+        },
+        {
+          "sku": "FUN93368",
+          "description": "The Folk of the Air - Wren Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933681"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516882": {
+      "invoice_no": "516882",
+      "store": "Queensgate",
+      "store_code": "POPSTOPQGS",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516882 - POPSTOPQGS from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN72048",
+          "description": "Jujutsu Kaisen - Gojo S2 Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698720489"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN90667",
+          "description": "Dan Da Dan - Okarun (Transformed) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906678"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 15,
+          "price": 14.2,
+          "exc_value": 202.35,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN90780",
+          "description": "Jason Universe - Jason Voorhees Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698907804"
+        },
+        {
+          "sku": "FUN95130",
+          "description": "Kawaii Plants - Monstera 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698951302"
+        },
+        {
+          "sku": "FUN90812",
+          "description": "Mandalorian & Grogu (2026) - Mandalorian w/Grogu on AT-RT Pop! Ride",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698908122"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94210",
+          "description": "One Piece - Chopper 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698942102"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN86106",
+          "description": "Sonic - Neo Metal Sonic (Metallic) Pop!",
+          "quantity": 6,
+          "price": 13.3,
+          "exc_value": 75.81,
+          "barcode": "0889698861069"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "FUN93367",
+          "description": "The Folk of the Air - Oak Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698933674"
+        },
+        {
+          "sku": "FUN93368",
+          "description": "The Folk of the Air - Wren Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698933681"
+        },
+        {
+          "sku": "FUN92868",
+          "description": "Tom & Jerry: Gokko - Jerry Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928687"
+        },
+        {
+          "sku": "FUN92869",
+          "description": "Tom & Jerry: Gokko - Nibbles Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928694"
+        },
+        {
+          "sku": "FUN92870",
+          "description": "Tom & Jerry: Gokko - Tom Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928700"
+        },
+        {
+          "sku": "FUN92211",
+          "description": "Yu-Gi-Oh - Exodia Necross GW 6\" Pop! RS",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0889698922111"
+        },
+        {
+          "sku": "BLO73571",
+          "description": "Evangelion - Fantastics Series Asuka Shikinami Langley (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532098"
+        },
+        {
+          "sku": "BLO73572",
+          "description": "Evangelion - Fantastics Series Rei Ayanami (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532104"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516883": {
+      "invoice_no": "516883",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516883 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN72048",
+          "description": "Jujutsu Kaisen - Gojo S2 Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698720489"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 10,
+          "price": 14.2,
+          "exc_value": 134.9,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN90667",
+          "description": "Dan Da Dan - Okarun (Transformed) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906678"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN90780",
+          "description": "Jason Universe - Jason Voorhees Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698907804"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94210",
+          "description": "One Piece - Chopper 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698942102"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN86106",
+          "description": "Sonic - Neo Metal Sonic (Metallic) Pop!",
+          "quantity": 6,
+          "price": 13.3,
+          "exc_value": 75.81,
+          "barcode": "0889698861069"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "FUN93367",
+          "description": "The Folk of the Air - Oak Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698933674"
+        },
+        {
+          "sku": "FUN93368",
+          "description": "The Folk of the Air - Wren Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698933681"
+        },
+        {
+          "sku": "FUN92868",
+          "description": "Tom & Jerry: Gokko - Jerry Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928687"
+        },
+        {
+          "sku": "FUN92869",
+          "description": "Tom & Jerry: Gokko - Nibbles Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928694"
+        },
+        {
+          "sku": "FUN92870",
+          "description": "Tom & Jerry: Gokko - Tom Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698928700"
+        },
+        {
+          "sku": "BLO73571",
+          "description": "Evangelion - Fantastics Series Asuka Shikinami Langley (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532098"
+        },
+        {
+          "sku": "BLO73572",
+          "description": "Evangelion - Fantastics Series Rei Ayanami (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532104"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516884": {
+      "invoice_no": "516884",
+      "store": "Richmond",
+      "store_code": "POPSTOPRICHSEA",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516884 - POPSTOPRICHSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 6,
+          "price": 7.25,
+          "exc_value": 41.33,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 6,
+          "price": 7.25,
+          "exc_value": 41.33,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN95130",
+          "description": "Kawaii Plants - Monstera 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698951302"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516885": {
+      "invoice_no": "516885",
+      "store": "Te Rapa",
+      "store_code": "POPSTOPTRSEA",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516885 - POPSTOPTRSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "JAD35907",
+          "description": "Fast & Furious - 1:24 1970 Dodge Charger w/Dom Diecast Set",
+          "quantity": 1,
+          "price": 30.3,
+          "exc_value": 28.79,
+          "barcode": "0801310359075"
+        },
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN90667",
+          "description": "Dan Da Dan - Okarun (Transformed) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906678"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 10,
+          "price": 15.15,
+          "exc_value": 143.93,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN90780",
+          "description": "Jason Universe - Jason Voorhees Pop!",
+          "quantity": 5,
+          "price": 14.2,
+          "exc_value": 67.45,
+          "barcode": "0889698907804"
+        },
+        {
+          "sku": "FUN95130",
+          "description": "Kawaii Plants - Monstera 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698951302"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94210",
+          "description": "One Piece - Chopper 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698942102"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 30,
+          "price": 14.2,
+          "exc_value": 404.7,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN86106",
+          "description": "Sonic - Neo Metal Sonic (Metallic) Pop!",
+          "quantity": 4,
+          "price": 13.3,
+          "exc_value": 50.54,
+          "barcode": "0889698861069"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 7,
+          "price": 14.2,
+          "exc_value": 94.43,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "FUN93367",
+          "description": "The Folk of the Air - Oak Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933674"
+        },
+        {
+          "sku": "FUN93368",
+          "description": "The Folk of the Air - Wren Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933681"
+        },
+        {
+          "sku": "FUN92868",
+          "description": "Tom & Jerry: Gokko - Jerry Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698928687"
+        },
+        {
+          "sku": "FUN92869",
+          "description": "Tom & Jerry: Gokko - Nibbles Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698928694"
+        },
+        {
+          "sku": "FUN92870",
+          "description": "Tom & Jerry: Gokko - Tom Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698928700"
+        },
+        {
+          "sku": "BLO73571",
+          "description": "Evangelion - Fantastics Series Asuka Shikinami Langley (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532098"
+        },
+        {
+          "sku": "BLO73572",
+          "description": "Evangelion - Fantastics Series Rei Ayanami (Entry Plug Interior) Model Kit",
+          "quantity": 1,
+          "price": 65.35,
+          "exc_value": 62.08,
+          "barcode": "810181532104"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "516886": {
+      "invoice_no": "516886",
+      "store": "Warehouse AKL",
+      "store_code": "POPSWARSEA",
+      "recv_date": "2026-07-03",
+      "subject": "Email of Sales Invoice - 516886 - POPSWARSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 01.07",
+      "items": [
+        {
+          "sku": "FUN85334",
+          "description": "Demon Slayer - Tanjiro (Sun Breathing) Pop! Keychain",
+          "quantity": 14,
+          "price": 7.25,
+          "exc_value": 96.43,
+          "barcode": "0889698853347"
+        },
+        {
+          "sku": "FUN88361",
+          "description": "Scream - Ghostface Pop! Keychain",
+          "quantity": 47,
+          "price": 7.25,
+          "exc_value": 323.71,
+          "barcode": "0889698883610"
+        },
+        {
+          "sku": "FUN94045",
+          "description": "Baldur's Gate 3 - Astarion (Vampire Ascendant) Pop! RS",
+          "quantity": 36,
+          "price": 15.15,
+          "exc_value": 518.13,
+          "barcode": "0889698940450"
+        },
+        {
+          "sku": "FUN84957",
+          "description": "Baldur's Gate 3 - Karlach & Clive Pop!",
+          "quantity": 24,
+          "price": 14.2,
+          "exc_value": 323.76,
+          "barcode": "0889698849579"
+        },
+        {
+          "sku": "FUN48705",
+          "description": "BttF - Marty in Puffy Vest Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698487054"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93276",
+          "description": "Cyberpunk: Edgerunners - Rebecca Pop!",
+          "quantity": 42,
+          "price": 14.2,
+          "exc_value": 566.58,
+          "barcode": "0889698932769"
+        },
+        {
+          "sku": "FUN90667",
+          "description": "Dan Da Dan - Okarun (Transformed) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698906678"
+        },
+        {
+          "sku": "FUN79703",
+          "description": "Deadmau5 - Deadmau5 w/Meowingtons Pop!",
+          "quantity": 48,
+          "price": 14.2,
+          "exc_value": 647.52,
+          "barcode": "0889698797030"
+        },
+        {
+          "sku": "FUN93291",
+          "description": "Death Note - L on Chair Pop!",
+          "quantity": 60,
+          "price": 14.2,
+          "exc_value": 809.4,
+          "barcode": "0889698932912"
+        },
+        {
+          "sku": "FUN50768",
+          "description": "E.T. - Elliot & E.T. in Bike Basket Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698507684"
+        },
+        {
+          "sku": "FUN11064",
+          "description": "FNaF - Nightmare Freddy Pop!",
+          "quantity": 24,
+          "price": 14.2,
+          "exc_value": 323.76,
+          "barcode": "0889698110648"
+        },
+        {
+          "sku": "FUN75870",
+          "description": "Friendly Neighbourhood SpiderMan - SpiderMan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698758703"
+        },
+        {
+          "sku": "FUN93007",
+          "description": "Ghost - Bat Wing Papa DGL Pop!",
+          "quantity": 30,
+          "price": 15.15,
+          "exc_value": 431.78,
+          "barcode": "0889698930079"
+        },
+        {
+          "sku": "FUN93689",
+          "description": "Ghost of Yotei - Atsu Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698936897"
+        },
+        {
+          "sku": "FUN94575",
+          "description": "Hello Kitty - Cinnamoroll (Spooky) Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698945752"
+        },
+        {
+          "sku": "FUN94576",
+          "description": "Hello Kitty - Hello Kitty (Spooky) Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698945769"
+        },
+        {
+          "sku": "FUN94003",
+          "description": "Hello Kitty - Hello Kitty Sleeping Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698940030"
+        },
+        {
+          "sku": "FUN94577",
+          "description": "Hello Kitty - Keroppi (Spooky) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698945776"
+        },
+        {
+          "sku": "FUN75867",
+          "description": "Invincible (TV) - Invincible Pop!",
+          "quantity": 60,
+          "price": 14.2,
+          "exc_value": 809.4,
+          "barcode": "0889698758673"
+        },
+        {
+          "sku": "FUN90780",
+          "description": "Jason Universe - Jason Voorhees Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698907804"
+        },
+        {
+          "sku": "FUN95130",
+          "description": "Kawaii Plants - Monstera 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698951302"
+        },
+        {
+          "sku": "FUN90812",
+          "description": "Mandalorian & Grogu (2026) - Mandalorian w/Grogu on AT-RT Pop! Ride",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698908122"
+        },
+        {
+          "sku": "FUN91754",
+          "description": "One Piece - Brook Wanted Pop! Cover RS",
+          "quantity": 12,
+          "price": 24.25,
+          "exc_value": 276.45,
+          "barcode": "0889698917544"
+        },
+        {
+          "sku": "FUN94210",
+          "description": "One Piece - Chopper 10\" Pop!",
+          "quantity": 2,
+          "price": 48.5,
+          "exc_value": 92.15,
+          "barcode": "0889698942102"
+        },
+        {
+          "sku": "FUN94109",
+          "description": "One Piece - Sanji (Ifrit Jambe) GW Pop! RS",
+          "quantity": 70,
+          "price": 15.15,
+          "exc_value": 1007.48,
+          "barcode": "0889698941099"
+        },
+        {
+          "sku": "FUN95248",
+          "description": "Sabrina Carpenter - Manchild Pop!",
+          "quantity": 150,
+          "price": 14.2,
+          "exc_value": 2023.5,
+          "barcode": "0889698952484"
+        },
+        {
+          "sku": "FUN80696",
+          "description": "Scream - Ghostface w/Knife Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698806961"
+        },
+        {
+          "sku": "FUN86106",
+          "description": "Sonic - Neo Metal Sonic (Metallic) Pop!",
+          "quantity": 6,
+          "price": 13.3,
+          "exc_value": 75.81,
+          "barcode": "0889698861069"
+        },
+        {
+          "sku": "FUN83965",
+          "description": "SpiderMan: Brand New Day - Hulk 6\" Pop!",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0889698839655"
+        },
+        {
+          "sku": "FUN83964",
+          "description": "SpiderMan: Brand New Day - SpiderMan (No Way Home Suit) Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698839648"
+        },
+        {
+          "sku": "FUN83966",
+          "description": "SpiderMan: Brand New Day - SpiderMan 10\" Pop!",
+          "quantity": 2,
+          "price": 48.5,
+          "exc_value": 92.15,
+          "barcode": "0889698839662"
+        },
+        {
+          "sku": "FUN93994",
+          "description": "SpiderMan: Brand New Day - SpiderMan MT Pop! RS",
+          "quantity": 108,
+          "price": 15.15,
+          "exc_value": 1554.39,
+          "barcode": "0889698939942"
+        },
+        {
+          "sku": "FUN83963",
+          "description": "SpiderMan: Brand New Day - SpiderMan Pop!",
+          "quantity": 108,
+          "price": 14.2,
+          "exc_value": 1456.92,
+          "barcode": "0889698839631"
+        },
+        {
+          "sku": "FUN93369",
+          "description": "The Folk of the Air - Cardan Greenbriar Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698933698"
+        },
+        {
+          "sku": "FUN93366",
+          "description": "The Folk of the Air - Jude Duarte Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698933667"
+        },
+        {
+          "sku": "FUN93367",
+          "description": "The Folk of the Air - Oak Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698933674"
+        },
+        {
+          "sku": "FUN93368",
+          "description": "The Folk of the Air - Wren Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698933681"
+        },
+        {
+          "sku": "FUN92868",
+          "description": "Tom & Jerry: Gokko - Jerry Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698928687"
+        },
+        {
+          "sku": "FUN92869",
+          "description": "Tom & Jerry: Gokko - Nibbles Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698928694"
+        },
+        {
+          "sku": "FUN92870",
+          "description": "Tom & Jerry: Gokko - Tom Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698928700"
+        },
+        {
+          "sku": "FUN92211",
+          "description": "Yu-Gi-Oh - Exodia Necross GW 6\" Pop! RS",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0889698922111"
+        },
+        {
+          "sku": "LOULOTRBC0001",
+          "description": "LotR - Characters Mystery Mini Backpack Keychain Charms 15ct CDU",
+          "quantity": 15,
+          "price": 17.05,
+          "exc_value": 242.96,
+          "barcode": "0671803584327"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
     }
   },
-  "last_updated": "2026-07-02T14:47:23.446839"
+  "last_updated": "2026-07-06T09:48:08.696638"
 }
