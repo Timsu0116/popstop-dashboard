@@ -504,7 +504,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-18 14:31",
       "entry_ref": "84159929",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511765": {
       "invoice_no": "511765",
@@ -1130,7 +1131,8 @@
       "edd": "2026-05-12",
       "actual_delivery": "2026-05-07 14:15",
       "entry_ref": "96018361",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511766": {
       "invoice_no": "511766",
@@ -1612,7 +1614,8 @@
       "edd": "2026-05-12",
       "actual_delivery": "2026-05-07 14:35",
       "entry_ref": "58678905",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511767": {
       "invoice_no": "511767",
@@ -2030,7 +2033,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-18 15:10",
       "entry_ref": "48443543",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511768": {
       "invoice_no": "511768",
@@ -2544,7 +2548,8 @@
       "edd": "2026-05-12",
       "actual_delivery": "2026-05-08 12:42",
       "entry_ref": "42039814",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511769": {
       "invoice_no": "511769",
@@ -2994,7 +2999,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-15 12:35",
       "entry_ref": "45225665",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511770": {
       "invoice_no": "511770",
@@ -3396,7 +3402,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-18 15:11",
       "entry_ref": "91449809",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "511771": {
       "invoice_no": "511771",
@@ -3894,7 +3901,8 @@
       "edd": "2026-05-12",
       "actual_delivery": "2026-05-08 14:37",
       "entry_ref": "49069629",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "512176": {
       "invoice_no": "512176",
@@ -3904,14 +3912,64 @@
       "subject": "Email of Sales Invoice - 512176 - POPSTOPRSF from Ikon Collectables Pty Ltd",
       "shipping": "",
       "customer_ref": "",
-      "items": [],
+      "items": [
+        {
+          "sku": "FUN90452",
+          "barcode": "0889698904520",
+          "description": "Mandalorian & Grogu (2026) - Imperial Remnant Snowtrooper Pop! RS LIMITED EDITION",
+          "quantity": 21,
+          "price": 24.25,
+          "exc_value": 483.79
+        },
+        {
+          "sku": "WAREHOUSE",
+          "barcode": "- PLEASE PACK",
+          "description": "CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "FUN90778",
+          "barcode": "0889698907781",
+          "description": "NBX - Jack w/Pumpkin Pop! RS LIMITED EDITION",
+          "quantity": 21,
+          "price": 24.25,
+          "exc_value": 483.79
+        },
+        {
+          "sku": "WAREHOUSE",
+          "barcode": "- PLEASE PACK",
+          "description": "CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "FUN91863",
+          "barcode": "0889698918633",
+          "description": "One Piece (Netflix) - Smoker Pop! RS LIMITED EDITION",
+          "quantity": 21,
+          "price": 24.25,
+          "exc_value": 483.79
+        },
+        {
+          "sku": "WAREHOUSE",
+          "barcode": "- PLEASE PACK",
+          "description": "CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
       "tnl_job_no": "S00078894",
       "tnl_status": "Delivered",
       "eta": "2026-05-15",
       "edd": "2026-05-22",
       "actual_delivery": "2026-05-19 15:00",
       "entry_ref": "39350990",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "pdf_fallback"
     },
     "512178": {
       "invoice_no": "512178",
@@ -4433,7 +4491,8 @@
       "edd": "2026-05-22",
       "actual_delivery": "2026-05-22 12:00",
       "entry_ref": "9217660",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512179": {
       "invoice_no": "512179",
@@ -4915,7 +4974,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-14 14:11",
       "entry_ref": "89762640",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512180": {
       "invoice_no": "512180",
@@ -5389,7 +5449,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-14 14:23",
       "entry_ref": "67308374",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512181": {
       "invoice_no": "512181",
@@ -5839,7 +5900,8 @@
       "edd": "2026-05-22",
       "actual_delivery": "2026-05-22 12:00",
       "entry_ref": "9217660",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512182": {
       "invoice_no": "512182",
@@ -6337,7 +6399,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-15 12:36",
       "entry_ref": "26574532",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512183": {
       "invoice_no": "512183",
@@ -6811,7 +6874,8 @@
       "edd": "2026-05-22",
       "actual_delivery": "2026-05-19 15:00",
       "entry_ref": "39350990",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512184": {
       "invoice_no": "512184",
@@ -7173,7 +7237,8 @@
       "edd": "2026-05-22",
       "actual_delivery": "2026-05-22 12:00",
       "entry_ref": "9217660",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512185": {
       "invoice_no": "512185",
@@ -7767,7 +7832,8 @@
       "edd": "2026-05-19",
       "actual_delivery": "2026-05-15 11:33",
       "entry_ref": "57048776",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "512449": {
       "invoice_no": "512449",
@@ -7985,7 +8051,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-03 09:19",
       "entry_ref": "76744545",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512450": {
       "invoice_no": "512450",
@@ -8171,7 +8238,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-05-28 11:39",
       "entry_ref": "20077652",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512451": {
       "invoice_no": "512451",
@@ -8413,7 +8481,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-05-28 11:37",
       "entry_ref": "98658088",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512452": {
       "invoice_no": "512452",
@@ -8647,7 +8716,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-04 08:53",
       "entry_ref": "58921764",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512453": {
       "invoice_no": "512453",
@@ -8897,7 +8967,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-05-29 15:12",
       "entry_ref": "38696085",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512454": {
       "invoice_no": "512454",
@@ -9139,7 +9210,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-03 14:20",
       "entry_ref": "99707359",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512455": {
       "invoice_no": "512455",
@@ -9349,7 +9421,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-05 12:47",
       "entry_ref": "87512546",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "512456": {
       "invoice_no": "512456",
@@ -9583,7 +9656,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-06-02 08:39",
       "entry_ref": "20745819",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513041": {
       "invoice_no": "513041",
@@ -9897,7 +9971,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-03 09:19",
       "entry_ref": "76744545",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513042": {
       "invoice_no": "513042",
@@ -10075,7 +10150,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-05-28 11:39",
       "entry_ref": "20077652",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513044": {
       "invoice_no": "513044",
@@ -10397,7 +10473,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-05-28 11:37",
       "entry_ref": "98658088",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513045": {
       "invoice_no": "513045",
@@ -10663,7 +10740,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-04 08:53",
       "entry_ref": "58921764",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513046": {
       "invoice_no": "513046",
@@ -10977,7 +11055,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-05-29 15:12",
       "entry_ref": "38696085",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513050": {
       "invoice_no": "513050",
@@ -11267,7 +11346,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-03 14:20",
       "entry_ref": "99707359",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513052": {
       "invoice_no": "513052",
@@ -11501,7 +11581,8 @@
       "edd": "2026-06-08",
       "actual_delivery": "2026-06-05 12:47",
       "entry_ref": "87512546",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "513053": {
       "invoice_no": "513053",
@@ -11807,7 +11888,8 @@
       "edd": "2026-06-02",
       "actual_delivery": "2026-06-02 08:39",
       "entry_ref": "20745819",
-      "vessel": "CNC JAWA"
+      "vessel": "CNC JAWA",
+      "source": "kelley_email"
     },
     "510571": {
       "invoice_no": "510571",
@@ -13129,7 +13211,8 @@
       "edd": "2026-04-25",
       "actual_delivery": "2026-05-04 14:07",
       "entry_ref": "51089988",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "510731": {
       "invoice_no": "510731",
@@ -14379,7 +14462,8 @@
       "edd": "2026-05-01",
       "actual_delivery": "2026-05-04 14:05",
       "entry_ref": "16175555",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "513908": {
       "invoice_no": "513908",
@@ -14877,7 +14961,8 @@
       "edd": "2026-06-12",
       "actual_delivery": "2026-06-12 10:51",
       "entry_ref": "65364573",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "513909": {
       "invoice_no": "513909",
@@ -15591,7 +15676,8 @@
       "edd": "2026-06-09",
       "actual_delivery": "2026-06-09 12:37",
       "entry_ref": "90686718",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "513910": {
       "invoice_no": "513910",
@@ -16049,7 +16135,8 @@
       "edd": "2026-06-12",
       "actual_delivery": "2026-06-12 10:51",
       "entry_ref": "65364573",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "513911": {
       "invoice_no": "513911",
@@ -16643,7 +16730,8 @@
       "edd": "2026-06-09",
       "actual_delivery": "2026-06-09 10:34",
       "entry_ref": "74485305",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "513912": {
       "invoice_no": "513912",
@@ -17277,7 +17365,8 @@
       "edd": "2026-06-12",
       "actual_delivery": "2026-06-12 10:51",
       "entry_ref": "65364573",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "513913": {
       "invoice_no": "513913",
@@ -17661,7 +17750,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "513914": {
       "invoice_no": "513914",
@@ -18239,7 +18329,8 @@
       "edd": "2026-06-09",
       "actual_delivery": "2026-06-09 09:53",
       "entry_ref": "12773884",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "513915": {
       "invoice_no": "513915",
@@ -18593,7 +18684,8 @@
       "edd": "2026-06-09",
       "actual_delivery": "2026-06-09 13:04",
       "entry_ref": "76783558",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "514297": {
       "invoice_no": "514297",
@@ -19499,7 +19591,8 @@
       "edd": "2026-06-19",
       "actual_delivery": "2026-06-22 13:43",
       "entry_ref": "54957343",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514298": {
       "invoice_no": "514298",
@@ -20189,7 +20282,8 @@
       "edd": "2026-06-15",
       "actual_delivery": "2026-06-15 10:23",
       "entry_ref": "38516151",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514299": {
       "invoice_no": "514299",
@@ -20759,7 +20853,8 @@
       "edd": "2026-06-19",
       "actual_delivery": "2026-06-23 13:55",
       "entry_ref": "63965647",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514301": {
       "invoice_no": "514301",
@@ -21433,7 +21528,8 @@
       "edd": "2026-06-15",
       "actual_delivery": "2026-06-16 08:30",
       "entry_ref": "12014344",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514302": {
       "invoice_no": "514302",
@@ -22075,7 +22171,8 @@
       "edd": "2026-06-19",
       "actual_delivery": "2026-06-22 13:44",
       "entry_ref": "98303068",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514303": {
       "invoice_no": "514303",
@@ -22109,7 +22206,8 @@
       "edd": "2026-06-19",
       "actual_delivery": "2026-06-22 13:44",
       "entry_ref": "98303068",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514304": {
       "invoice_no": "514304",
@@ -22687,7 +22785,8 @@
       "edd": "2026-06-19",
       "actual_delivery": "2026-06-23 13:59",
       "entry_ref": "15982488",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514305": {
       "invoice_no": "514305",
@@ -23377,7 +23476,8 @@
       "edd": "2026-06-21",
       "actual_delivery": "2026-06-17 09:56",
       "entry_ref": "77358460",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "514306": {
       "invoice_no": "514306",
@@ -23907,7 +24007,8 @@
       "edd": "2026-06-15",
       "actual_delivery": "2026-06-12 14:23",
       "entry_ref": "7455862",
-      "vessel": "GREEN WAVE"
+      "vessel": "GREEN WAVE",
+      "source": "kelley_email"
     },
     "515011": {
       "invoice_no": "515011",
@@ -24565,7 +24666,8 @@
       "edd": "2026-06-27",
       "actual_delivery": "2026-06-23 11:45",
       "entry_ref": "69470176",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515012": {
       "invoice_no": "515012",
@@ -25031,7 +25133,8 @@
       "edd": "2026-06-24",
       "actual_delivery": "2026-06-22 10:56",
       "entry_ref": "63810573",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515013": {
       "invoice_no": "515013",
@@ -25321,7 +25424,8 @@
       "edd": "2026-06-27",
       "actual_delivery": "2026-06-23 11:46",
       "entry_ref": "55595539",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515014": {
       "invoice_no": "515014",
@@ -25747,7 +25851,8 @@
       "edd": "2026-06-24",
       "actual_delivery": "2026-06-22 13:36",
       "entry_ref": "82307375",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515015": {
       "invoice_no": "515015",
@@ -25773,7 +25878,8 @@
       "edd": "2026-06-27",
       "actual_delivery": "2026-06-23 11:46",
       "entry_ref": "55595539",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515016": {
       "invoice_no": "515016",
@@ -26183,7 +26289,8 @@
       "edd": "2026-06-27",
       "actual_delivery": "2026-06-23 11:46",
       "entry_ref": "55595539",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515017": {
       "invoice_no": "515017",
@@ -26489,7 +26596,8 @@
       "edd": "2026-06-27",
       "actual_delivery": "2026-06-23 11:46",
       "entry_ref": "55595539",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515018": {
       "invoice_no": "515018",
@@ -27115,7 +27223,8 @@
       "edd": "2026-06-24",
       "actual_delivery": "",
       "entry_ref": "13022978",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515019": {
       "invoice_no": "515019",
@@ -27597,7 +27706,8 @@
       "edd": "2026-06-24",
       "actual_delivery": "2026-06-22 11:12",
       "entry_ref": "70070343",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "source": "kelley_email"
     },
     "515481": {
       "invoice_no": "515481",
@@ -28087,7 +28197,8 @@
       "edd": "2026-07-10",
       "actual_delivery": "",
       "entry_ref": "89585640",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515482": {
       "invoice_no": "515482",
@@ -28628,12 +28739,13 @@
         }
       ],
       "tnl_job_no": "S00079670",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-06-30",
       "edd": "2026-07-07",
-      "actual_delivery": "",
+      "actual_delivery": "2026-07-07 08:49",
       "entry_ref": "47418531",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515483": {
       "invoice_no": "515483",
@@ -29035,7 +29147,8 @@
       "edd": "2026-07-10",
       "actual_delivery": "",
       "entry_ref": "72599960",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515484": {
       "invoice_no": "515484",
@@ -29645,7 +29758,8 @@
       "edd": "2026-07-07",
       "actual_delivery": "2026-07-03 15:34",
       "entry_ref": "33560086",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515485": {
       "invoice_no": "515485",
@@ -30183,7 +30297,8 @@
       "edd": "2026-07-10",
       "actual_delivery": "",
       "entry_ref": "72599960",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515486": {
       "invoice_no": "515486",
@@ -30473,7 +30588,8 @@
       "edd": "2026-07-10",
       "actual_delivery": "",
       "entry_ref": "72599960",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515487": {
       "invoice_no": "515487",
@@ -31110,12 +31226,13 @@
         }
       ],
       "tnl_job_no": "S00079636",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-06-30",
       "edd": "2026-07-07",
-      "actual_delivery": "",
+      "actual_delivery": "2026-07-06 15:51",
       "entry_ref": "33631451",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "515488": {
       "invoice_no": "515488",
@@ -31885,7 +32002,8 @@
       "edd": "2026-07-07",
       "actual_delivery": "2026-07-02 16:33",
       "entry_ref": "91860020",
-      "vessel": "ANL ROTORUA"
+      "vessel": "ANL ROTORUA",
+      "source": "kelley_email"
     },
     "516561": {
       "invoice_no": "516561",
@@ -32165,7 +32283,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516562": {
       "invoice_no": "516562",
@@ -32525,7 +32644,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516563": {
       "invoice_no": "516563",
@@ -32861,7 +32981,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516564": {
       "invoice_no": "516564",
@@ -33213,7 +33334,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516565": {
       "invoice_no": "516565",
@@ -33597,7 +33719,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516566": {
       "invoice_no": "516566",
@@ -33837,7 +33960,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516567": {
       "invoice_no": "516567",
@@ -34141,7 +34265,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516568": {
       "invoice_no": "516568",
@@ -34317,7 +34442,8 @@
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
     },
     "516879": {
       "invoice_no": "516879",
@@ -34577,11 +34703,14 @@
           "barcode": "810181532234"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079803",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-24",
+      "edd": "2026-07-31",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516880": {
       "invoice_no": "516880",
@@ -34913,11 +35042,14 @@
           "barcode": "810181532104"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079804",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-21",
+      "edd": "2026-07-28",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516881": {
       "invoice_no": "516881",
@@ -35161,11 +35293,14 @@
           "barcode": "0889698933681"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079803",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-24",
+      "edd": "2026-07-31",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516882": {
       "invoice_no": "516882",
@@ -35513,11 +35648,14 @@
           "barcode": "810181532104"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079805",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-21",
+      "edd": "2026-07-28",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516883": {
       "invoice_no": "516883",
@@ -35841,11 +35979,14 @@
           "barcode": "810181532104"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079802",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-24",
+      "edd": "2026-07-31",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516884": {
       "invoice_no": "516884",
@@ -36081,11 +36222,14 @@
           "barcode": "810181532234"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079803",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-24",
+      "edd": "2026-07-31",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516885": {
       "invoice_no": "516885",
@@ -36425,11 +36569,14 @@
           "barcode": "810181532234"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
-      "actual_delivery": ""
+      "tnl_job_no": "S00079807",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-21",
+      "edd": "2026-07-28",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
     },
     "516886": {
       "invoice_no": "516886",
@@ -36793,12 +36940,4347 @@
           "barcode": "0671803584327"
         }
       ],
+      "tnl_job_no": "S00079806",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-21",
+      "edd": "2026-07-28",
+      "actual_delivery": "",
+      "entry_ref": "",
+      "vessel": "",
+      "source": "kelley_email"
+    },
+    "517443": {
+      "invoice_no": "517443",
+      "store": "Papanui",
+      "store_code": "POPSHOPSEA",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517443 - POPSHOPSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN86741",
+          "description": "BTS - V Bitty Pop! Stage",
+          "quantity": 1,
+          "price": 10.9,
+          "exc_value": 10.36,
+          "barcode": "0889698867412"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "FUN80848",
+          "description": "Deadpool - Deadpool on Bridge Pop! Deluxe",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698808484"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "FUN93273",
+          "description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698932738"
+        },
+        {
+          "sku": "FUN90413",
+          "description": "Hazbin Hotel - Alastor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698904131"
+        },
+        {
+          "sku": "FUN90635",
+          "description": "Jujustu Kaisen 0 - Yuta Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698906357"
+        },
+        {
+          "sku": "BLO74835",
+          "description": "Minions - preCOOL Jelly Factory Bob the Fruit Keeper Figure",
+          "quantity": 1,
+          "price": 7.4,
+          "exc_value": 7.03,
+          "barcode": "0810181530735"
+        },
+        {
+          "sku": "FUN58035",
+          "description": "My Hero Academia - Izuku Midoria w/Gloves Pop!",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698580359"
+        },
+        {
+          "sku": "TTSMALG102",
+          "description": "Saw - Billy Puppet Prop w/Sound & Motion",
+          "quantity": 1,
+          "price": 509.0,
+          "exc_value": 483.55,
+          "barcode": ""
+        },
+        {
+          "sku": "FUN90385",
+          "description": "Scream - Ghostface w/Tongue Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903851"
+        }
+      ],
       "tnl_job_no": "",
       "tnl_status": "Pending",
       "eta": "",
       "edd": "",
-      "actual_delivery": ""
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517444": {
+      "invoice_no": "517444",
+      "store": "Sylvia Park",
+      "store_code": "POPSTOPSF",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517444 - POPSTOPSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "FUN86736",
+          "description": "BTS - Jimin Bitty Pop! Stage",
+          "quantity": 1,
+          "price": 10.9,
+          "exc_value": 10.36,
+          "barcode": "0889698867368"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD35614",
+          "description": "Fast & Furious - 1:32 F10 Mclaren Senna Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310356142"
+        },
+        {
+          "sku": "JAD97188",
+          "description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971888"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33380",
+          "description": "Fast & Furious 5 - 1:24 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0801310333808"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "JAD97214",
+          "description": "Fast & Furious 7 - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310972144"
+        },
+        {
+          "sku": "FUN91962",
+          "description": "FNaF - Glamrock Freddy Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698919623"
+        },
+        {
+          "sku": "JAD99731",
+          "description": "Ghostbusters (1984) - 1:24 Ecto-1 HR Diecast Vehicle",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310997314"
+        },
+        {
+          "sku": "FUN93273",
+          "description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698932738"
+        },
+        {
+          "sku": "FUN90413",
+          "description": "Hazbin Hotel - Alastor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698904131"
+        },
+        {
+          "sku": "FUN95684",
+          "description": "KPop Demon Hunters - Derpy Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698956840"
+        },
+        {
+          "sku": "FUN86304",
+          "description": "South Park - Butters Stotch Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698863049"
+        },
+        {
+          "sku": "JAD32250",
+          "description": "Supernatural - 1:24 1967 Chevy Impala Diecast Vehicle w/Dean",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310322505"
+        },
+        {
+          "sku": "FUN91695",
+          "description": "Supernatural - Castiel GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698916950"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517445": {
+      "invoice_no": "517445",
+      "store": "Dunedin",
+      "store_code": "POPSTOPDUNSEA",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517445 - POPSTOPDUNSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD97188",
+          "description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310971888"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "FUN91962",
+          "description": "FNaF - Glamrock Freddy Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698919623"
+        },
+        {
+          "sku": "FUN90635",
+          "description": "Jujustu Kaisen 0 - Yuta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906357"
+        },
+        {
+          "sku": "FUN95684",
+          "description": "KPop Demon Hunters - Derpy Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698956840"
+        },
+        {
+          "sku": "FUN90813",
+          "description": "Mandalorian & Grogu (2026) - Grogu w/Polar Mouse Droid Pop! Moment",
+          "quantity": 1,
+          "price": 39.75,
+          "exc_value": 37.76,
+          "barcode": "0889698908139"
+        },
+        {
+          "sku": "FUN58035",
+          "description": "My Hero Academia - Izuku Midoria w/Gloves Pop!",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698580359"
+        },
+        {
+          "sku": "FUN76059",
+          "description": "Percy Jackson & Olympians - Grover Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "0889698760591"
+        },
+        {
+          "sku": "FUN90385",
+          "description": "Scream - Ghostface w/Tongue Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903851"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517446": {
+      "invoice_no": "517446",
+      "store": "Queensgate",
+      "store_code": "POPSTOPQGS",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517446 - POPSTOPQGS from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 8,
+          "price": 24.25,
+          "exc_value": 184.3,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD35614",
+          "description": "Fast & Furious - 1:32 F10 Mclaren Senna Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310356142"
+        },
+        {
+          "sku": "JAD97188",
+          "description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971888"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33380",
+          "description": "Fast & Furious 5 - 1:24 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0801310333808"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "JAD97214",
+          "description": "Fast & Furious 7 - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310972144"
+        },
+        {
+          "sku": "FUN91962",
+          "description": "FNaF - Glamrock Freddy Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698919623"
+        },
+        {
+          "sku": "JAD99731",
+          "description": "Ghostbusters (1984) - 1:24 Ecto-1 HR Diecast Vehicle",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310997314"
+        },
+        {
+          "sku": "FUN93273",
+          "description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698932738"
+        },
+        {
+          "sku": "FUN90413",
+          "description": "Hazbin Hotel - Alastor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698904131"
+        },
+        {
+          "sku": "FUN95684",
+          "description": "KPop Demon Hunters - Derpy Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698956840"
+        },
+        {
+          "sku": "FUN58035",
+          "description": "My Hero Academia - Izuku Midoria w/Gloves Pop!",
+          "quantity": 6,
+          "price": 12.5,
+          "exc_value": 71.25,
+          "barcode": "0889698580359"
+        },
+        {
+          "sku": "FUN90385",
+          "description": "Scream - Ghostface w/Tongue Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903851"
+        },
+        {
+          "sku": "FUN88653",
+          "description": "Stranger Things - Derek Turnbow Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698886536"
+        },
+        {
+          "sku": "JAD32250",
+          "description": "Supernatural - 1:24 1967 Chevy Impala Diecast Vehicle w/Dean",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310322505"
+        },
+        {
+          "sku": "FUN91695",
+          "description": "Supernatural - Castiel GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698916950"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517447": {
+      "invoice_no": "517447",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517447 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD35614",
+          "description": "Fast & Furious - 1:32 F10 Mclaren Senna Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310356142"
+        },
+        {
+          "sku": "JAD97188",
+          "description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971888"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33380",
+          "description": "Fast & Furious 5 - 1:24 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0801310333808"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "JAD97214",
+          "description": "Fast & Furious 7 - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310972144"
+        },
+        {
+          "sku": "JAD99731",
+          "description": "Ghostbusters (1984) - 1:24 Ecto-1 HR Diecast Vehicle",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310997314"
+        },
+        {
+          "sku": "FUN90635",
+          "description": "Jujustu Kaisen 0 - Yuta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906357"
+        },
+        {
+          "sku": "FUN90385",
+          "description": "Scream - Ghostface w/Tongue Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903851"
+        },
+        {
+          "sku": "FUN68386",
+          "description": "SpiderMan: NWH - Sandman B-A-S Pop! DLX RS",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698683869"
+        },
+        {
+          "sku": "FUN68388",
+          "description": "SpiderMan: NWH - SpiderMan 2 B-A-S Pop! DLX RS",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698683883"
+        },
+        {
+          "sku": "FUN68387",
+          "description": "SpiderMan: NWH - SpiderMan B-A-S Pop! DLX RS",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698683876"
+        },
+        {
+          "sku": "JAD32250",
+          "description": "Supernatural - 1:24 1967 Chevy Impala Diecast Vehicle w/Dean",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310322505"
+        },
+        {
+          "sku": "FUN91695",
+          "description": "Supernatural - Castiel GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698916950"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517448": {
+      "invoice_no": "517448",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517448 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN93642",
+          "description": "Iron Man 2 - Tony Stark w/Suit Pop! RS LIMITED EDITION_x000D_\nWAREHOUSE - PLEASE PACK CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 36,
+          "price": 24.25,
+          "exc_value": 829.35,
+          "barcode": "0889698936422"
+        },
+        {
+          "sku": "FUN93643",
+          "description": "Avengers (2012) - Loki Pop! RS LIMITED EDITION_x000D_\nWAREHOUSE - PLEASE PACK CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 36,
+          "price": 24.25,
+          "exc_value": 829.35,
+          "barcode": "0889698936439"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517449": {
+      "invoice_no": "517449",
+      "store": "Richmond",
+      "store_code": "POPSTOPRICHSEA",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517449 - POPSTOPRICHSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 2,
+          "price": 18.15,
+          "exc_value": 34.49,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.3,
+          "exc_value": 19.57,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "FUN93273",
+          "description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698932738"
+        },
+        {
+          "sku": "FUN90635",
+          "description": "Jujustu Kaisen 0 - Yuta Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698906357"
+        },
+        {
+          "sku": "FUN95684",
+          "description": "KPop Demon Hunters - Derpy Pop! Keychain",
+          "quantity": 8,
+          "price": 7.25,
+          "exc_value": 55.1,
+          "barcode": "0889698956840"
+        },
+        {
+          "sku": "FUN88170",
+          "description": "Marvel Rivals - Luna Snow Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698881708"
+        },
+        {
+          "sku": "LOUSANTB1768",
+          "description": "Sanrio - Chococat Stars Tote Crossbody Bag with Coin Bag",
+          "quantity": 1,
+          "price": 82.4,
+          "exc_value": 78.28,
+          "barcode": "0671803583245"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517450": {
+      "invoice_no": "517450",
+      "store": "Warehouse AKL",
+      "store_code": "POPSWARSEA",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517450 - POPSWARSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "JAD98627",
+          "description": "Cars - 1:24 Mack 1985  Super-Liner w/Trailer Diecast Vehicle",
+          "quantity": 1,
+          "price": 60.6,
+          "exc_value": 57.57,
+          "barcode": "0801310986271"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "FUN86505",
+          "description": "Demon Slayer - Akaza Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865050"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 12,
+          "price": 10.3,
+          "exc_value": 117.42,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 12,
+          "price": 10.3,
+          "exc_value": 117.42,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 12,
+          "price": 10.3,
+          "exc_value": 117.42,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD35614",
+          "description": "Fast & Furious - 1:32 F10 Mclaren Senna Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310356142"
+        },
+        {
+          "sku": "JAD97188",
+          "description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971888"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 24,
+          "price": 18.15,
+          "exc_value": 413.82,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33380",
+          "description": "Fast & Furious 5 - 1:24 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0801310333808"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "JAD97214",
+          "description": "Fast & Furious 7 - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310972144"
+        },
+        {
+          "sku": "FUN91962",
+          "description": "FNaF - Glamrock Freddy Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698919623"
+        },
+        {
+          "sku": "JAD99731",
+          "description": "Ghostbusters (1984) - 1:24 Ecto-1 HR Diecast Vehicle",
+          "quantity": 4,
+          "price": 30.3,
+          "exc_value": 115.14,
+          "barcode": "0801310997314"
+        },
+        {
+          "sku": "FUN93273",
+          "description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698932738"
+        },
+        {
+          "sku": "FUN90413",
+          "description": "Hazbin Hotel - Alastor Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698904131"
+        },
+        {
+          "sku": "FUN93083",
+          "description": "Invincible (TV) - Conquest Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698930833"
+        },
+        {
+          "sku": "FUN90635",
+          "description": "Jujustu Kaisen 0 - Yuta Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698906357"
+        },
+        {
+          "sku": "FUN91976",
+          "description": "Jujutsu Kaisen 0 - Yuta w/Katana Pop! RS",
+          "quantity": 18,
+          "price": 15.15,
+          "exc_value": 259.07,
+          "barcode": "0889698919760"
+        },
+        {
+          "sku": "FUN95684",
+          "description": "KPop Demon Hunters - Derpy Pop! Keychain",
+          "quantity": 16,
+          "price": 7.25,
+          "exc_value": 110.2,
+          "barcode": "0889698956840"
+        },
+        {
+          "sku": "FUN58035",
+          "description": "My Hero Academia - Izuku Midoria w/Gloves Pop!",
+          "quantity": 12,
+          "price": 12.5,
+          "exc_value": 142.5,
+          "barcode": "0889698580359"
+        },
+        {
+          "sku": "LOUWDBK4148",
+          "description": "NBX - Nylon Full-Size Backpack",
+          "quantity": 1,
+          "price": 56.8,
+          "exc_value": 53.96,
+          "barcode": "0671803553866"
+        },
+        {
+          "sku": "LOUSANTB1768",
+          "description": "Sanrio - Chococat Stars Tote Crossbody Bag with Coin Bag",
+          "quantity": 1,
+          "price": 82.4,
+          "exc_value": 78.28,
+          "barcode": "0671803583245"
+        },
+        {
+          "sku": "FUN90386",
+          "description": "Scream - Ghostface MT Pop! VHS Cover",
+          "quantity": 18,
+          "price": 24.25,
+          "exc_value": 414.68,
+          "barcode": "0889698903868"
+        },
+        {
+          "sku": "FUN90385",
+          "description": "Scream - Ghostface w/Tongue Pop!",
+          "quantity": 48,
+          "price": 14.2,
+          "exc_value": 647.52,
+          "barcode": "0889698903851"
+        },
+        {
+          "sku": "MCF90421",
+          "description": "Spawn -\u00a01977 Spawn 7\" Figure w/Comic",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0787926904215"
+        },
+        {
+          "sku": "JAD33067",
+          "description": "SpongeBob - 1:32 1980 Chevy K5 Blazer Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.9,
+          "exc_value": 62.13,
+          "barcode": "0801310330678"
+        },
+        {
+          "sku": "FUN88653",
+          "description": "Stranger Things - Derek Turnbow Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698886536"
+        },
+        {
+          "sku": "FUN90801",
+          "description": "Supergirl (2026) - Supergirl w/Krypto Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698908016"
+        },
+        {
+          "sku": "JAD32250",
+          "description": "Supernatural - 1:24 1967 Chevy Impala Diecast Vehicle w/Dean",
+          "quantity": 10,
+          "price": 30.3,
+          "exc_value": 287.85,
+          "barcode": "0801310322505"
+        },
+        {
+          "sku": "FUN91695",
+          "description": "Supernatural - Castiel GW Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698916950"
+        },
+        {
+          "sku": "FUN90277",
+          "description": "Supernatural - Dean/Michael Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698902779"
+        },
+        {
+          "sku": "MON29796",
+          "description": "Toy Story - Woody Figural PVC Bank",
+          "quantity": 1,
+          "price": 27.25,
+          "exc_value": 25.89,
+          "barcode": "0077764297960"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "517451": {
+      "invoice_no": "517451",
+      "store": "Te Rapa",
+      "store_code": "POPSTOPTRSEA",
+      "recv_date": "2026-07-09",
+      "subject": "Email of Sales Invoice - 517451 - POPSTOPTRSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 07.07",
+      "items": [
+        {
+          "sku": "FUN90242",
+          "description": "Alien VS Predator - Wolf Predator Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698902427"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "JAD30541",
+          "description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310305416"
+        },
+        {
+          "sku": "FUN90143",
+          "description": "Daft Punk - Discovery Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "0889698901437"
+        },
+        {
+          "sku": "JAD36208",
+          "description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310362082"
+        },
+        {
+          "sku": "JAD99686",
+          "description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0801310996867"
+        },
+        {
+          "sku": "JAD97042",
+          "description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310970423"
+        },
+        {
+          "sku": "JAD99515",
+          "description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310995150"
+        },
+        {
+          "sku": "JAD34446",
+          "description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310344460"
+        },
+        {
+          "sku": "JAD97184",
+          "description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310971840"
+        },
+        {
+          "sku": "JAD97609",
+          "description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310976098"
+        },
+        {
+          "sku": "JAD35614",
+          "description": "Fast & Furious - 1:32 F10 Mclaren Senna Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310356142"
+        },
+        {
+          "sku": "JAD97188",
+          "description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310971888"
+        },
+        {
+          "sku": "JAD31980",
+          "description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "0801310319802"
+        },
+        {
+          "sku": "JAD33380",
+          "description": "Fast & Furious 5 - 1:24 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0801310333808"
+        },
+        {
+          "sku": "JAD33381",
+          "description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.3,
+          "exc_value": 58.71,
+          "barcode": "0801310333815"
+        },
+        {
+          "sku": "JAD97214",
+          "description": "Fast & Furious 7 - 1:32 1970 Dodge Charger Street Diecast Vehicle",
+          "quantity": 3,
+          "price": 10.3,
+          "exc_value": 29.36,
+          "barcode": "0801310972144"
+        },
+        {
+          "sku": "FUN91962",
+          "description": "FNaF - Glamrock Freddy Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698919623"
+        },
+        {
+          "sku": "JAD99731",
+          "description": "Ghostbusters (1984) - 1:24 Ecto-1 HR Diecast Vehicle",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310997314"
+        },
+        {
+          "sku": "FUN93273",
+          "description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698932738"
+        },
+        {
+          "sku": "FUN90635",
+          "description": "Jujustu Kaisen 0 - Yuta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698906357"
+        },
+        {
+          "sku": "FUN95684",
+          "description": "KPop Demon Hunters - Derpy Pop! Keychain",
+          "quantity": 12,
+          "price": 7.25,
+          "exc_value": 82.65,
+          "barcode": "0889698956840"
+        },
+        {
+          "sku": "FUN90385",
+          "description": "Scream - Ghostface w/Tongue Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903851"
+        },
+        {
+          "sku": "JAD32250",
+          "description": "Supernatural - 1:24 1967 Chevy Impala Diecast Vehicle w/Dean",
+          "quantity": 2,
+          "price": 30.3,
+          "exc_value": 57.57,
+          "barcode": "0801310322505"
+        },
+        {
+          "sku": "FUN91695",
+          "description": "Supernatural - Castiel GW Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698916950"
+        }
+      ],
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": "",
+      "source": "kelley_email"
+    },
+    "516605": {
+      "invoice_no": "516605",
+      "store": "Te Rapa",
+      "store_code": "POPSTOPTRSEA",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Te Rapa (516605) Sea freight booking request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN90341",
+          "description": "Adventure Time - Prince Bubblegum Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903417"
+        },
+        {
+          "sku": "HOTTMS137",
+          "description": "Arcane (TV) - Jinx 1:6 Figure",
+          "quantity": 1,
+          "price": 378.0,
+          "exc_value": 359.1,
+          "barcode": "4895228620279"
+        },
+        {
+          "sku": "HOTTMS138",
+          "description": "Arcane (TV) - Vi 1:6 Figure",
+          "quantity": 2,
+          "price": 394.0,
+          "exc_value": 748.6,
+          "barcode": "4895228620415"
+        },
+        {
+          "sku": "MCF18023",
+          "description": "Batman (comics) - Batman (Batman #1) 7\" Figure (Chase)",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0787926180237"
+        },
+        {
+          "sku": "MCF18024",
+          "description": "Batman (comics) - Batman (Dark Knight Return) 7\" Figure",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0787926180244"
+        },
+        {
+          "sku": "MCF18033",
+          "description": "Batman (comics) - Batman (New 52) 7\" Figure",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0787926180336"
+        },
+        {
+          "sku": "IKO2093",
+          "description": "Batman Begins - Scaled Batarang Replica with Stand",
+          "quantity": 1,
+          "price": 22.7,
+          "exc_value": 21.57,
+          "barcode": "9342246032102"
+        },
+        {
+          "sku": "MCF18011",
+          "description": "Batman Returns - Bat-Missile Vehicle",
+          "quantity": 1,
+          "price": 113.6,
+          "exc_value": 107.92,
+          "barcode": "0787926180114"
+        },
+        {
+          "sku": "MCF17941",
+          "description": "DC - Batman Cowl (Batman Beyond) 1:3 Prop Replica",
+          "quantity": 3,
+          "price": 22.7,
+          "exc_value": 64.7,
+          "barcode": "0787926179415"
+        },
+        {
+          "sku": "MCF17942",
+          "description": "DC - Red Hood Cowl (Batman: Three Jokers) 1:3 Prop Replica",
+          "quantity": 3,
+          "price": 22.7,
+          "exc_value": 64.7,
+          "barcode": "0787926179422"
+        },
+        {
+          "sku": "MCF17948",
+          "description": "DC Comics - Azrael Batman Cowl (Batman Knightfall) 1:3 Prop Replica (Chase)",
+          "quantity": 3,
+          "price": 22.7,
+          "exc_value": 64.7,
+          "barcode": "0787926179484"
+        },
+        {
+          "sku": "MCF14867",
+          "description": "Doctor Doom (comic) - Doctor Doom #1 (Future Foundation - Gold Label) 1:6 Figure",
+          "quantity": 1,
+          "price": 56.8,
+          "exc_value": 53.96,
+          "barcode": "0787926148671"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.9,
+          "exc_value": 62.13,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN90457",
+          "description": "Happy Gilmore - Happy Gilmore Pop! Deluxe",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698904575"
+        },
+        {
+          "sku": "MCF16206",
+          "description": "Helldivers 2 - B-01 Tactical 7\" Elite Edition Figure",
+          "quantity": 7,
+          "price": 56.8,
+          "exc_value": 377.72,
+          "barcode": "0787926162066"
+        },
+        {
+          "sku": "MCF16208",
+          "description": "Helldivers 2 - CE-35 Trench Enginer 7\" Elite Edition Figure",
+          "quantity": 7,
+          "price": 56.8,
+          "exc_value": 377.72,
+          "barcode": "0787926162080"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90390",
+          "description": "Jurassic Park - Compys Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698903905"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN86350",
+          "description": "Kane Brown - Kane Brown Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "0889698863506"
+        },
+        {
+          "sku": "FUN91907",
+          "description": "Lilo & Stitch - Stitch (Badness Level) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698919074"
+        },
+        {
+          "sku": "MCF11811",
+          "description": "Mortal Kombat - Johnny Cage7\" Classics Figure",
+          "quantity": 4,
+          "price": 28.4,
+          "exc_value": 107.92,
+          "barcode": "0787926118117"
+        },
+        {
+          "sku": "FUN86236",
+          "description": "Muppets - Fozzie Bear Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698862363"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "FUN55230",
+          "description": "Pokemon - Psyduck Pop! RS",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698552301"
+        },
+        {
+          "sku": "MCF13885",
+          "description": "Poppy Playtime - Blind Box Wave 1 ASST (12ct CDU)",
+          "quantity": 12,
+          "price": 11.35,
+          "exc_value": 129.39,
+          "barcode": "0787926138856"
+        },
+        {
+          "sku": "MCF90297",
+          "description": "Spawn - Classic Nightmare Spawn 7\" Figure",
+          "quantity": 2,
+          "price": 34.05,
+          "exc_value": 64.7,
+          "barcode": "0787926902976"
+        },
+        {
+          "sku": "MCF90298",
+          "description": "Spawn - Curse Of Spawn 7\" Figure",
+          "quantity": 2,
+          "price": 34.05,
+          "exc_value": 64.7,
+          "barcode": "0787926902983"
+        },
+        {
+          "sku": "MCF90296",
+          "description": "Spawn - Wing Of Redemption Spawn 7\" Figure",
+          "quantity": 2,
+          "price": 34.05,
+          "exc_value": 64.7,
+          "barcode": "0787926902969"
+        },
+        {
+          "sku": "FUN90364",
+          "description": "Spongebob - Man Ray Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903646"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN90366",
+          "description": "Spongebob - Spongebob on Mystery Pop! Ride",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698903660"
+        },
+        {
+          "sku": "FUN90365",
+          "description": "Spongebob - Squidward & Sea Bear Pop! 2PK",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698903653"
+        },
+        {
+          "sku": "HOTHS10",
+          "description": "Star Wars - Darth Vader (HONO Studios) 1:6 Figure",
+          "quantity": 1,
+          "price": 303.0,
+          "exc_value": 287.85,
+          "barcode": "4895228621467"
+        },
+        {
+          "sku": "HOTMMS751",
+          "description": "Star Wars - Kit Fisto 1:6 Figure",
+          "quantity": 1,
+          "price": 363.0,
+          "exc_value": 344.85,
+          "barcode": "4895228618207"
+        },
+        {
+          "sku": "FUN86644",
+          "description": "Superman (2025) - Mr Terrific Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698866446"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0849803037369"
+        },
+        {
+          "sku": "FAC408592",
+          "description": "ThunderCats - Sword Of Omens LARP Stunt Prop Replica",
+          "quantity": 1,
+          "price": 78.8,
+          "exc_value": 74.86,
+          "barcode": "5060224085929"
+        },
+        {
+          "sku": "MCF16709",
+          "description": "World of Warcraft - Lich King 7\" Elite Edition Figure",
+          "quantity": 6,
+          "price": 56.8,
+          "exc_value": 323.76,
+          "barcode": "0787926167092"
+        },
+        {
+          "sku": "F4FFYGOSL01",
+          "description": "Yu-Gi-Oh - Slifer the Sky Dragon 4.3\" FIGGYZ",
+          "quantity": 1,
+          "price": 12.1,
+          "exc_value": 11.5,
+          "barcode": "5061062271123"
+        }
+      ],
+      "tnl_job_no": "S00079734",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-14",
+      "edd": "2026-07-21",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
+    },
+    "516603": {
+      "invoice_no": "516603",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Riccarton (516603,516601,516604,516607) Sea freight Booking request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN90341",
+          "description": "Adventure Time - Prince Bubblegum Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903417"
+        },
+        {
+          "sku": "HOTTMS137",
+          "description": "Arcane (TV) - Jinx 1:6 Figure",
+          "quantity": 1,
+          "price": 378.0,
+          "exc_value": 359.1,
+          "barcode": "4895228620279"
+        },
+        {
+          "sku": "HOTTMS138",
+          "description": "Arcane (TV) - Vi 1:6 Figure",
+          "quantity": 1,
+          "price": 394.0,
+          "exc_value": 374.3,
+          "barcode": "4895228620415"
+        },
+        {
+          "sku": "FUN92469",
+          "description": "Batman (TV) - Batman w/Bomb Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698924696"
+        },
+        {
+          "sku": "FUN84448",
+          "description": "DC - Apollo Pride 2026 Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "0889698844482"
+        },
+        {
+          "sku": "FUN84449",
+          "description": "DC - Midnighter Pride 2026 Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "0889698844499"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "FUN87935",
+          "description": "Fantastic Four (2025) - Bitty SDCC 2025 EXC Pop! 4PK RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698879354"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.9,
+          "exc_value": 62.13,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "FUN88554",
+          "description": "Friday the 13th - Jason w/Axe Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698885546"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN90460",
+          "description": "Happy Gilmore - Hal L Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698904605"
+        },
+        {
+          "sku": "FUN90457",
+          "description": "Happy Gilmore - Happy Gilmore Pop! Deluxe",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698904575"
+        },
+        {
+          "sku": "FUN93567",
+          "description": "Hello Kitty - Sanrio Town Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935678"
+        },
+        {
+          "sku": "FUN20176",
+          "description": "It (2017) - Pennywise (with Boat) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698201766"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90390",
+          "description": "Jurassic Park - Compys Pop! Premium",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698903905"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN91907",
+          "description": "Lilo & Stitch - Stitch (Badness Level) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698919074"
+        },
+        {
+          "sku": "FUN53813",
+          "description": "My Hero Academia - Present Mic Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698538138"
+        },
+        {
+          "sku": "FUN66475",
+          "description": "Ouran High School - Haruhi in dress Pop! RS",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698664752"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "MCF13885",
+          "description": "Poppy Playtime - Blind Box Wave 1 ASST (12ct CDU)",
+          "quantity": 12,
+          "price": 11.35,
+          "exc_value": 129.39,
+          "barcode": "0787926138856"
+        },
+        {
+          "sku": "FUN93563",
+          "description": "Sonic - Sonic 2 Diorama Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935630"
+        },
+        {
+          "sku": "FUN90364",
+          "description": "Spongebob - Man Ray Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903646"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN90366",
+          "description": "Spongebob - Spongebob on Mystery Pop! Ride",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698903660"
+        },
+        {
+          "sku": "FUN90365",
+          "description": "Spongebob - Squidward & Sea Bear Pop! 2PK",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698903653"
+        },
+        {
+          "sku": "HOTMMS766",
+          "description": "Star Wars - Chewbacca w/Disassembled C-3PO 1:6 Figure",
+          "quantity": 1,
+          "price": 530.0,
+          "exc_value": 503.5,
+          "barcode": "4895228619594"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0849803037369"
+        },
+        {
+          "sku": "FUN75643",
+          "description": "The Boys - Frenchie Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698756433"
+        },
+        {
+          "sku": "MCF16709",
+          "description": "World of Warcraft - Lich King 7\" Elite Edition Figure",
+          "quantity": 1,
+          "price": 56.8,
+          "exc_value": 53.96,
+          "barcode": "0787926167092"
+        },
+        {
+          "sku": "FUN88323",
+          "description": "Zodiac - Sagittarius Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698883238"
+        }
+      ],
+      "tnl_job_no": "S00079732",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-22",
+      "edd": "2026-07-29",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": "ANL WAIKATO"
+    },
+    "516601": {
+      "invoice_no": "516601",
+      "store": "Dunedin",
+      "store_code": "POPSTOPDUNSEA",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Riccarton (516603,516601,516604,516607) Sea freight Booking request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN92471",
+          "description": "Batman (TV) - Batman Pop! VHS Cover",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698924719"
+        },
+        {
+          "sku": "MCF15706",
+          "description": "DC - Batmobeast 7\"  Vehicle",
+          "quantity": 1,
+          "price": 60.6,
+          "exc_value": 57.57,
+          "barcode": "787926157062"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.9,
+          "exc_value": 20.71,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN93567",
+          "description": "Hello Kitty - Sanrio Town Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935678"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "MCF13885",
+          "description": "Poppy Playtime - Blind Box Wave 1 ASST (12ct CDU)",
+          "quantity": 12,
+          "price": 11.35,
+          "exc_value": 129.39,
+          "barcode": "0787926138856"
+        },
+        {
+          "sku": "LOUSANTB1768",
+          "description": "Sanrio - Chococat Stars Tote Crossbody Bag with Coin Bag",
+          "quantity": 1,
+          "price": 82.4,
+          "exc_value": 78.28,
+          "barcode": "0671803583245"
+        },
+        {
+          "sku": "FUN93563",
+          "description": "Sonic - Sonic 2 Diorama Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935630"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0849803037369"
+        }
+      ],
+      "tnl_job_no": "S00079732",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-22",
+      "edd": "2026-07-29",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": "ANL WAIKATO"
+    },
+    "516604": {
+      "invoice_no": "516604",
+      "store": "Richmond",
+      "store_code": "POPSTOPRICHSEA",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Riccarton (516603,516601,516604,516607) Sea freight Booking request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.9,
+          "exc_value": 20.71,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "FUN84125",
+          "description": "Pop! Sayings - KISS: The Spaceman (Rock & Roll All Night) Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698841252"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0849803037369"
+        }
+      ],
+      "tnl_job_no": "S00079732",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-22",
+      "edd": "2026-07-29",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": "ANL WAIKATO"
+    },
+    "516607": {
+      "invoice_no": "516607",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Riccarton (516603,516601,516604,516607) Sea freight Booking request",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN90751",
+          "description": "Lilo & Stitch - Babifier Pop! RS LIMITED EDITION\u00a0\u00a0\u00a0_x000D_\nWAREHOUSE - PLEASE PACK CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 84,
+          "price": 24.25,
+          "exc_value": 1935.15,
+          "barcode": "0889698907514"
+        },
+        {
+          "sku": "FUN90752",
+          "description": "Marvel - Gold Venom Pop!\u00a0RS LIMITED EDITION_x000D_\nWAREHOUSE - PLEASE PACK CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 21,
+          "price": 24.25,
+          "exc_value": 483.79,
+          "barcode": "0889698907521"
+        },
+        {
+          "sku": "FUN90808",
+          "description": "Toy Story 5 - Atlas Pop! RS LIMITED EDITION_x000D_\nWAREHOUSE - PLEASE PACK CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 36,
+          "price": 24.25,
+          "exc_value": 829.35,
+          "barcode": "0889698908085"
+        }
+      ],
+      "tnl_job_no": "S00079732",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-22",
+      "edd": "2026-07-29",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": "ANL WAIKATO"
+    },
+    "516599": {
+      "invoice_no": "516599",
+      "store": "Papanui",
+      "store_code": "POPSHOPSEA",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Christchurch (516599) Sea freight Booking Request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "MCF18022",
+          "description": "Batman (comics) - Azrael Batman V2 (Batman Knightquest) 7\" Figure",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0787926180220"
+        },
+        {
+          "sku": "MCF18023",
+          "description": "Batman (comics) - Batman (Batman #1) 7\" Figure (Chase)",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0787926180237"
+        },
+        {
+          "sku": "MCF18024",
+          "description": "Batman (comics) - Batman (Dark Knight Return) 7\" Figure",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0787926180244"
+        },
+        {
+          "sku": "MCF18033",
+          "description": "Batman (comics) - Batman (New 52) 7\" Figure",
+          "quantity": 4,
+          "price": 28.4,
+          "exc_value": 107.92,
+          "barcode": "0787926180336"
+        },
+        {
+          "sku": "MCF18026",
+          "description": "Batman (comics) - Batman/Deadman (Knight Terror) 7\" Figure",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0787926180268"
+        },
+        {
+          "sku": "HOTMMS596",
+          "description": "Batman Begins - Batmobile 1:6 Scale",
+          "quantity": 1,
+          "price": 757.0,
+          "exc_value": 719.15,
+          "barcode": "4895228607690"
+        },
+        {
+          "sku": "MCF18011",
+          "description": "Batman Returns - Bat-Missile Vehicle",
+          "quantity": 1,
+          "price": 113.6,
+          "exc_value": 107.92,
+          "barcode": "0787926180114"
+        },
+        {
+          "sku": "MCF17883",
+          "description": "Batman: Animated - Detective Harvey Bullock 6\" Figure w/Build-a-Figure",
+          "quantity": 4,
+          "price": 34.05,
+          "exc_value": 129.39,
+          "barcode": "0787926178838"
+        },
+        {
+          "sku": "MCF17971",
+          "description": "Batman: Animated - Robin 6\" Figure w/Build-a-Figure",
+          "quantity": 4,
+          "price": 34.05,
+          "exc_value": 129.39,
+          "barcode": "787926179712"
+        },
+        {
+          "sku": "MCF17969",
+          "description": "Batman: Animated - Talia Al Ghul 6\" Figure w/Build-a-Figure",
+          "quantity": 4,
+          "price": 34.05,
+          "exc_value": 129.39,
+          "barcode": "0787926179699"
+        },
+        {
+          "sku": "MCF17884",
+          "description": "Batman: Animated - Ventriloquist & Scarface 6\" Figure w/Build-a-Figure",
+          "quantity": 4,
+          "price": 34.05,
+          "exc_value": 129.39,
+          "barcode": "0787926178845"
+        },
+        {
+          "sku": "HOTVGM78",
+          "description": "Batman: Arkham Knight - Nightwing 1:6 Figure",
+          "quantity": 1,
+          "price": 378.0,
+          "exc_value": 359.1,
+          "barcode": "4895228622686"
+        },
+        {
+          "sku": "MCF17941",
+          "description": "DC - Batman Cowl (Batman Beyond) 1:3 Prop Replica",
+          "quantity": 3,
+          "price": 22.7,
+          "exc_value": 64.7,
+          "barcode": "0787926179415"
+        },
+        {
+          "sku": "MCF17942",
+          "description": "DC - Red Hood Cowl (Batman: Three Jokers) 1:3 Prop Replica",
+          "quantity": 3,
+          "price": 22.7,
+          "exc_value": 64.7,
+          "barcode": "0787926179422"
+        },
+        {
+          "sku": "MCF17948",
+          "description": "DC Comics - Azrael Batman Cowl (Batman Knightfall) 1:3 Prop Replica (Chase)",
+          "quantity": 3,
+          "price": 22.7,
+          "exc_value": 64.7,
+          "barcode": "0787926179484"
+        },
+        {
+          "sku": "MCF17752",
+          "description": "DC Multiverse - Solomon Grundy Vs Green Lantern 7\" Figure w/Megafig 2PK",
+          "quantity": 1,
+          "price": 79.55,
+          "exc_value": 75.57,
+          "barcode": "0787926177527"
+        },
+        {
+          "sku": "MCF18041",
+          "description": "DC Multiverse - White Knight Batman 7\" Figure",
+          "quantity": 1,
+          "price": 17.0,
+          "exc_value": 16.15,
+          "barcode": "0787926180411"
+        },
+        {
+          "sku": "MCF14867",
+          "description": "Doctor Doom (comic) - Doctor Doom #1 (Future Foundation - Gold Label) 1:6 Figure",
+          "quantity": 2,
+          "price": 56.8,
+          "exc_value": 107.92,
+          "barcode": "0787926148671"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 2,
+          "price": 10.9,
+          "exc_value": 20.71,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "SUPBB-TOHO-11483",
+          "description": "Godzilla: Minus One - Godzilla Blind Box ASST 12ct CDU (Wave 08)",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0840418814840"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "MCF16206",
+          "description": "Helldivers 2 - B-01 Tactical 7\" Elite Edition Figure",
+          "quantity": 8,
+          "price": 56.8,
+          "exc_value": 431.68,
+          "barcode": "0787926162066"
+        },
+        {
+          "sku": "MCF16208",
+          "description": "Helldivers 2 - CE-35 Trench Enginer 7\" Elite Edition Figure",
+          "quantity": 8,
+          "price": 56.8,
+          "exc_value": 431.68,
+          "barcode": "0787926162080"
+        },
+        {
+          "sku": "FUN80487",
+          "description": "Iron Maiden - Cyborg Eddie Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698804875"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90390",
+          "description": "Jurassic Park - Compys Pop! Premium",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0889698903905"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN91907",
+          "description": "Lilo & Stitch - Stitch (Badness Level) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698919074"
+        },
+        {
+          "sku": "MCF11811",
+          "description": "Mortal Kombat - Johnny Cage7\" Classics Figure",
+          "quantity": 8,
+          "price": 28.4,
+          "exc_value": 215.84,
+          "barcode": "0787926118117"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "MCF13885",
+          "description": "Poppy Playtime - Blind Box Wave 1 ASST (12ct CDU)",
+          "quantity": 12,
+          "price": 11.35,
+          "exc_value": 129.39,
+          "barcode": "0787926138856"
+        },
+        {
+          "sku": "MCF18959",
+          "description": "Savage Dragon - The Dragon 7\" Elite Edition Figure",
+          "quantity": 3,
+          "price": 56.8,
+          "exc_value": 161.88,
+          "barcode": "0787926189599"
+        },
+        {
+          "sku": "F4FFSNMSH01",
+          "description": "Sonic - Shadow (Modern) 4.3\" FIGGYZ",
+          "quantity": 1,
+          "price": 12.1,
+          "exc_value": 11.5,
+          "barcode": "5061062270942"
+        },
+        {
+          "sku": "MCF90297",
+          "description": "Spawn - Classic Nightmare Spawn 7\" Figure",
+          "quantity": 6,
+          "price": 34.05,
+          "exc_value": 194.09,
+          "barcode": "0787926902976"
+        },
+        {
+          "sku": "MCF90298",
+          "description": "Spawn - Curse Of Spawn 7\" Figure",
+          "quantity": 6,
+          "price": 34.05,
+          "exc_value": 194.09,
+          "barcode": "0787926902983"
+        },
+        {
+          "sku": "MCF90296",
+          "description": "Spawn - Wing Of Redemption Spawn 7\" Figure",
+          "quantity": 6,
+          "price": 34.05,
+          "exc_value": 194.09,
+          "barcode": "0787926902969"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "TLSFD5SSLEM01",
+          "description": "Strawberry Shortcake - Lemon Meringue 5.5\" Fashion Doll",
+          "quantity": 1,
+          "price": 18.15,
+          "exc_value": 17.24,
+          "barcode": "0810122580874"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0849803037369"
+        },
+        {
+          "sku": "FUN75643",
+          "description": "The Boys - Frenchie Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698756433"
+        },
+        {
+          "sku": "SUPBB-TOHO-09931",
+          "description": "Toho - Monster Island Blind Box ASST 12ct CDU (Wave 07)",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0840049899322"
+        },
+        {
+          "sku": "MEZ25614",
+          "description": "Wednesday (TV) -  Wednesday Addams 18\" MDS Roto Plush",
+          "quantity": 1,
+          "price": 90.9,
+          "exc_value": 86.36,
+          "barcode": "0696198256147"
+        },
+        {
+          "sku": "MCF16709",
+          "description": "World of Warcraft - Lich King 7\" Elite Edition Figure",
+          "quantity": 6,
+          "price": 56.8,
+          "exc_value": 323.76,
+          "barcode": "0787926167092"
+        }
+      ],
+      "tnl_job_no": "S00079731",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-22",
+      "edd": "2026-07-29",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": "ANL WAIKATO"
+    },
+    "516606": {
+      "invoice_no": "516606",
+      "store": "Warehouse AKL",
+      "store_code": "POPSWARSEA",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Warehouse (516606,516602,516600 )Sea freight Booking Request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN79804",
+          "description": "AC/DC - Angus Young (Green) Pop!",
+          "quantity": 6,
+          "price": 12.5,
+          "exc_value": 71.25,
+          "barcode": "0889698798044"
+        },
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN90340",
+          "description": "Adventure Time - Marshall Lee Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903400"
+        },
+        {
+          "sku": "FUN90341",
+          "description": "Adventure Time - Prince Bubblegum Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903417"
+        },
+        {
+          "sku": "FUN80373",
+          "description": "Attack on Titan - Levi Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698803731"
+        },
+        {
+          "sku": "FUN76387",
+          "description": "Avatar TLA - Bitty Pop! ASST (32ct)",
+          "quantity": 320,
+          "price": 3.63,
+          "exc_value": 1103.52,
+          "barcode": "0889698763875"
+        },
+        {
+          "sku": "FUN92469",
+          "description": "Batman (TV) - Batman w/Bomb Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698924696"
+        },
+        {
+          "sku": "HOTMMS783",
+          "description": "Captain America 2 - Stealth S.T.R.I.K.E. Suit 2.0 1:6 Figure",
+          "quantity": 2,
+          "price": 378.0,
+          "exc_value": 718.2,
+          "barcode": "4895228620354"
+        },
+        {
+          "sku": "FUN92205",
+          "description": "D&D - Bitty Pop! & Dice Blind Bag ASST (12ct)",
+          "quantity": 48,
+          "price": 7.85,
+          "exc_value": 357.96,
+          "barcode": "0889698922043"
+        },
+        {
+          "sku": "FUN84448",
+          "description": "DC - Apollo Pride 2026 Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698844482"
+        },
+        {
+          "sku": "FUN84449",
+          "description": "DC - Midnighter Pride 2026 Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698844499"
+        },
+        {
+          "sku": "FUN87234",
+          "description": "Dragon Ball: GT - Vegeta Pop! RS",
+          "quantity": 18,
+          "price": 15.15,
+          "exc_value": 259.07,
+          "barcode": "0889698872348"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 10,
+          "price": 14.2,
+          "exc_value": 134.9,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN90458",
+          "description": "Happy Gilmore - Alligator Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698904582"
+        },
+        {
+          "sku": "FUN90459",
+          "description": "Happy Gilmore - Chubbs Peterson Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698904599"
+        },
+        {
+          "sku": "FUN90460",
+          "description": "Happy Gilmore - Hal L Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698904605"
+        },
+        {
+          "sku": "FUN90457",
+          "description": "Happy Gilmore - Happy Gilmore Pop! Deluxe",
+          "quantity": 4,
+          "price": 34.05,
+          "exc_value": 129.39,
+          "barcode": "0889698904575"
+        },
+        {
+          "sku": "FUN90461",
+          "description": "Happy Gilmore - Shooter McGavin Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698904612"
+        },
+        {
+          "sku": "FUN85725",
+          "description": "Hello Kitty - Bitty Pop! Blind Bag Assortment (32ct)",
+          "quantity": 320,
+          "price": 3.63,
+          "exc_value": 1103.52,
+          "barcode": "0889698857253"
+        },
+        {
+          "sku": "FUN93567",
+          "description": "Hello Kitty - Sanrio Town Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935678"
+        },
+        {
+          "sku": "FUN36355",
+          "description": "HtTYD 3 - Toothless Pop!",
+          "quantity": 46,
+          "price": 14.2,
+          "exc_value": 620.54,
+          "barcode": "0889698363556"
+        },
+        {
+          "sku": "FUN80487",
+          "description": "Iron Maiden - Cyborg Eddie Pop!",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698804875"
+        },
+        {
+          "sku": "FUN91976",
+          "description": "Jujutsu Kaisen 0 - Yuta w/Katana Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698919760"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN92955",
+          "description": "Jurassic Park - Mr DNA Bitty Pop! 4PK",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698929554"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN92953",
+          "description": "Jurassic Park - Triceratops Bitty Pop! 4PK",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698929530"
+        },
+        {
+          "sku": "FUN92954",
+          "description": "Jurassic Park - Velociraptor Bitty Pop! 4PK",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698929547"
+        },
+        {
+          "sku": "FUN89051",
+          "description": "Jurassic World - Bitty Pop! Eggs Blind Asst (24ct)",
+          "quantity": 240,
+          "price": 3.63,
+          "exc_value": 827.64,
+          "barcode": "0889698890519"
+        },
+        {
+          "sku": "FUN95808",
+          "description": "KPop Demon Hunters - Rumi (What It Sounds Like) Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698958080"
+        },
+        {
+          "sku": "FUN36370",
+          "description": "Lilo & Stitch - Stitch & Angel Pop! Keychain 2pk",
+          "quantity": 2,
+          "price": 14.5,
+          "exc_value": 27.55,
+          "barcode": "0889698363709"
+        },
+        {
+          "sku": "FUN91907",
+          "description": "Lilo & Stitch - Stitch (Badness Level) Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "0889698919074"
+        },
+        {
+          "sku": "FUN76399",
+          "description": "LotR - Bitty Pop! Blind Bag ASST (32ct)",
+          "quantity": 448,
+          "price": 3.63,
+          "exc_value": 1544.93,
+          "barcode": "0889698763998"
+        },
+        {
+          "sku": "FUN80832",
+          "description": "LotR - Mouth of Sauron Pop!",
+          "quantity": 6,
+          "price": 12.5,
+          "exc_value": 71.25,
+          "barcode": "0889698808323"
+        },
+        {
+          "sku": "FUN53813",
+          "description": "My Hero Academia - Present Mic Pop!",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698538138"
+        },
+        {
+          "sku": "FUN89581",
+          "description": "My Little Pony - Pinkie Pie Bitty Pop! 4PK",
+          "quantity": 10,
+          "price": 15.15,
+          "exc_value": 143.93,
+          "barcode": "0889698895811"
+        },
+        {
+          "sku": "FUN92501",
+          "description": "My Little Pony - Rainbow Dash Bitty Pop! 4PK",
+          "quantity": 10,
+          "price": 15.15,
+          "exc_value": 143.93,
+          "barcode": "0889698925013"
+        },
+        {
+          "sku": "FUN89580",
+          "description": "My Little Pony - Twilight Sparkle Bitty Pop! 4PK",
+          "quantity": 10,
+          "price": 15.15,
+          "exc_value": 143.93,
+          "barcode": "0889698895804"
+        },
+        {
+          "sku": "FUN86898",
+          "description": "One Piece - Bitty Pop! Blind Bag ASST (32ct)",
+          "quantity": 384,
+          "price": 3.63,
+          "exc_value": 1324.22,
+          "barcode": "0889698868983"
+        },
+        {
+          "sku": "FUN91991",
+          "description": "Peacemaker - Peacemaker Dopplegander on Motorbike Pop! Ride",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698919913"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "FUN91663",
+          "description": "Pokemon - Goomy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698916639"
+        },
+        {
+          "sku": "FUN55230",
+          "description": "Pokemon - Psyduck Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698552301"
+        },
+        {
+          "sku": "MCF13901",
+          "description": "Poppy Playtime - Huggy Wuggy Ruined 7\" Figure",
+          "quantity": 3,
+          "price": 34.05,
+          "exc_value": 97.04,
+          "barcode": "0787926139013"
+        },
+        {
+          "sku": "MCF13951",
+          "description": "Poppy Playtime - Huggy Wuggy Smile 12\" Coffin Figure",
+          "quantity": 2,
+          "price": 22.7,
+          "exc_value": 43.13,
+          "barcode": "0787926139518"
+        },
+        {
+          "sku": "MCF13902",
+          "description": "Poppy Playtime - Killy Willy 7\" Figure",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0787926139020"
+        },
+        {
+          "sku": "FUN89312",
+          "description": "Skibidi Toilet - Titan TV Man Pop! w/SFX",
+          "quantity": 6,
+          "price": 18.15,
+          "exc_value": 103.46,
+          "barcode": "0889698893121"
+        },
+        {
+          "sku": "FUN85719",
+          "description": "SpiderMan - Bitty Pop! Blind Bag Assortment (32ct)",
+          "quantity": 384,
+          "price": 3.63,
+          "exc_value": 1324.22,
+          "barcode": "0889698857192"
+        },
+        {
+          "sku": "FUN90364",
+          "description": "Spongebob - Man Ray Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903646"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN90366",
+          "description": "Spongebob - Spongebob on Mystery Pop! Ride",
+          "quantity": 3,
+          "price": 34.05,
+          "exc_value": 97.04,
+          "barcode": "0889698903660"
+        },
+        {
+          "sku": "FUN90365",
+          "description": "Spongebob - Squidward & Sea Bear Pop! 2PK",
+          "quantity": 4,
+          "price": 28.4,
+          "exc_value": 107.92,
+          "barcode": "0889698903653"
+        },
+        {
+          "sku": "FUN83674",
+          "description": "Star Wars - Bitty Pop! ASST 32ct CDU (Series 2)",
+          "quantity": 320,
+          "price": 3.63,
+          "exc_value": 1103.52,
+          "barcode": "0889698836746"
+        },
+        {
+          "sku": "FUN93561",
+          "description": "Star Wars - Death Star Bitty Pop! Playset",
+          "quantity": 1,
+          "price": 36.35,
+          "exc_value": 34.53,
+          "barcode": "0889698935616"
+        },
+        {
+          "sku": "HOTMMS820",
+          "description": "Star Wars - Saesee Tiin 1:6 Figure",
+          "quantity": 1,
+          "price": 356.0,
+          "exc_value": 338.2,
+          "barcode": "4895228622266"
+        },
+        {
+          "sku": "FUN90289",
+          "description": "Stranger Things - Vecna (S5) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698902892"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 51,
+          "price": 14.2,
+          "exc_value": 687.99,
+          "barcode": "0849803037369"
+        },
+        {
+          "sku": "HOTMMS795",
+          "description": "Terminator 2 - T-800 (2.0) 1:6 Figure",
+          "quantity": 3,
+          "price": 401.5,
+          "exc_value": 1144.28,
+          "barcode": "4895228621009"
+        },
+        {
+          "sku": "FUN90793",
+          "description": "The Amazing World of Gumball - Darwin Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698907934"
+        },
+        {
+          "sku": "FUN90794",
+          "description": "The Amazing World of Gumball - Gumball Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698907941"
+        },
+        {
+          "sku": "FUN75643",
+          "description": "The Boys - Frenchie Pop!",
+          "quantity": 12,
+          "price": 12.5,
+          "exc_value": 142.5,
+          "barcode": "0889698756433"
+        },
+        {
+          "sku": "DHC3014-203",
+          "description": "Tomb Raider - Lara Croft (Survivor Era) PVC Statue",
+          "quantity": 1,
+          "price": 103.0,
+          "exc_value": 97.85,
+          "barcode": "0761568011883"
+        },
+        {
+          "sku": "FUN88457",
+          "description": "WNBA: Fever - Caitlin Clark Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698884570"
+        },
+        {
+          "sku": "FUN92051",
+          "description": "WWE - John Cena w/Spinner Belt Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698920513"
+        },
+        {
+          "sku": "FUN91397",
+          "description": "X-Men - Bitty Pop! Blind Bag ASST (32ct)",
+          "quantity": 352,
+          "price": 3.63,
+          "exc_value": 1213.87,
+          "barcode": "0889698913973"
+        },
+        {
+          "sku": "FUN88323",
+          "description": "Zodiac - Sagittarius Pop!",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698883238"
+        }
+      ],
+      "tnl_job_no": "S00079733",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-14",
+      "edd": "2026-07-21",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
+    },
+    "516602": {
+      "invoice_no": "516602",
+      "store": "Queensgate",
+      "store_code": "POPSTOPQGS",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Warehouse (516606,516602,516600 )Sea freight Booking Request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN79804",
+          "description": "AC/DC - Angus Young (Green) Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698798044"
+        },
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN90341",
+          "description": "Adventure Time - Prince Bubblegum Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903417"
+        },
+        {
+          "sku": "FUN92469",
+          "description": "Batman (TV) - Batman w/Bomb Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698924696"
+        },
+        {
+          "sku": "MCF18041",
+          "description": "DC Multiverse - White Knight Batman 7\" Figure",
+          "quantity": 2,
+          "price": 17.0,
+          "exc_value": 32.3,
+          "barcode": "0787926180411"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "FUN87935",
+          "description": "Fantastic Four (2025) - Bitty SDCC 2025 EXC Pop! 4PK RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698879354"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.9,
+          "exc_value": 62.13,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "FUN88554",
+          "description": "Friday the 13th - Jason w/Axe Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698885546"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN90460",
+          "description": "Happy Gilmore - Hal L Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698904605"
+        },
+        {
+          "sku": "FUN90457",
+          "description": "Happy Gilmore - Happy Gilmore Pop! Deluxe",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698904575"
+        },
+        {
+          "sku": "FUN90461",
+          "description": "Happy Gilmore - Shooter McGavin Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698904612"
+        },
+        {
+          "sku": "FUN93567",
+          "description": "Hello Kitty - Sanrio Town Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935678"
+        },
+        {
+          "sku": "FUN20176",
+          "description": "It (2017) - Pennywise (with Boat) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698201766"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90390",
+          "description": "Jurassic Park - Compys Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698903905"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN91907",
+          "description": "Lilo & Stitch - Stitch (Badness Level) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698919074"
+        },
+        {
+          "sku": "FUN80832",
+          "description": "LotR - Mouth of Sauron Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698808323"
+        },
+        {
+          "sku": "FUN90519",
+          "description": "MLB: Cubs - Dansby Swanson Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "0889698905190"
+        },
+        {
+          "sku": "MCF14203",
+          "description": "Music Maniacs - Rob Halford (Judas Priest) 6\" Figure",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0787926142037"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "FUN55230",
+          "description": "Pokemon - Psyduck Pop! RS",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698552301"
+        },
+        {
+          "sku": "MCF13885",
+          "description": "Poppy Playtime - Blind Box Wave 1 ASST (12ct CDU)",
+          "quantity": 12,
+          "price": 11.35,
+          "exc_value": 129.39,
+          "barcode": "0787926138856"
+        },
+        {
+          "sku": "FUN93563",
+          "description": "Sonic - Sonic 2 Diorama Bitty Pop! Playset",
+          "quantity": 2,
+          "price": 36.35,
+          "exc_value": 69.07,
+          "barcode": "0889698935630"
+        },
+        {
+          "sku": "FUN86308",
+          "description": "South Park - Wendy Testaburger Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698863087"
+        },
+        {
+          "sku": "FUN90364",
+          "description": "Spongebob - Man Ray Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903646"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN90366",
+          "description": "Spongebob - Spongebob on Mystery Pop! Ride",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698903660"
+        },
+        {
+          "sku": "FUN90365",
+          "description": "Spongebob - Squidward & Sea Bear Pop! 2PK",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698903653"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0849803037369"
+        }
+      ],
+      "tnl_job_no": "S00079733",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-14",
+      "edd": "2026-07-21",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
+    },
+    "516600": {
+      "invoice_no": "516600",
+      "store": "Sylvia Park",
+      "store_code": "POPSTOPSF",
+      "recv_date": "2026-06-30",
+      "subject": "Popstop NZ - Warehouse (516606,516602,516600 )Sea freight Booking Request",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 26.06",
+      "items": [
+        {
+          "sku": "FUN92003",
+          "description": "Adventure Time - Cowboy BMO w/Guitar Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698920032"
+        },
+        {
+          "sku": "FUN90341",
+          "description": "Adventure Time - Prince Bubblegum Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903417"
+        },
+        {
+          "sku": "FUN92469",
+          "description": "Batman (TV) - Batman w/Bomb Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698924696"
+        },
+        {
+          "sku": "JAD36143",
+          "description": "Big Time Muscle - 1:24 Vaughn Gittin Jr 2024 Ford Mustang RTR Racing Diecast Vehicle",
+          "quantity": 1,
+          "price": 36.35,
+          "exc_value": 34.53,
+          "barcode": "0801310361436"
+        },
+        {
+          "sku": "FUN86799",
+          "description": "Fallout (TV) - Ghoul w/CX404 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698867993"
+        },
+        {
+          "sku": "JAD36955",
+          "description": "Fast & Furious - 1:32 Honda S2000 Diecast Vehicle",
+          "quantity": 6,
+          "price": 10.9,
+          "exc_value": 62.13,
+          "barcode": "801310369555"
+        },
+        {
+          "sku": "FUN88554",
+          "description": "Friday the 13th - Jason w/Axe Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698885546"
+        },
+        {
+          "sku": "FUN90145",
+          "description": "Green Day - Billie Joe (Basket Case) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698901451"
+        },
+        {
+          "sku": "FUN90146",
+          "description": "Green Day - Mike Dirnt (Basket Case) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698901468"
+        },
+        {
+          "sku": "FUN90147",
+          "description": "Green Day - Tre Cool (Basket Case) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698901475"
+        },
+        {
+          "sku": "FUN90460",
+          "description": "Happy Gilmore - Hal L Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698904605"
+        },
+        {
+          "sku": "FUN90457",
+          "description": "Happy Gilmore - Happy Gilmore Pop! Deluxe",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698904575"
+        },
+        {
+          "sku": "FUN20176",
+          "description": "It (2017) - Pennywise (with Boat) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698201766"
+        },
+        {
+          "sku": "FUN90388",
+          "description": "Jurassic Park - Alpha Raptor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903882"
+        },
+        {
+          "sku": "FUN90389",
+          "description": "Jurassic Park - Baby Stegosaurus Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903899"
+        },
+        {
+          "sku": "FUN90390",
+          "description": "Jurassic Park - Compys Pop! Premium",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698903905"
+        },
+        {
+          "sku": "FUN90391",
+          "description": "Jurassic Park - Tiger Raptor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903912"
+        },
+        {
+          "sku": "FUN50544",
+          "description": "Pokemon - Eevee Standing Pose Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698505444"
+        },
+        {
+          "sku": "FUN55230",
+          "description": "Pokemon - Psyduck Pop! RS",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698552301"
+        },
+        {
+          "sku": "MCF13885",
+          "description": "Poppy Playtime - Blind Box Wave 1 ASST (12ct CDU)",
+          "quantity": 12,
+          "price": 11.35,
+          "exc_value": 129.39,
+          "barcode": "0787926138856"
+        },
+        {
+          "sku": "FUN90364",
+          "description": "Spongebob - Man Ray Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903646"
+        },
+        {
+          "sku": "FUN90363",
+          "description": "Spongebob - Spongebob (Smug) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903639"
+        },
+        {
+          "sku": "FUN90366",
+          "description": "Spongebob - Spongebob on Mystery Pop! Ride",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "0889698903660"
+        },
+        {
+          "sku": "FUN90365",
+          "description": "Spongebob - Squidward & Sea Bear Pop! 2PK",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698903653"
+        },
+        {
+          "sku": "FUN3736",
+          "description": "Supernatural - Dean Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0849803037369"
+        },
+        {
+          "sku": "FAC408592",
+          "description": "ThunderCats - Sword Of Omens LARP Stunt Prop Replica",
+          "quantity": 1,
+          "price": 78.8,
+          "exc_value": 74.86,
+          "barcode": "5060224085929"
+        },
+        {
+          "sku": "DHC3014-203",
+          "description": "Tomb Raider - Lara Croft (Survivor Era) PVC Statue",
+          "quantity": 1,
+          "price": 103.0,
+          "exc_value": 97.85,
+          "barcode": "0761568011883"
+        },
+        {
+          "sku": "DHC3014-202",
+          "description": "Tomb Raider - Lara Croft PVC Statue",
+          "quantity": 1,
+          "price": 103.0,
+          "exc_value": 97.85,
+          "barcode": "0761568011876"
+        }
+      ],
+      "tnl_job_no": "S00079733",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-14",
+      "edd": "2026-07-21",
+      "actual_delivery": "",
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     }
   },
-  "last_updated": "2026-07-06T13:19:30.222048"
+  "last_updated": "2026-07-13T16:04:22.208192"
 }
