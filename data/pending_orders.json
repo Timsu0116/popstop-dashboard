@@ -1,787 +1,7 @@
 {
-  "generated_at": "2026-07-12T23:40:43.070994",
+  "generated_at": "2026-07-21T00:11:29.854880",
   "overdue_days_threshold": 7,
   "pending": [
-    {
-      "sku": "FUN58035",
-      "order_description": "My Hero Academia - Izuku Midoria w/Gloves Pop!",
-      "ordered_qty": 24,
-      "ordered_air": 0,
-      "ordered_sea": 24,
-      "invoiced_qty": 0,
-      "remaining_qty": 24,
-      "remaining_air": 0,
-      "remaining_sea": 24,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "MCF90421",
-      "order_description": "Spawn -\u00a01977 Spawn 7\" Figure w/Comic",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "LOUWDBK4148",
-      "order_description": "NBX - Nylon Full-Size Backpack",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "LOUSANTB1768",
-      "order_description": "Sanrio - Chococat Stars Tote Crossbody Bag with Coin Bag",
-      "ordered_qty": 2,
-      "ordered_air": 0,
-      "ordered_sea": 2,
-      "invoiced_qty": 0,
-      "remaining_qty": 2,
-      "remaining_air": 0,
-      "remaining_sea": 2,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN86736",
-      "order_description": "BTS - Jimin Bitty Pop! Stage",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN86741",
-      "order_description": "BTS - V Bitty Pop! Stage",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "BLO74835",
-      "order_description": "Minions - preCOOL Jelly Factory Bob the Fruit Keeper Figure",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD30541",
-      "order_description": "BttF 2 - 1:32 Delorean Hollywood Ride Diecast Vehicle",
-      "ordered_qty": 38,
-      "ordered_air": 0,
-      "ordered_sea": 38,
-      "invoiced_qty": 0,
-      "remaining_qty": 38,
-      "remaining_air": 0,
-      "remaining_sea": 38,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD98627",
-      "order_description": "Cars - 1:24 Mack 1985  Super-Liner w/Trailer Diecast Vehicle",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD36208",
-      "order_description": "Fast & Furious - 1:24 2006 Mitsubishi Lancer Evolution IX Diecast Vehicle",
-      "ordered_qty": 31,
-      "ordered_air": 0,
-      "ordered_sea": 31,
-      "invoiced_qty": 0,
-      "remaining_qty": 31,
-      "remaining_air": 0,
-      "remaining_sea": 31,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD99686",
-      "order_description": "Fast & Furious - 1:24 Nissan Skyline 2000 GT-R Diecast Vehicle",
-      "ordered_qty": 17,
-      "ordered_air": 0,
-      "ordered_sea": 17,
-      "invoiced_qty": 0,
-      "remaining_qty": 17,
-      "remaining_air": 0,
-      "remaining_sea": 17,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD97042",
-      "order_description": "Fast & Furious - 1:32 1970 Dodge Charger Street Diecast Vehicle",
-      "ordered_qty": 38,
-      "ordered_air": 0,
-      "ordered_sea": 38,
-      "invoiced_qty": 0,
-      "remaining_qty": 38,
-      "remaining_air": 0,
-      "remaining_sea": 38,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD99515",
-      "order_description": "Fast & Furious - 1:32 1995 Nissan Skyline GTR R33 Diecast Vehicle",
-      "ordered_qty": 44,
-      "ordered_air": 0,
-      "ordered_sea": 44,
-      "invoiced_qty": 0,
-      "remaining_qty": 44,
-      "remaining_air": 0,
-      "remaining_sea": 44,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD34446",
-      "order_description": "Fast & Furious - 1:32 2001 Nissan Silvia S15  BU&OR Diecast Vehicle",
-      "ordered_qty": 44,
-      "ordered_air": 0,
-      "ordered_sea": 44,
-      "invoiced_qty": 0,
-      "remaining_qty": 44,
-      "remaining_air": 0,
-      "remaining_sea": 44,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD97184",
-      "order_description": "Fast & Furious - 1:32 2002 Nissan Skyline GTR R34 SV Diecast Vehicle",
-      "ordered_qty": 45,
-      "ordered_air": 0,
-      "ordered_sea": 45,
-      "invoiced_qty": 0,
-      "remaining_qty": 45,
-      "remaining_air": 0,
-      "remaining_sea": 45,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD97609",
-      "order_description": "Fast & Furious - 1:32 95 Mitsubishi Eclipse Diecast Vehicle",
-      "ordered_qty": 38,
-      "ordered_air": 0,
-      "ordered_sea": 38,
-      "invoiced_qty": 0,
-      "remaining_qty": 38,
-      "remaining_air": 0,
-      "remaining_sea": 38,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD35614",
-      "order_description": "Fast & Furious - 1:32 F10 Mclaren Senna Diecast Vehicle",
-      "ordered_qty": 15,
-      "ordered_air": 0,
-      "ordered_sea": 15,
-      "invoiced_qty": 0,
-      "remaining_qty": 15,
-      "remaining_air": 0,
-      "remaining_sea": 15,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD97188",
-      "order_description": "Fast & Furious - 1:32 Ford Escort RS2000 MK1 Diecast Vehicle",
-      "ordered_qty": 17,
-      "ordered_air": 0,
-      "ordered_sea": 17,
-      "invoiced_qty": 0,
-      "remaining_qty": 17,
-      "remaining_air": 0,
-      "remaining_sea": 17,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD31980",
-      "order_description": "Fast & Furious - 1:32 Twin Pack Diecast Vehicle",
-      "ordered_qty": 44,
-      "ordered_air": 0,
-      "ordered_sea": 44,
-      "invoiced_qty": 0,
-      "remaining_qty": 44,
-      "remaining_air": 0,
-      "remaining_sea": 44,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD33380",
-      "order_description": "Fast & Furious 5 - 1:24 1995 Toyota Supra Diecast Vehicle",
-      "ordered_qty": 15,
-      "ordered_air": 0,
-      "ordered_sea": 15,
-      "invoiced_qty": 0,
-      "remaining_qty": 15,
-      "remaining_air": 0,
-      "remaining_sea": 15,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD33381",
-      "order_description": "Fast & Furious 5 - 1:32 1995 Toyota Supra Diecast Vehicle",
-      "ordered_qty": 38,
-      "ordered_air": 0,
-      "ordered_sea": 38,
-      "invoiced_qty": 0,
-      "remaining_qty": 38,
-      "remaining_air": 0,
-      "remaining_sea": 38,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD97214",
-      "order_description": "Fast & Furious 7 - 1:32 1970 Dodge Charger Street Diecast Vehicle",
-      "ordered_qty": 15,
-      "ordered_air": 0,
-      "ordered_sea": 15,
-      "invoiced_qty": 0,
-      "remaining_qty": 15,
-      "remaining_air": 0,
-      "remaining_sea": 15,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD99731",
-      "order_description": "Ghostbusters (1984) - 1:24 Ecto-1 HR Diecast Vehicle",
-      "ordered_qty": 12,
-      "ordered_air": 0,
-      "ordered_sea": 12,
-      "invoiced_qty": 0,
-      "remaining_qty": 12,
-      "remaining_air": 0,
-      "remaining_sea": 12,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD33067",
-      "order_description": "SpongeBob - 1:32 1980 Chevy K5 Blazer Diecast Vehicle",
-      "ordered_qty": 6,
-      "ordered_air": 0,
-      "ordered_sea": 6,
-      "invoiced_qty": 0,
-      "remaining_qty": 6,
-      "remaining_air": 0,
-      "remaining_sea": 6,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "JAD32250",
-      "order_description": "Supernatural - 1:24 1967 Chevy Impala Diecast Vehicle w/Dean",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "MON29796",
-      "order_description": "Toy Story - Woody Figural PVC Bank",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN95684",
-      "order_description": "KPop Demon Hunters - Derpy Pop! Keychain",
-      "ordered_qty": 72,
-      "ordered_air": 0,
-      "ordered_sea": 72,
-      "invoiced_qty": 0,
-      "remaining_qty": 72,
-      "remaining_air": 0,
-      "remaining_sea": 72,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90242",
-      "order_description": "Alien VS Predator - Wolf Predator Pop!",
-      "ordered_qty": 30,
-      "ordered_air": 0,
-      "ordered_sea": 30,
-      "invoiced_qty": 0,
-      "remaining_qty": 30,
-      "remaining_air": 0,
-      "remaining_sea": 30,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN80354",
-      "order_description": "Bleach: TYBW - Ichigo Pop!",
-      "ordered_qty": 36,
-      "ordered_air": 0,
-      "ordered_sea": 36,
-      "invoiced_qty": 0,
-      "remaining_qty": 36,
-      "remaining_air": 0,
-      "remaining_sea": 36,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90143",
-      "order_description": "Daft Punk - Discovery Pop! 2PK",
-      "ordered_qty": 36,
-      "ordered_air": 0,
-      "ordered_sea": 36,
-      "invoiced_qty": 0,
-      "remaining_qty": 36,
-      "remaining_air": 0,
-      "remaining_sea": 36,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN80848",
-      "order_description": "Deadpool - Deadpool on Bridge Pop! Deluxe",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN86505",
-      "order_description": "Demon Slayer - Akaza Pop!",
-      "ordered_qty": 12,
-      "ordered_air": 0,
-      "ordered_sea": 12,
-      "invoiced_qty": 0,
-      "remaining_qty": 12,
-      "remaining_air": 0,
-      "remaining_sea": 12,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN91962",
-      "order_description": "FNaF - Glamrock Freddy Pop! RS",
-      "ordered_qty": 24,
-      "ordered_air": 0,
-      "ordered_sea": 24,
-      "invoiced_qty": 0,
-      "remaining_qty": 24,
-      "remaining_air": 0,
-      "remaining_sea": 24,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN93273",
-      "order_description": "Godzilla: Minus 1 - Godzilla w/Heat Ray Pop! Premium",
-      "ordered_qty": 19,
-      "ordered_air": 0,
-      "ordered_sea": 19,
-      "invoiced_qty": 0,
-      "remaining_qty": 19,
-      "remaining_air": 0,
-      "remaining_sea": 19,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90413",
-      "order_description": "Hazbin Hotel - Alastor Pop!",
-      "ordered_qty": 24,
-      "ordered_air": 0,
-      "ordered_sea": 24,
-      "invoiced_qty": 0,
-      "remaining_qty": 24,
-      "remaining_air": 0,
-      "remaining_sea": 24,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN93083",
-      "order_description": "Invincible - Conquest Pop!",
-      "ordered_qty": 24,
-      "ordered_air": 0,
-      "ordered_sea": 24,
-      "invoiced_qty": 0,
-      "remaining_qty": 24,
-      "remaining_air": 0,
-      "remaining_sea": 24,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90635",
-      "order_description": "Jujustu Kaisen 0 - Yuta Pop!",
-      "ordered_qty": 37,
-      "ordered_air": 0,
-      "ordered_sea": 37,
-      "invoiced_qty": 0,
-      "remaining_qty": 37,
-      "remaining_air": 0,
-      "remaining_sea": 37,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN91976",
-      "order_description": "Jujutsu Kaisen 0 - Yuta w/Katana Pop! RS",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90813",
-      "order_description": "Mandalorian & Grogu (2026) - Grogu w/Polar Mouse Droid Pop! Moment",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN88170",
-      "order_description": "Marvel Rivals - Luna Snow Pop!",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN76059",
-      "order_description": "Percy Jackson & Olympians - Grover Pop!",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90386",
-      "order_description": "Scream - Ghostface MT Pop! VHS Cover",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90385",
-      "order_description": "Scream - Ghostface w/Tongue Pop!",
-      "ordered_qty": 72,
-      "ordered_air": 0,
-      "ordered_sea": 72,
-      "invoiced_qty": 0,
-      "remaining_qty": 72,
-      "remaining_air": 0,
-      "remaining_sea": 72,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN86304",
-      "order_description": "South Park - Butters Stotch Pop!",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN68386",
-      "order_description": "SpiderMan: NWH - Sandman B-A-S Pop! DLX RS",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN68388",
-      "order_description": "SpiderMan: NWH - SpiderMan 2 B-A-S Pop! DLX RS",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN68387",
-      "order_description": "SpiderMan: NWH - SpiderMan B-A-S Pop! DLX RS",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN88653",
-      "order_description": "Stranger Things - Derek Turnbow Pop! RS",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90801",
-      "order_description": "Supergirl (2026) - Supergirl w/Krypto Pop!",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN91695",
-      "order_description": "Supernatural - Castiel GW Pop! RS",
-      "ordered_qty": 24,
-      "ordered_air": 0,
-      "ordered_sea": 24,
-      "invoiced_qty": 0,
-      "remaining_qty": 24,
-      "remaining_air": 0,
-      "remaining_sea": 24,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "FUN90277",
-      "order_description": "Supernatural - Dean/Michael Pop!",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
-    {
-      "sku": "TTSMALG102",
-      "order_description": "Saw - Billy Puppet Prop w/Sound & Motion",
-      "ordered_qty": 1,
-      "ordered_air": 0,
-      "ordered_sea": 1,
-      "invoiced_qty": 0,
-      "remaining_qty": 1,
-      "remaining_air": 0,
-      "remaining_sea": 1,
-      "order_date": "2026-07-03",
-      "order_subject": "IKON WK26 WEEKLY ORDER",
-      "days_pending": 9,
-      "overdue": true
-    },
     {
       "sku": "FUN81948",
       "order_description": "Army of Darkness - Pop! Movie DVD Cover RS",
@@ -794,8 +14,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93391",
@@ -809,8 +29,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93229",
@@ -824,8 +44,8 @@
       "remaining_sea": 36,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93396",
@@ -839,8 +59,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93230",
@@ -854,8 +74,8 @@
       "remaining_sea": 37,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94144",
@@ -869,8 +89,8 @@
       "remaining_sea": 18,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94145",
@@ -884,8 +104,8 @@
       "remaining_sea": 18,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94146",
@@ -899,8 +119,8 @@
       "remaining_sea": 18,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94053",
@@ -914,8 +134,8 @@
       "remaining_sea": 108,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94116",
@@ -929,8 +149,8 @@
       "remaining_sea": 4,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94117",
@@ -944,8 +164,8 @@
       "remaining_sea": 72,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94077",
@@ -959,8 +179,8 @@
       "remaining_sea": 60,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94052",
@@ -974,8 +194,8 @@
       "remaining_sea": 36,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94074",
@@ -989,8 +209,8 @@
       "remaining_sea": 41,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94054",
@@ -1004,8 +224,8 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94051",
@@ -1019,8 +239,8 @@
       "remaining_sea": 36,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94102",
@@ -1034,8 +254,8 @@
       "remaining_sea": 114,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94055",
@@ -1049,8 +269,8 @@
       "remaining_sea": 60,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94056",
@@ -1064,8 +284,8 @@
       "remaining_sea": 114,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN88318",
@@ -1079,8 +299,8 @@
       "remaining_sea": 37,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN72445",
@@ -1094,38 +314,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
-    },
-    {
-      "sku": "FUN93274",
-      "order_description": "Cyberpunk: Edgerunners - David Pop!",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-10",
-      "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
-    },
-    {
-      "sku": "FUN93275",
-      "order_description": "Cyberpunk: Edgerunners - Lucy Pop!",
-      "ordered_qty": 18,
-      "ordered_air": 0,
-      "ordered_sea": 18,
-      "invoiced_qty": 0,
-      "remaining_qty": 18,
-      "remaining_air": 0,
-      "remaining_sea": 18,
-      "order_date": "2026-07-10",
-      "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93381",
@@ -1139,8 +329,8 @@
       "remaining_sea": 12,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93292",
@@ -1154,8 +344,8 @@
       "remaining_sea": 91,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93293",
@@ -1169,8 +359,8 @@
       "remaining_sea": 92,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93294",
@@ -1184,8 +374,8 @@
       "remaining_sea": 164,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93373",
@@ -1199,8 +389,8 @@
       "remaining_sea": 3,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN40567",
@@ -1214,8 +404,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "JAD36857",
@@ -1229,8 +419,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93999",
@@ -1244,8 +434,8 @@
       "remaining_sea": 90,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN95210",
@@ -1259,8 +449,8 @@
       "remaining_sea": 28,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN95209",
@@ -1274,8 +464,8 @@
       "remaining_sea": 28,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93382",
@@ -1289,8 +479,8 @@
       "remaining_sea": 15,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN95211",
@@ -1304,8 +494,8 @@
       "remaining_sea": 25,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94087",
@@ -1319,8 +509,8 @@
       "remaining_sea": 2,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN85321",
@@ -1334,8 +524,8 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN61357",
@@ -1349,8 +539,8 @@
       "remaining_sea": 96,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN85322",
@@ -1364,8 +554,8 @@
       "remaining_sea": 51,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94089",
@@ -1379,8 +569,8 @@
       "remaining_sea": 170,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93683",
@@ -1394,8 +584,8 @@
       "remaining_sea": 38,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93684",
@@ -1409,8 +599,8 @@
       "remaining_sea": 50,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN87078",
@@ -1424,8 +614,8 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN91685",
@@ -1439,8 +629,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN92268",
@@ -1454,8 +644,8 @@
       "remaining_sea": 29,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN92270",
@@ -1469,8 +659,8 @@
       "remaining_sea": 35,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN88565",
@@ -1484,8 +674,8 @@
       "remaining_sea": 84,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN58035",
@@ -1499,8 +689,8 @@
       "remaining_sea": 12,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN89867",
@@ -1514,8 +704,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN92982",
@@ -1529,8 +719,8 @@
       "remaining_sea": 109,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN66422",
@@ -1544,8 +734,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN90309",
@@ -1559,8 +749,8 @@
       "remaining_sea": 36,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN82165",
@@ -1574,8 +764,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN88331",
@@ -1589,8 +779,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN88332",
@@ -1604,8 +794,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN88334",
@@ -1619,8 +809,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN88333",
@@ -1634,8 +824,8 @@
       "remaining_sea": 6,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94111",
@@ -1649,8 +839,8 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "LOUSPAWA0006",
@@ -1664,8 +854,8 @@
       "remaining_sea": 2,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN92017",
@@ -1679,8 +869,8 @@
       "remaining_sea": 21,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN77982",
@@ -1694,8 +884,8 @@
       "remaining_sea": 21,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN75754",
@@ -1709,8 +899,8 @@
       "remaining_sea": 38,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN86616",
@@ -1724,8 +914,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94731",
@@ -1739,8 +929,8 @@
       "remaining_sea": 36,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN90274",
@@ -1754,8 +944,8 @@
       "remaining_sea": 8,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN94062",
@@ -1769,8 +959,8 @@
       "remaining_sea": 60,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN86252",
@@ -1784,8 +974,8 @@
       "remaining_sea": 34,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93016",
@@ -1799,8 +989,8 @@
       "remaining_sea": 9,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93017",
@@ -1814,8 +1004,8 @@
       "remaining_sea": 30,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN95827",
@@ -1829,8 +1019,8 @@
       "remaining_sea": 76,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93018",
@@ -1844,8 +1034,8 @@
       "remaining_sea": 32,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93019",
@@ -1859,8 +1049,8 @@
       "remaining_sea": 1,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93192",
@@ -1874,8 +1064,8 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93193",
@@ -1889,8 +1079,8 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93194",
@@ -1904,8 +1094,8 @@
       "remaining_sea": 45,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
-      "overdue": false
+      "days_pending": 10,
+      "overdue": true
     },
     {
       "sku": "FUN93195",
@@ -1919,7 +1109,772 @@
       "remaining_sea": 42,
       "order_date": "2026-07-10",
       "order_subject": "IKON WK27 WEEKLY ORDER",
-      "days_pending": 2,
+      "days_pending": 10,
+      "overdue": true
+    },
+    {
+      "sku": "DHC3008-750",
+      "order_description": "Cyberpunk 2077 - Judy Alvarez Figure",
+      "ordered_qty": 2,
+      "ordered_air": 0,
+      "ordered_sea": 2,
+      "invoiced_qty": 0,
+      "remaining_qty": 2,
+      "remaining_air": 0,
+      "remaining_sea": 2,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "MCF11229",
+      "order_description": "Warhammer 40K - Space Wolves Grey Hunter 7\" Figure",
+      "ordered_qty": 2,
+      "ordered_air": 0,
+      "ordered_sea": 2,
+      "invoiced_qty": 0,
+      "remaining_qty": 2,
+      "remaining_air": 0,
+      "remaining_sea": 2,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "ABYBAG410",
+      "order_description": "Naruto - Gama-chan Replica Coin Purse",
+      "ordered_qty": 3,
+      "ordered_air": 0,
+      "ordered_sea": 3,
+      "invoiced_qty": 0,
+      "remaining_qty": 3,
+      "remaining_air": 0,
+      "remaining_sea": 3,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "JAD98717",
+      "order_description": "Batman Forever - 1:32 Batmobile Diecast Vehicle",
+      "ordered_qty": 1,
+      "ordered_air": 0,
+      "ordered_sea": 1,
+      "invoiced_qty": 0,
+      "remaining_qty": 1,
+      "remaining_air": 0,
+      "remaining_sea": 1,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "JAD34918",
+      "order_description": "Fast & Furious X - 1:24 1970 Dodge Charger BK Diecast Vehicle",
+      "ordered_qty": 6,
+      "ordered_air": 0,
+      "ordered_sea": 6,
+      "invoiced_qty": 0,
+      "remaining_qty": 6,
+      "remaining_air": 0,
+      "remaining_sea": 6,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93783",
+      "order_description": "Alice in Wonderland (1951) - White Rabbit w/Horn Pop!",
+      "ordered_qty": 12,
+      "ordered_air": 0,
+      "ordered_sea": 12,
+      "invoiced_qty": 0,
+      "remaining_qty": 12,
+      "remaining_air": 0,
+      "remaining_sea": 12,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN80354",
+      "order_description": "Bleach: TYBW - Ichigo Pop!",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN83834",
+      "order_description": "Britney Spears - Stronger Pop!",
+      "ordered_qty": 1,
+      "ordered_air": 0,
+      "ordered_sea": 1,
+      "invoiced_qty": 0,
+      "remaining_qty": 1,
+      "remaining_air": 0,
+      "remaining_sea": 1,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN84413",
+      "order_description": "Chainsaw Man - Power w/Meowy Pop! RS",
+      "ordered_qty": 12,
+      "ordered_air": 0,
+      "ordered_sea": 12,
+      "invoiced_qty": 0,
+      "remaining_qty": 12,
+      "remaining_air": 0,
+      "remaining_sea": 12,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93295",
+      "order_description": "Dan Da Dan - Aira Pop!",
+      "ordered_qty": 42,
+      "ordered_air": 0,
+      "ordered_sea": 42,
+      "invoiced_qty": 0,
+      "remaining_qty": 42,
+      "remaining_air": 0,
+      "remaining_sea": 42,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93296",
+      "order_description": "Dan Da Dan - Jiji Pop!",
+      "ordered_qty": 72,
+      "ordered_air": 0,
+      "ordered_sea": 72,
+      "invoiced_qty": 0,
+      "remaining_qty": 72,
+      "remaining_air": 0,
+      "remaining_sea": 72,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93297",
+      "order_description": "Dan Da Dan - Kinta Pop!",
+      "ordered_qty": 30,
+      "ordered_air": 0,
+      "ordered_sea": 30,
+      "invoiced_qty": 0,
+      "remaining_qty": 30,
+      "remaining_air": 0,
+      "remaining_sea": 30,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN94118",
+      "order_description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+      "ordered_qty": 36,
+      "ordered_air": 0,
+      "ordered_sea": 36,
+      "invoiced_qty": 0,
+      "remaining_qty": 36,
+      "remaining_air": 0,
+      "remaining_sea": 36,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN49680",
+      "order_description": "Demon Slayer - Tanjiro w/Dragon GW TR Pop! RS",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN83868",
+      "order_description": "FNaF - Mangle 6\" Pop!",
+      "ordered_qty": 5,
+      "ordered_air": 0,
+      "ordered_sea": 5,
+      "invoiced_qty": 0,
+      "remaining_qty": 5,
+      "remaining_air": 0,
+      "remaining_sea": 5,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN83864",
+      "order_description": "FNaF - Withered Bonnie Pop!",
+      "ordered_qty": 36,
+      "ordered_air": 0,
+      "ordered_sea": 36,
+      "invoiced_qty": 0,
+      "remaining_qty": 36,
+      "remaining_air": 0,
+      "remaining_sea": 36,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN83867",
+      "order_description": "FNaF - Withered Freddy Pop!",
+      "ordered_qty": 43,
+      "ordered_air": 0,
+      "ordered_sea": 43,
+      "invoiced_qty": 0,
+      "remaining_qty": 43,
+      "remaining_air": 0,
+      "remaining_sea": 43,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN92721",
+      "order_description": "Football: England - Harry Kane Pop!",
+      "ordered_qty": 12,
+      "ordered_air": 0,
+      "ordered_sea": 12,
+      "invoiced_qty": 0,
+      "remaining_qty": 12,
+      "remaining_air": 0,
+      "remaining_sea": 12,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN92730",
+      "order_description": "Football: France - Kylian Mbappe Pop!",
+      "ordered_qty": 18,
+      "ordered_air": 0,
+      "ordered_sea": 18,
+      "invoiced_qty": 0,
+      "remaining_qty": 18,
+      "remaining_air": 0,
+      "remaining_sea": 18,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN92732",
+      "order_description": "Football: France - Ousmane Dembele Pop!",
+      "ordered_qty": 6,
+      "ordered_air": 0,
+      "ordered_sea": 6,
+      "invoiced_qty": 0,
+      "remaining_qty": 6,
+      "remaining_air": 0,
+      "remaining_sea": 6,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93383",
+      "order_description": "Harry Potter - Sorting Hat Pop! w/SFX",
+      "ordered_qty": 37,
+      "ordered_air": 0,
+      "ordered_sea": 37,
+      "invoiced_qty": 0,
+      "remaining_qty": 37,
+      "remaining_air": 0,
+      "remaining_sea": 37,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93394",
+      "order_description": "Icons - Frida Kahlo Pop!",
+      "ordered_qty": 1,
+      "ordered_air": 0,
+      "ordered_sea": 1,
+      "invoiced_qty": 0,
+      "remaining_qty": 1,
+      "remaining_air": 0,
+      "remaining_sea": 1,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN91957",
+      "order_description": "Jason Universe - Jason Voorhees in Water Pop! RS",
+      "ordered_qty": 12,
+      "ordered_air": 0,
+      "ordered_sea": 12,
+      "invoiced_qty": 0,
+      "remaining_qty": 12,
+      "remaining_air": 0,
+      "remaining_sea": 12,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN83572",
+      "order_description": "John Wick - John Wick S6 Pop!",
+      "ordered_qty": 96,
+      "ordered_air": 0,
+      "ordered_sea": 96,
+      "invoiced_qty": 0,
+      "remaining_qty": 96,
+      "remaining_air": 0,
+      "remaining_sea": 96,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN88460",
+      "order_description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+      "ordered_qty": 69,
+      "ordered_air": 0,
+      "ordered_sea": 69,
+      "invoiced_qty": 0,
+      "remaining_qty": 69,
+      "remaining_air": 0,
+      "remaining_sea": 69,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN91976",
+      "order_description": "Jujutsu Kaisen 0 - Yuta w/Katana Pop! RS",
+      "ordered_qty": 12,
+      "ordered_air": 0,
+      "ordered_sea": 12,
+      "invoiced_qty": 0,
+      "remaining_qty": 12,
+      "remaining_air": 0,
+      "remaining_sea": 12,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93217",
+      "order_description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93218",
+      "order_description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN90824",
+      "order_description": "Mandalorian & Grogu (2026) - The Mandalorian (Dual Wield) Pop!",
+      "ordered_qty": 12,
+      "ordered_air": 0,
+      "ordered_sea": 12,
+      "invoiced_qty": 0,
+      "remaining_qty": 12,
+      "remaining_air": 0,
+      "remaining_sea": 12,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN94092",
+      "order_description": "Minions 3 - Goomi Pop!",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN94091",
+      "order_description": "Minions 3 - James Pop!",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN94697",
+      "order_description": "MLS: Inter Miami - Lionel Messi (Pink Kit) Pop!",
+      "ordered_qty": 24,
+      "ordered_air": 0,
+      "ordered_sea": 24,
+      "invoiced_qty": 0,
+      "remaining_qty": 24,
+      "remaining_air": 0,
+      "remaining_sea": 24,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN88405",
+      "order_description": "Muppets - Waldorf and Statler Pop! 2PK",
+      "ordered_qty": 4,
+      "ordered_air": 0,
+      "ordered_sea": 4,
+      "invoiced_qty": 0,
+      "remaining_qty": 4,
+      "remaining_air": 0,
+      "remaining_sea": 4,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN77960",
+      "order_description": "My Hero Academia - Bakugo S12 Pop! RS",
+      "ordered_qty": 1,
+      "ordered_air": 0,
+      "ordered_sea": 1,
+      "invoiced_qty": 0,
+      "remaining_qty": 1,
+      "remaining_air": 0,
+      "remaining_sea": 1,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN90538",
+      "order_description": "NBA: Bulls - Michael Jordan (3 in a Row) Pop!",
+      "ordered_qty": 36,
+      "ordered_air": 0,
+      "ordered_sea": 36,
+      "invoiced_qty": 0,
+      "remaining_qty": 36,
+      "remaining_air": 0,
+      "remaining_sea": 36,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN90512",
+      "order_description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+      "ordered_qty": 21,
+      "ordered_air": 0,
+      "ordered_sea": 21,
+      "invoiced_qty": 0,
+      "remaining_qty": 21,
+      "remaining_air": 0,
+      "remaining_sea": 21,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN91818",
+      "order_description": "NBA: Spurs - Victor Wembanyama (Slam Dunk) Pop! RS",
+      "ordered_qty": 9,
+      "ordered_air": 0,
+      "ordered_sea": 9,
+      "invoiced_qty": 0,
+      "remaining_qty": 9,
+      "remaining_air": 0,
+      "remaining_sea": 9,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93667",
+      "order_description": "Neopets - Aisha Pop!",
+      "ordered_qty": 7,
+      "ordered_air": 0,
+      "ordered_sea": 7,
+      "invoiced_qty": 0,
+      "remaining_qty": 7,
+      "remaining_air": 0,
+      "remaining_sea": 7,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93668",
+      "order_description": "Neopets - Cybunny Pop!",
+      "ordered_qty": 7,
+      "ordered_air": 0,
+      "ordered_sea": 7,
+      "invoiced_qty": 0,
+      "remaining_qty": 7,
+      "remaining_air": 0,
+      "remaining_sea": 7,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93669",
+      "order_description": "Neopets - Kacheek Pop!",
+      "ordered_qty": 6,
+      "ordered_air": 0,
+      "ordered_sea": 6,
+      "invoiced_qty": 0,
+      "remaining_qty": 6,
+      "remaining_air": 0,
+      "remaining_sea": 6,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93670",
+      "order_description": "Neopets - Shoyru Pop!",
+      "ordered_qty": 6,
+      "ordered_air": 0,
+      "ordered_sea": 6,
+      "invoiced_qty": 0,
+      "remaining_qty": 6,
+      "remaining_air": 0,
+      "remaining_sea": 6,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN90566",
+      "order_description": "One Piece - Shanks Pop! Plus",
+      "ordered_qty": 37,
+      "ordered_air": 0,
+      "ordered_sea": 37,
+      "invoiced_qty": 0,
+      "remaining_qty": 37,
+      "remaining_air": 0,
+      "remaining_sea": 37,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN82221",
+      "order_description": "Peanuts - Snoopy w/Woodstock FL Pop! RS",
+      "ordered_qty": 18,
+      "ordered_air": 0,
+      "ordered_sea": 18,
+      "invoiced_qty": 0,
+      "remaining_qty": 18,
+      "remaining_air": 0,
+      "remaining_sea": 18,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN86691",
+      "order_description": "Phineas & Ferb - Agent P Pop!",
+      "ordered_qty": 35,
+      "ordered_air": 0,
+      "ordered_sea": 35,
+      "invoiced_qty": 0,
+      "remaining_qty": 35,
+      "remaining_air": 0,
+      "remaining_sea": 35,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93207",
+      "order_description": "Phineas & Ferb - Candace Pop!",
+      "ordered_qty": 38,
+      "ordered_air": 0,
+      "ordered_sea": 38,
+      "invoiced_qty": 0,
+      "remaining_qty": 38,
+      "remaining_air": 0,
+      "remaining_sea": 38,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93208",
+      "order_description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+      "ordered_qty": 47,
+      "ordered_air": 0,
+      "ordered_sea": 47,
+      "invoiced_qty": 0,
+      "remaining_qty": 47,
+      "remaining_air": 0,
+      "remaining_sea": 47,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93209",
+      "order_description": "Phineas & Ferb - Vanessa Pop!",
+      "ordered_qty": 15,
+      "ordered_air": 0,
+      "ordered_sea": 15,
+      "invoiced_qty": 0,
+      "remaining_qty": 15,
+      "remaining_air": 0,
+      "remaining_sea": 15,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN84435",
+      "order_description": "Shoresy - Shoresy (White Jersey) Pop! RS",
+      "ordered_qty": 6,
+      "ordered_air": 0,
+      "ordered_sea": 6,
+      "invoiced_qty": 1,
+      "remaining_qty": 5,
+      "remaining_air": 0,
+      "remaining_sea": 5,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN86406",
+      "order_description": "Simpsons - Homer Pop!",
+      "ordered_qty": 16,
+      "ordered_air": 0,
+      "ordered_sea": 16,
+      "invoiced_qty": 0,
+      "remaining_qty": 16,
+      "remaining_air": 0,
+      "remaining_sea": 16,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93106",
+      "order_description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+      "ordered_qty": 36,
+      "ordered_air": 0,
+      "ordered_sea": 36,
+      "invoiced_qty": 0,
+      "remaining_qty": 36,
+      "remaining_air": 0,
+      "remaining_sea": 36,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
+      "overdue": false
+    },
+    {
+      "sku": "FUN93631",
+      "order_description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+      "ordered_qty": 36,
+      "ordered_air": 0,
+      "ordered_sea": 36,
+      "invoiced_qty": 0,
+      "remaining_qty": 36,
+      "remaining_air": 0,
+      "remaining_sea": 36,
+      "order_date": "2026-07-16",
+      "order_subject": "Ikon Wk28 weekly order",
+      "days_pending": 4,
       "overdue": false
     }
   ]

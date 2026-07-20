@@ -11,6 +11,7 @@ OUTPUT_DIR = r"D:\PopStop_App\data"
 
 SALES_COMPANY_DIR  = os.path.join(BASE_INPUT, "Sales_Company")
 SALES_STORE_DIR    = os.path.join(BASE_INPUT, "Sales_Store")
+SOH_WEEKLY_DIR      = os.path.join(BASE_INPUT, "SOH_Weekly")
 DUSTY_COMPANY_DIR  = os.path.join(BASE_INPUT, "Dusty_Inventory_Company")
 DUSTY_STORE_DIR    = os.path.join(BASE_INPUT, "Dusty_Inventory_Store")
 PRODUCT_MASTER_DIR = os.path.join(BASE_INPUT, "Product_Master")
@@ -207,6 +208,66 @@ fact_store = fact_store[
 ]
 fact_store = fact_store[~fact_store["product"].fillna("").str.contains("NZ Post")]
 print(f"   Sales Store: {len(fact_store)} rows, {fact_store['week_key'].nunique()} weeks")
+
+# ============================================================
+# 3b. SOH Weekly (Stock On Hand snapshots — one file per week,
+#     one row per SKU per outlet, from the "All Inventory" /
+#     Product Variant export with Outlet breakdown)
+# ============================================================
+print("\n[SOH] Loading SOH Weekly...")
+
+soh_file_list = []
+for f in sorted(glob.glob(os.path.join(SOH_WEEKLY_DIR, "*.csv"))):
+    week_start = extract_week_start(os.path.basename(f))
+    if week_start is not None:
+        soh_file_list.append((week_start, f))
+soh_file_list.sort(key=lambda x: x[0])
+
+soh_dfs = []
+SOH_USECOLS = ["SKU Name","SKU","Brand","Supplier","Category","Outlet","Closing Inventory"]
+for week_start, f in soh_file_list:
+    # Only read the columns we actually use (skip Tag/Supplier Code/Revenue/etc.) —
+    # these free-text columns repeated across ~580K rows/week were the main memory cost.
+    header = pd.read_csv(f, nrows=0).columns
+    usecols = [c for c in SOH_USECOLS if c in header]
+    df = pd.read_csv(f, dtype=str, usecols=usecols)
+    df.rename(columns={
+        "SKU Name":"product","SKU":"sku_raw",
+        "Brand":"brand","Supplier":"supplier","Category":"category",
+        "Outlet":"outlet","Closing Inventory":"soh_snapshot",
+    }, inplace=True)
+    df["sku"]          = df["sku_raw"].apply(fix_sku)
+    df["soh_snapshot"] = pd.to_numeric(df["soh_snapshot"], errors="coerce")
+    # Drop zero-stock rows immediately — they're ~97% of rows (most SKUs are out of
+    # stock in most stores) and contribute nothing to any of our sums (0 + x = x),
+    # so dropping them here doesn't change any category/supplier total. This is what
+    # keeps 29 weeks × ~580K rows/week from ballooning into an 18M-row concat that
+    # runs out of memory.
+    df = df[df["soh_snapshot"].fillna(0) != 0]
+    df["week_start"] = week_start
+    # Reuse the SAME week numbering as Sales_Company, matched by week_start,
+    # so SOH weeks line up exactly with sales weeks (not renumbered independently).
+    df["week_key"] = week_start_to_key.get(week_start)
+    for c in ["brand","supplier","category","outlet","week_key"]:
+        df[c] = df[c].astype("category")  # memory-efficient for repeated string values
+    soh_dfs.append(df)
+
+if soh_dfs:
+    fact_soh = pd.concat(soh_dfs, ignore_index=True)
+    fact_soh = fact_soh[
+        fact_soh["sku"].notna() & (fact_soh["sku"] != "") &
+        fact_soh["week_key"].notna() & fact_soh["soh_snapshot"].notna()
+    ]
+    unmatched = sorted(set(ws for ws, _ in soh_file_list) - set(week_start_to_key.keys()))
+    if unmatched:
+        print(f"   ⚠️  {len(unmatched)} SOH week(s) had no matching Sales_Company week, skipped: {unmatched}")
+    print(f"   SOH Weekly: {len(fact_soh)} rows (zero-stock rows dropped), "
+          f"{fact_soh['week_key'].nunique()} weeks ({len(soh_file_list)} files found)")
+else:
+    fact_soh = pd.DataFrame(columns=[
+        "sku","product","brand","supplier","category",
+        "outlet","soh_snapshot","week_start","week_key"])
+    print("   ⚠️  No SOH Weekly files found in SOH_Weekly folder — skipping SOH history")
 
 # ============================================================
 # 4. Week Dimension
@@ -760,6 +821,64 @@ for s in store_names_rep:
     sdf = fs_2026_rep[fs_2026_rep["outlet"] == s]
     tag_stores[s] = build_pivot_with_pct(sdf, "main_tag", all_weeks)
 
+# ============================================================
+# SOH History & Category WOH Trend (from SOH Weekly snapshots)
+# ============================================================
+print("\n[SOH] Building SOH history & WOH trend reports...")
+
+def build_soh_pivot(df, group_col, weeks):
+    """Same shape as build_pivot_report's REV/GP tables, but for a single
+    snapshot metric (SOH) rather than a summed-per-week flow metric."""
+    pivot = df.groupby([group_col, "week_key"])["soh_snapshot"].sum().reset_index()
+    pivot = pivot.pivot(index=group_col, columns="week_key", values="soh_snapshot")
+    pivot = pivot.reindex(columns=weeks).fillna(0)
+    pivot.columns.name = None
+    return pivot.reset_index().sort_values(group_col)
+
+if len(fact_soh) > 0:
+    # Company-level SOH per SKU per week: sum across ALL outlets. Grouping
+    # only by sku (not brand/category, which have NaN gaps) avoids pandas
+    # silently dropping rows with a missing group key — same fix as the
+    # earlier Excel reconciliation issue.
+    soh_sku_week = fact_soh.groupby(["sku", "week_key"], as_index=False)["soh_snapshot"].sum()
+    sku_lookup   = fact_soh.drop_duplicates(subset="sku")[["sku", "category", "supplier", "brand"]]
+    soh_sku_week = soh_sku_week.merge(sku_lookup, on="sku", how="left")
+
+    soh_by_category_company = build_soh_pivot(soh_sku_week, "category", all_weeks)
+    soh_by_supplier_company = build_soh_pivot(soh_sku_week, "supplier", all_weeks)
+
+    # WOH by category, per week = that week's category SOH / that week's category
+    # units sold (so you can see whether cover is improving or worsening over time,
+    # not just the current snapshot).
+    sales_by_cat_week = fc_2026_rep.groupby(["category", "week_key"])["qty_sold"].sum().reset_index()
+    sales_pivot_cat = sales_by_cat_week.pivot(
+        index="category", columns="week_key", values="qty_sold"
+    ).reindex(columns=all_weeks).fillna(0)
+    soh_cat_indexed = soh_by_category_company.set_index("category")[all_weeks]
+    sales_cat_aligned = sales_pivot_cat.reindex(soh_cat_indexed.index).fillna(0)
+    woh_by_category_company = (soh_cat_indexed / sales_cat_aligned.replace(0, float("nan")))
+    woh_by_category_company = woh_by_category_company.fillna(99).round(1).reset_index()
+
+    # Store-level SOH by category, one pivot per store (mirrors cat_stores structure)
+    soh_stores_by_category = {}
+    for s in store_names_rep:
+        sdf = fact_soh[fact_soh["outlet"] == s]
+        if len(sdf) > 0:
+            soh_stores_by_category[s] = build_soh_pivot(sdf, "category", all_weeks)
+
+    soh_history = {
+        "weeks":                   [wk for wk in all_weeks if wk in fact_soh["week_key"].unique()],
+        "soh_by_category_company": soh_by_category_company,
+        "soh_by_supplier_company": soh_by_supplier_company,
+        "woh_by_category_company": woh_by_category_company,
+        "soh_stores_by_category":  soh_stores_by_category,
+    }
+    print(f"   SOH history: {soh_sku_week['week_key'].nunique()} weeks, "
+          f"{len(soh_by_category_company)} categories, {len(soh_by_supplier_company)} suppliers")
+else:
+    soh_history = {}
+    print("   Skipped — no SOH data loaded")
+
 # 保存
 weekly_data = {
     "weeks":               all_weeks,
@@ -773,6 +892,7 @@ weekly_data = {
     "tag_company":         tag_company,
     "tag_by_cat_company":  tag_by_cat_company,
     "tag_stores":          tag_stores,
+    "soh_history":         soh_history,
 }
 with open(os.path.join(OUTPUT_DIR, "weekly_reports.pkl"), "wb") as f:
     pickle.dump(weekly_data, f)
