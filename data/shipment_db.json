@@ -28192,10 +28192,10 @@
         }
       ],
       "tnl_job_no": "S00079668",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-07-03",
       "edd": "2026-07-10",
-      "actual_delivery": "",
+      "actual_delivery": "2026-07-09 09:08",
       "entry_ref": "89585640",
       "vessel": "ANL ROTORUA",
       "source": "kelley_email"
@@ -29142,10 +29142,10 @@
         }
       ],
       "tnl_job_no": "S00079667",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-07-03",
       "edd": "2026-07-10",
-      "actual_delivery": "",
+      "actual_delivery": "2026-07-13 13:19",
       "entry_ref": "72599960",
       "vessel": "ANL ROTORUA",
       "source": "kelley_email"
@@ -30292,10 +30292,10 @@
         }
       ],
       "tnl_job_no": "S00079667",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-07-03",
       "edd": "2026-07-10",
-      "actual_delivery": "",
+      "actual_delivery": "2026-07-13 13:19",
       "entry_ref": "72599960",
       "vessel": "ANL ROTORUA",
       "source": "kelley_email"
@@ -30583,10 +30583,10 @@
         }
       ],
       "tnl_job_no": "S00079667",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-07-03",
       "edd": "2026-07-10",
-      "actual_delivery": "",
+      "actual_delivery": "2026-07-13 13:19",
       "entry_ref": "72599960",
       "vessel": "ANL ROTORUA",
       "source": "kelley_email"
@@ -35043,7 +35043,7 @@
         }
       ],
       "tnl_job_no": "S00079804",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-21",
       "edd": "2026-07-28",
       "actual_delivery": "",
@@ -35649,7 +35649,7 @@
         }
       ],
       "tnl_job_no": "S00079805",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-21",
       "edd": "2026-07-28",
       "actual_delivery": "",
@@ -36570,7 +36570,7 @@
         }
       ],
       "tnl_job_no": "S00079807",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-21",
       "edd": "2026-07-28",
       "actual_delivery": "",
@@ -36941,7 +36941,7 @@
         }
       ],
       "tnl_job_no": "S00079806",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-21",
       "edd": "2026-07-28",
       "actual_delivery": "",
@@ -37127,12 +37127,14 @@
           "barcode": "0889698903851"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079913",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-31",
+      "edd": "2026-08-07",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517444": {
       "invoice_no": "517444",
@@ -37352,12 +37354,14 @@
           "barcode": "0889698916950"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079912",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-28",
+      "edd": "2026-08-04",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517445": {
       "invoice_no": "517445",
@@ -37537,12 +37541,14 @@
           "barcode": "0889698903851"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079913",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-31",
+      "edd": "2026-08-07",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517446": {
       "invoice_no": "517446",
@@ -37770,12 +37776,14 @@
           "barcode": "0889698916950"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079912",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-28",
+      "edd": "2026-08-04",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517447": {
       "invoice_no": "517447",
@@ -37987,12 +37995,14 @@
           "barcode": "0889698916950"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079913",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-31",
+      "edd": "2026-08-07",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517448": {
       "invoice_no": "517448",
@@ -38020,12 +38030,14 @@
           "barcode": "0889698936439"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079913",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-31",
+      "edd": "2026-08-07",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517449": {
       "invoice_no": "517449",
@@ -38165,12 +38177,14 @@
           "barcode": "0671803583245"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079913",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-31",
+      "edd": "2026-08-07",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517450": {
       "invoice_no": "517450",
@@ -38502,12 +38516,14 @@
           "barcode": "0077764297960"
         }
       ],
-      "tnl_job_no": "",
-      "tnl_status": "Pending",
-      "eta": "",
-      "edd": "",
+      "tnl_job_no": "S00079912",
+      "tnl_status": "In Transit",
+      "eta": "2026-07-28",
+      "edd": "2026-08-04",
       "actual_delivery": "",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "entry_ref": "",
+      "vessel": ""
     },
     "517451": {
       "invoice_no": "517451",
@@ -39105,13 +39121,13 @@
         }
       ],
       "tnl_job_no": "S00079734",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-14",
       "edd": "2026-07-21",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
-      "vessel": ""
+      "entry_ref": "82442396",
+      "vessel": "ANDROKLIS"
     },
     "516603": {
       "invoice_no": "516603",
@@ -39425,7 +39441,7 @@
       "edd": "2026-07-29",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
+      "entry_ref": "36094983",
       "vessel": "ANL WAIKATO"
     },
     "516601": {
@@ -39588,7 +39604,7 @@
       "edd": "2026-07-29",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
+      "entry_ref": "36094983",
       "vessel": "ANL WAIKATO"
     },
     "516604": {
@@ -39711,7 +39727,7 @@
       "edd": "2026-07-29",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
+      "entry_ref": "36094983",
       "vessel": "ANL WAIKATO"
     },
     "516607": {
@@ -39754,7 +39770,7 @@
       "edd": "2026-07-29",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
+      "entry_ref": "36094983",
       "vessel": "ANL WAIKATO"
     },
     "516599": {
@@ -40157,7 +40173,7 @@
       "edd": "2026-07-29",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
+      "entry_ref": "72067382",
       "vessel": "ANL WAIKATO"
     },
     "516606": {
@@ -40731,13 +40747,13 @@
         }
       ],
       "tnl_job_no": "S00079733",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-14",
       "edd": "2026-07-21",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
-      "vessel": ""
+      "entry_ref": "42548243",
+      "vessel": "ANDROKLIS"
     },
     "516602": {
       "invoice_no": "516602",
@@ -41030,13 +41046,13 @@
         }
       ],
       "tnl_job_no": "S00079733",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-14",
       "edd": "2026-07-21",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
-      "vessel": ""
+      "entry_ref": "42548243",
+      "vessel": "ANDROKLIS"
     },
     "516600": {
       "invoice_no": "516600",
@@ -41273,14 +41289,3543 @@
         }
       ],
       "tnl_job_no": "S00079733",
-      "tnl_status": "In Transit",
+      "tnl_status": "Arrived NZ",
       "eta": "2026-07-14",
       "edd": "2026-07-21",
       "actual_delivery": "",
       "source": "kelley_email",
-      "entry_ref": "",
-      "vessel": ""
+      "entry_ref": "42548243",
+      "vessel": "ANDROKLIS"
+    },
+    "518056": {
+      "invoice_no": "518056",
+      "store": "Papanui",
+      "store_code": "POPSHOPSEA",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518056 - POPSHOPSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN81948",
+          "description": "Army of Darkness - Pop! Movie DVD Cover RS",
+          "quantity": 1,
+          "price": 30.3,
+          "exc_value": 28.79,
+          "barcode": "0889698819480"
+        },
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94117",
+          "description": "Bluey - Bluey Mystery Minis ASST (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "0889698941174"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93381",
+          "description": "DC Comics - Harley Quinn (Mad Love) Pop! Comic Cover",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698933810"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN40567",
+          "description": "Game of Thrones - Night King Throne MT Pop! Dlx RS",
+          "quantity": 1,
+          "price": 31.25,
+          "exc_value": 29.69,
+          "barcode": "0889698405676"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN93382",
+          "description": "Harry Potter - Monster Book Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933827"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN89867",
+          "description": "Naruto - Ichiraku Ramen Bitty Pop! Town",
+          "quantity": 1,
+          "price": 12.1,
+          "exc_value": 11.5,
+          "barcode": "0889698898676"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "FUN77982",
+          "description": "Star Wars: Rebels - Ezra S3 Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698779821"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN90274",
+          "description": "Supernatural - Crowley (King of Hell) Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698902748"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN86252",
+          "description": "The Fly - Brundlefly Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698862523"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518057": {
+      "invoice_no": "518057",
+      "store": "Sylvia Park",
+      "store_code": "POPSTOPSF",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518057 - POPSTOPSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94144",
+          "description": "Beyblade X - Jaxon Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941440"
+        },
+        {
+          "sku": "FUN94145",
+          "description": "Beyblade X - Multi Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941457"
+        },
+        {
+          "sku": "FUN94146",
+          "description": "Beyblade X - Robin Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941464"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94116",
+          "description": "Bluey - Bluey 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698941167"
+        },
+        {
+          "sku": "FUN94117",
+          "description": "Bluey - Bluey Mystery Minis ASST (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "0889698941174"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 4,
+          "price": 28.4,
+          "exc_value": 107.92,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93381",
+          "description": "DC Comics - Harley Quinn (Mad Love) Pop! Comic Cover",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698933810"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN93373",
+          "description": "Family Guy - Stewie Griffin (Grumpy) Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "889698933735"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN93382",
+          "description": "Harry Potter - Monster Book Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933827"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN66422",
+          "description": "One Piece - Kaido as Dragon 10\" Pop! RS",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698664226"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "FUN92017",
+          "description": "Star Wars: Legends - Biggs Darklighter Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698920179"
+        },
+        {
+          "sku": "FUN77982",
+          "description": "Star Wars: Rebels - Ezra S3 Pop!",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698779821"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN90274",
+          "description": "Supernatural - Crowley (King of Hell) Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698902748"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN86252",
+          "description": "The Fly - Brundlefly Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698862523"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518058": {
+      "invoice_no": "518058",
+      "store": "Dunedin",
+      "store_code": "POPSTOPDUNSEA",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518058 - POPSTOPDUNSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94117",
+          "description": "Bluey - Bluey Mystery Minis ASST (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "0889698941174"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN72445",
+          "description": "Clerks 3 - Silent Bob Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698724456"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 8,
+          "price": 15.15,
+          "exc_value": 115.14,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN93016",
+          "description": "WWE - Demolition (Metallic) Pop! 2PK",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "889698930161"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518059": {
+      "invoice_no": "518059",
+      "store": "Queensgate",
+      "store_code": "POPSTOPQGS",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518059 - POPSTOPQGS from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94144",
+          "description": "Beyblade X - Jaxon Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941440"
+        },
+        {
+          "sku": "FUN94145",
+          "description": "Beyblade X - Multi Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941457"
+        },
+        {
+          "sku": "FUN94146",
+          "description": "Beyblade X - Robin Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941464"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94116",
+          "description": "Bluey - Bluey 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698941167"
+        },
+        {
+          "sku": "FUN94117",
+          "description": "Bluey - Bluey Mystery Minis ASST (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "0889698941174"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 4,
+          "price": 28.4,
+          "exc_value": 107.92,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93381",
+          "description": "DC Comics - Harley Quinn (Mad Love) Pop! Comic Cover",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698933810"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN93382",
+          "description": "Harry Potter - Monster Book Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933827"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN94087",
+          "description": "Hello Kitty - Kuromi 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "889698940870"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN66422",
+          "description": "One Piece - Kaido as Dragon 10\" Pop! RS",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698664226"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "FUN92017",
+          "description": "Star Wars: Legends - Biggs Darklighter Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698920179"
+        },
+        {
+          "sku": "FUN77982",
+          "description": "Star Wars: Rebels - Ezra S3 Pop!",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698779821"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN90274",
+          "description": "Supernatural - Crowley (King of Hell) Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698902748"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN86252",
+          "description": "The Fly - Brundlefly Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698862523"
+        },
+        {
+          "sku": "FUN93016",
+          "description": "WWE - Demolition (Metallic) Pop! 2PK",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "889698930161"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93019",
+          "description": "WWE - Tiffany Stratton (MITB) (Glitter) Pop!",
+          "quantity": 1,
+          "price": 15.15,
+          "exc_value": 14.39,
+          "barcode": "889698930192"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518060": {
+      "invoice_no": "518060",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518060 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN93455",
+          "description": "DC Comics - Arkham Knight Pop! Comic Cover LIMITED EDITION_x000D_\nWAREHOUSE - PLEASE PACK CAREFULLY IN ITS OWN BOX AND ZEBRA LABEL \"L.E STOCK\"",
+          "quantity": 36,
+          "price": 24.25,
+          "exc_value": 829.35,
+          "barcode": "0889698934558"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518061": {
+      "invoice_no": "518061",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518061 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94144",
+          "description": "Beyblade X - Jaxon Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941440"
+        },
+        {
+          "sku": "FUN94145",
+          "description": "Beyblade X - Multi Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941457"
+        },
+        {
+          "sku": "FUN94146",
+          "description": "Beyblade X - Robin Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698941464"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94116",
+          "description": "Bluey - Bluey 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698941167"
+        },
+        {
+          "sku": "FUN94117",
+          "description": "Bluey - Bluey Mystery Minis ASST (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "0889698941174"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 4,
+          "price": 28.4,
+          "exc_value": 107.92,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93381",
+          "description": "DC Comics - Harley Quinn (Mad Love) Pop! Comic Cover",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698933810"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 8,
+          "price": 15.15,
+          "exc_value": 115.14,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN93382",
+          "description": "Harry Potter - Monster Book Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933827"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 8,
+          "price": 14.2,
+          "exc_value": 107.92,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 9,
+          "price": 15.15,
+          "exc_value": 129.53,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN66422",
+          "description": "One Piece - Kaido as Dragon 10\" Pop! RS",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698664226"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN82165",
+          "description": "Robocop - Robocop MT Pop! RS",
+          "quantity": 1,
+          "price": 15.15,
+          "exc_value": 14.39,
+          "barcode": "0889698821650"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 6,
+          "price": 24.25,
+          "exc_value": 138.23,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "LOUSPAWA0006",
+          "description": "South Park - Towelie Large Card Holder",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0671803567269"
+        },
+        {
+          "sku": "FUN92017",
+          "description": "Star Wars: Legends - Biggs Darklighter Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698920179"
+        },
+        {
+          "sku": "FUN77982",
+          "description": "Star Wars: Rebels - Ezra S3 Pop!",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698779821"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN90274",
+          "description": "Supernatural - Crowley (King of Hell) Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698902748"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 8,
+          "price": 15.15,
+          "exc_value": 115.14,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN86252",
+          "description": "The Fly - Brundlefly Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698862523"
+        },
+        {
+          "sku": "FUN93016",
+          "description": "WWE - Demolition (Metallic) Pop! 2PK",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "889698930161"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 10,
+          "price": 14.2,
+          "exc_value": 134.9,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518062": {
+      "invoice_no": "518062",
+      "store": "Richmond",
+      "store_code": "POPSTOPRICHSEA",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518062 - POPSTOPRICHSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN86616",
+          "description": "Stranger Things - Steve Harrington Pop! Keychain",
+          "quantity": 1,
+          "price": 7.25,
+          "exc_value": 6.89,
+          "barcode": "0889698866163"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518063": {
+      "invoice_no": "518063",
+      "store": "Te Rapa",
+      "store_code": "POPSTOPTRSEA",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518063 - POPSTOPTRSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94117",
+          "description": "Bluey - Bluey Mystery Minis ASST (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "0889698941174"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 3,
+          "price": 28.4,
+          "exc_value": 80.94,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93381",
+          "description": "DC Comics - Harley Quinn (Mad Love) Pop! Comic Cover",
+          "quantity": 2,
+          "price": 24.25,
+          "exc_value": 46.08,
+          "barcode": "0889698933810"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "JAD36857",
+          "description": "GOAT - 5\" Will in Uniform Action Figure",
+          "quantity": 1,
+          "price": 12.1,
+          "exc_value": 11.5,
+          "barcode": "0801310368572"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN66422",
+          "description": "One Piece - Kaido as Dragon 10\" Pop! RS",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698664226"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "FUN92017",
+          "description": "Star Wars: Legends - Biggs Darklighter Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698920179"
+        },
+        {
+          "sku": "FUN77982",
+          "description": "Star Wars: Rebels - Ezra S3 Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698779821"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN90274",
+          "description": "Supernatural - Crowley (King of Hell) Pop! Premium",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0889698902748"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN86252",
+          "description": "The Fly - Brundlefly Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698862523"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518064": {
+      "invoice_no": "518064",
+      "store": "Warehouse AKL",
+      "store_code": "POPSWARSEA",
+      "recv_date": "2026-07-17",
+      "subject": "Email of Sales Invoice - 518064 - POPSWARSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 13.07",
+      "items": [
+        {
+          "sku": "FUN93391",
+          "description": "Barbie - Solo in the Spotlight GL Pop!",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698933919"
+        },
+        {
+          "sku": "FUN93229",
+          "description": "Batman Beyond (2000) - Batman & Ace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932295"
+        },
+        {
+          "sku": "FUN93396",
+          "description": "Batman Beyond (2000) - Dee Dee Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "889698933964"
+        },
+        {
+          "sku": "FUN93230",
+          "description": "Batman Beyond (2000) - Joker w/Gun Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932301"
+        },
+        {
+          "sku": "FUN94144",
+          "description": "Beyblade X - Jaxon Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698941440"
+        },
+        {
+          "sku": "FUN94145",
+          "description": "Beyblade X - Multi Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698941457"
+        },
+        {
+          "sku": "FUN94146",
+          "description": "Beyblade X - Robin Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698941464"
+        },
+        {
+          "sku": "FUN94053",
+          "description": "Bluey - Bandit with Unicorse Pop!",
+          "quantity": 54,
+          "price": 14.2,
+          "exc_value": 728.46,
+          "barcode": "0889698940535"
+        },
+        {
+          "sku": "FUN94116",
+          "description": "Bluey - Bluey 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "0889698941167"
+        },
+        {
+          "sku": "FUN94077",
+          "description": "Bluey - Granny Gladys Flocked Pop! RS",
+          "quantity": 24,
+          "price": 14.2,
+          "exc_value": 323.76,
+          "barcode": "0889698940771"
+        },
+        {
+          "sku": "FUN94052",
+          "description": "Bluey - Granny Gladys Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940528"
+        },
+        {
+          "sku": "FUN94074",
+          "description": "Bluey - Granny Janet & Granny Rita Pop! 2PK RS",
+          "quantity": 18,
+          "price": 28.4,
+          "exc_value": 485.64,
+          "barcode": "0889698940740"
+        },
+        {
+          "sku": "FUN94054",
+          "description": "Bluey - Granny Janet Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698940542"
+        },
+        {
+          "sku": "FUN94051",
+          "description": "Bluey - Granny Rita Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698940511"
+        },
+        {
+          "sku": "FUN94102",
+          "description": "Bluey - Muffin Flamingo Queen Pop! RS",
+          "quantity": 54,
+          "price": 14.2,
+          "exc_value": 728.46,
+          "barcode": "0889698941020"
+        },
+        {
+          "sku": "FUN94055",
+          "description": "Bluey - Queen Chilli Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698940559"
+        },
+        {
+          "sku": "FUN94056",
+          "description": "Bluey - Sleepytime Bingo with Floppy Bunny Pop! RS",
+          "quantity": 54,
+          "price": 14.2,
+          "exc_value": 728.46,
+          "barcode": "0889698940566"
+        },
+        {
+          "sku": "FUN88318",
+          "description": "Chainsaw Man - Denji Reading Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698883184"
+        },
+        {
+          "sku": "FUN93274",
+          "description": "Cyberpunk: Edgerunners - David Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698932745"
+        },
+        {
+          "sku": "FUN93275",
+          "description": "Cyberpunk: Edgerunners - Lucy Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698932752"
+        },
+        {
+          "sku": "FUN93381",
+          "description": "DC Comics - Harley Quinn (Mad Love) Pop! Comic Cover",
+          "quantity": 4,
+          "price": 24.25,
+          "exc_value": 92.15,
+          "barcode": "0889698933810"
+        },
+        {
+          "sku": "FUN93292",
+          "description": "Death Note - Light Yagami Pop!",
+          "quantity": 30,
+          "price": 14.2,
+          "exc_value": 404.7,
+          "barcode": "889698932929"
+        },
+        {
+          "sku": "FUN93293",
+          "description": "Death Note - Misa Amane Pop!",
+          "quantity": 30,
+          "price": 14.2,
+          "exc_value": 404.7,
+          "barcode": "889698932936"
+        },
+        {
+          "sku": "FUN93294",
+          "description": "Death Note - Ryuk Pop!",
+          "quantity": 96,
+          "price": 14.2,
+          "exc_value": 1295.04,
+          "barcode": "889698932943"
+        },
+        {
+          "sku": "FUN93373",
+          "description": "Family Guy - Stewie Griffin (Grumpy) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698933735"
+        },
+        {
+          "sku": "FUN93999",
+          "description": "God of War - Kratos w/Blades Pop! RS",
+          "quantity": 42,
+          "price": 15.15,
+          "exc_value": 604.49,
+          "barcode": "0889698939997"
+        },
+        {
+          "sku": "FUN95210",
+          "description": "Harry Potter - Dumbledore w/Patronus Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698952101"
+        },
+        {
+          "sku": "FUN95209",
+          "description": "Harry Potter - Harry Potter w/Patronus Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698952095"
+        },
+        {
+          "sku": "FUN93382",
+          "description": "Harry Potter - Monster Book Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933827"
+        },
+        {
+          "sku": "FUN95211",
+          "description": "Harry Potter - Severus Snape w/Patronus Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698952118"
+        },
+        {
+          "sku": "FUN94087",
+          "description": "Hello Kitty - Kuromi 10\" Pop!",
+          "quantity": 1,
+          "price": 48.5,
+          "exc_value": 46.08,
+          "barcode": "889698940870"
+        },
+        {
+          "sku": "FUN85321",
+          "description": "Jujutsu Kaisen - Choso Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698853217"
+        },
+        {
+          "sku": "FUN61357",
+          "description": "Jujutsu Kaisen - Gojo Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698613576"
+        },
+        {
+          "sku": "FUN85322",
+          "description": "Jujutsu Kaisen - Ryomen Sukuna (Fire Arrow) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698853224"
+        },
+        {
+          "sku": "FUN94089",
+          "description": "Jujutsu Kaisen - Satoru Gojo (w/Glasses) Pop! RS",
+          "quantity": 96,
+          "price": 15.15,
+          "exc_value": 1381.68,
+          "barcode": "0889698940894"
+        },
+        {
+          "sku": "FUN93683",
+          "description": "Metal Gear Solid - Liquid Snake Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936835"
+        },
+        {
+          "sku": "FUN93684",
+          "description": "Metal Gear Solid - Solid Snake Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698936842"
+        },
+        {
+          "sku": "FUN87078",
+          "description": "Metallica - Robert (72 Seasons) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698870788"
+        },
+        {
+          "sku": "FUN91685",
+          "description": "MLB: Dodgers - Shohei Ohtani (New Pose) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698916851"
+        },
+        {
+          "sku": "FUN92268",
+          "description": "Mob Psycho 100 - Arataka Reigen Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698922685"
+        },
+        {
+          "sku": "FUN92270",
+          "description": "Mob Psycho 100 - Mob w/Aura GW Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698922708"
+        },
+        {
+          "sku": "FUN88565",
+          "description": "Monsters, Inc. - Randall w/Boo Pop! RS",
+          "quantity": 24,
+          "price": 15.15,
+          "exc_value": 345.42,
+          "barcode": "889698885652"
+        },
+        {
+          "sku": "FUN58035",
+          "description": "My Hero Academia - Izuku Midoria w/Gloves Pop!",
+          "quantity": 12,
+          "price": 12.5,
+          "exc_value": 142.5,
+          "barcode": "0889698580359"
+        },
+        {
+          "sku": "FUN92982",
+          "description": "NBA: Bulls - Michael Jordan (Shrug) Pop!",
+          "quantity": 48,
+          "price": 14.2,
+          "exc_value": 647.52,
+          "barcode": "889698929820"
+        },
+        {
+          "sku": "FUN66422",
+          "description": "One Piece - Kaido as Dragon 10\" Pop! RS",
+          "quantity": 2,
+          "price": 48.5,
+          "exc_value": 92.15,
+          "barcode": "0889698664226"
+        },
+        {
+          "sku": "FUN90309",
+          "description": "Pride & Prejudice - Mr. Darcy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698903097"
+        },
+        {
+          "sku": "FUN88331",
+          "description": "Skeleton Summer - Bike Rider Skully Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698883313"
+        },
+        {
+          "sku": "FUN88332",
+          "description": "Skeleton Summer - Skater Skully Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698883320"
+        },
+        {
+          "sku": "FUN88334",
+          "description": "Skeleton Summer - Surfer Skully Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698883344"
+        },
+        {
+          "sku": "FUN88333",
+          "description": "Skeleton Summer - Swimmer Skully Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698883337"
+        },
+        {
+          "sku": "FUN94111",
+          "description": "Sonic - Shadow on Dark Rider Pop! Ride RS",
+          "quantity": 12,
+          "price": 24.25,
+          "exc_value": 276.45,
+          "barcode": "0889698941112"
+        },
+        {
+          "sku": "LOUSPAWA0006",
+          "description": "South Park - Towelie Large Card Holder",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "0671803567269"
+        },
+        {
+          "sku": "FUN92017",
+          "description": "Star Wars: Legends - Biggs Darklighter Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698920179"
+        },
+        {
+          "sku": "FUN77982",
+          "description": "Star Wars: Rebels - Ezra S3 Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698779821"
+        },
+        {
+          "sku": "FUN75754",
+          "description": "Stranger Things - Jim Hopper Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698757546"
+        },
+        {
+          "sku": "FUN94731",
+          "description": "Stranger Things: Tales from '85 (2026) - Snowshark Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698947312"
+        },
+        {
+          "sku": "FUN90274",
+          "description": "Supernatural - Crowley (King of Hell) Pop! Premium",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0889698902748"
+        },
+        {
+          "sku": "FUN94062",
+          "description": "Terrifier - Art w/Decapitated Head (Blacklight) Pop! RS",
+          "quantity": 18,
+          "price": 15.15,
+          "exc_value": 259.07,
+          "barcode": "889698940627"
+        },
+        {
+          "sku": "FUN86252",
+          "description": "The Fly - Brundlefly Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698862523"
+        },
+        {
+          "sku": "FUN93016",
+          "description": "WWE - Demolition (Metallic) Pop! 2PK",
+          "quantity": 6,
+          "price": 28.4,
+          "exc_value": 161.88,
+          "barcode": "889698930161"
+        },
+        {
+          "sku": "FUN93017",
+          "description": "WWE - Hacksaw Jim Duggan Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698930178"
+        },
+        {
+          "sku": "FUN95827",
+          "description": "WWE - John Cena (Final Match) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698958271"
+        },
+        {
+          "sku": "FUN93018",
+          "description": "WWE - Penta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698930185"
+        },
+        {
+          "sku": "FUN93192",
+          "description": "Zodiac - Cancer Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698931922"
+        },
+        {
+          "sku": "FUN93193",
+          "description": "Zodiac - Leo Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698931939"
+        },
+        {
+          "sku": "FUN93194",
+          "description": "Zodiac - Libra Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698931946"
+        },
+        {
+          "sku": "FUN93195",
+          "description": "Zodiac - Virgo Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698931953"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
     }
   },
-  "last_updated": "2026-07-13T16:04:22.208192"
+  "last_updated": "2026-07-21T10:57:56.684750"
 }
