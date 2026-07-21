@@ -44825,7 +44825,3374 @@
       "eta": "",
       "edd": "",
       "actual_delivery": ""
+    },
+    "518164": {
+      "invoice_no": "518164",
+      "store": "Papanui",
+      "store_code": "POPSHOPSEA",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518164 - POPSHOPSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "DHC3008-750",
+          "description": "Cyberpunk 2077 - Judy Alvarez Figure",
+          "quantity": 2,
+          "price": 60.6,
+          "exc_value": 115.14,
+          "barcode": "761568009521"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "JAD34918",
+          "description": "Fast & Furious X - 1:24 1970 Dodge Charger BK Diecast Vehicle",
+          "quantity": 3,
+          "price": 24.25,
+          "exc_value": 69.11,
+          "barcode": "0801310349182"
+        },
+        {
+          "sku": "FUN83868",
+          "description": "FNaF - Mangle 6\" Pop!",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "889698838689"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 4,
+          "price": 18.15,
+          "exc_value": 68.97,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN93394",
+          "description": "Icons - Frida Kahlo Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "0889698933940"
+        },
+        {
+          "sku": "FUN91957",
+          "description": "Jason Universe - Jason Voorhees in Water Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698919579"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "FUN93667",
+          "description": "Neopets - Aisha Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "889698936675"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 2,
+          "price": 34.05,
+          "exc_value": 64.7,
+          "barcode": "810181532234"
+        },
+        {
+          "sku": "MCF11229",
+          "description": "Warhammer 40K - Space Wolves Grey Hunter 7\" Figure",
+          "quantity": 2,
+          "price": 34.05,
+          "exc_value": 64.7,
+          "barcode": "0787926112290"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518166": {
+      "invoice_no": "518166",
+      "store": "Sylvia Park",
+      "store_code": "POPSTOPSF",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518166 - POPSTOPSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "FUN93783",
+          "description": "Alice in Wonderland (1951) - White Rabbit w/Horn Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698937832"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN93297",
+          "description": "Dan Da Dan - Kinta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932974"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "FUN86557",
+          "description": "Disney Princess - Manga Mystery Minis (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "889698865579"
+        },
+        {
+          "sku": "JAD34918",
+          "description": "Fast & Furious X - 1:24 1970 Dodge Charger BK Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310349182"
+        },
+        {
+          "sku": "FUN83868",
+          "description": "FNaF - Mangle 6\" Pop!",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "889698838689"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN92730",
+          "description": "Football: France - Kylian Mbappe Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698927307"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 6,
+          "price": 18.15,
+          "exc_value": 103.46,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "FUN88405",
+          "description": "Muppets - Waldorf and Statler Pop! 2PK",
+          "quantity": 1,
+          "price": 25.0,
+          "exc_value": 23.75,
+          "barcode": "0889698884051"
+        },
+        {
+          "sku": "ABYBAG410",
+          "description": "Naruto - Gama-chan Replica Coin Purse",
+          "quantity": 1,
+          "price": 17.0,
+          "exc_value": 16.15,
+          "barcode": "3665361038603"
+        },
+        {
+          "sku": "FUN90512",
+          "description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+          "quantity": 4,
+          "price": 6.05,
+          "exc_value": 22.99,
+          "barcode": "0889698905121"
+        },
+        {
+          "sku": "FUN93668",
+          "description": "Neopets - Cybunny Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "889698936682"
+        },
+        {
+          "sku": "FUN90566",
+          "description": "One Piece - Shanks Pop! Plus",
+          "quantity": 6,
+          "price": 12.5,
+          "exc_value": 71.25,
+          "barcode": "0889698905664"
+        },
+        {
+          "sku": "FUN82221",
+          "description": "Peanuts - Snoopy w/Woodstock FL Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698822213"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN93209",
+          "description": "Phineas & Ferb - Vanessa Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932097"
+        },
+        {
+          "sku": "FUN86406",
+          "description": "Simpsons - Homer Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698864060"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518168": {
+      "invoice_no": "518168",
+      "store": "Dunedin",
+      "store_code": "POPSTOPDUNSEA",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518168 - POPSTOPDUNSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "FUN83834",
+          "description": "Britney Spears - Stronger Pop!",
+          "quantity": 1,
+          "price": 12.5,
+          "exc_value": 11.88,
+          "barcode": "0889698838344"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN93297",
+          "description": "Dan Da Dan - Kinta Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932974"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "FUN49680",
+          "description": "Demon Slayer - Tanjiro w/Dragon GW TR Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698496803"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 3,
+          "price": 18.15,
+          "exc_value": 51.73,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "FUN90824",
+          "description": "Mandalorian & Grogu (2026) - The Mandalorian (Dual Wield) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698908245"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "FUN77960",
+          "description": "My Hero Academia - Bakugo S12 Pop! RS",
+          "quantity": 1,
+          "price": 15.15,
+          "exc_value": 14.39,
+          "barcode": "0889698779609"
+        },
+        {
+          "sku": "FUN90512",
+          "description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+          "quantity": 3,
+          "price": 6.05,
+          "exc_value": 17.24,
+          "barcode": "0889698905121"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "FUN93357",
+          "description": "Star Wars: Clone Wars - Commander Wolffe Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933575"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518170": {
+      "invoice_no": "518170",
+      "store": "Queensgate",
+      "store_code": "POPSTOPQGS",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518170 - POPSTOPQGS from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "FUN93783",
+          "description": "Alice in Wonderland (1951) - White Rabbit w/Horn Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698937832"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN93297",
+          "description": "Dan Da Dan - Kinta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932974"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "JAD34918",
+          "description": "Fast & Furious X - 1:24 1970 Dodge Charger BK Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310349182"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN92721",
+          "description": "Football: England - Harry Kane Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698927215"
+        },
+        {
+          "sku": "FUN92730",
+          "description": "Football: France - Kylian Mbappe Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698927307"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 6,
+          "price": 18.15,
+          "exc_value": 103.46,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN91957",
+          "description": "Jason Universe - Jason Voorhees in Water Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698919579"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "NOBNN9472",
+          "description": "LotR - Map of Middle Earth 1000pc Puzzle",
+          "quantity": 1,
+          "price": 27.35,
+          "exc_value": 25.98,
+          "barcode": "849421009137"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "FUN90512",
+          "description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+          "quantity": 4,
+          "price": 6.05,
+          "exc_value": 22.99,
+          "barcode": "0889698905121"
+        },
+        {
+          "sku": "FUN90566",
+          "description": "One Piece - Shanks Pop! Plus",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698905664"
+        },
+        {
+          "sku": "FUN82221",
+          "description": "Peanuts - Snoopy w/Woodstock FL Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698822213"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN93209",
+          "description": "Phineas & Ferb - Vanessa Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932097"
+        },
+        {
+          "sku": "FUN86406",
+          "description": "Simpsons - Homer Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698864060"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518172": {
+      "invoice_no": "518172",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518172 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "FUN93783",
+          "description": "Alice in Wonderland (1951) - White Rabbit w/Horn Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698937832"
+        },
+        {
+          "sku": "FUN84413",
+          "description": "Chainsaw Man - Power w/Meowy Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698844130"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN93297",
+          "description": "Dan Da Dan - Kinta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932974"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "FUN49680",
+          "description": "Demon Slayer - Tanjiro w/Dragon GW TR Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698496803"
+        },
+        {
+          "sku": "FUN86557",
+          "description": "Disney Princess - Manga Mystery Minis (12ct)",
+          "quantity": 12,
+          "price": 7.4,
+          "exc_value": 84.36,
+          "barcode": "889698865579"
+        },
+        {
+          "sku": "FUN83868",
+          "description": "FNaF - Mangle 6\" Pop!",
+          "quantity": 1,
+          "price": 28.4,
+          "exc_value": 26.98,
+          "barcode": "889698838689"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN92721",
+          "description": "Football: England - Harry Kane Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698927215"
+        },
+        {
+          "sku": "FUN92730",
+          "description": "Football: France - Kylian Mbappe Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698927307"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 6,
+          "price": 18.15,
+          "exc_value": 103.46,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "ABYBAG410",
+          "description": "Naruto - Gama-chan Replica Coin Purse",
+          "quantity": 1,
+          "price": 17.0,
+          "exc_value": 16.15,
+          "barcode": "3665361038603"
+        },
+        {
+          "sku": "FUN90512",
+          "description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+          "quantity": 4,
+          "price": 6.05,
+          "exc_value": 22.99,
+          "barcode": "0889698905121"
+        },
+        {
+          "sku": "FUN91818",
+          "description": "NBA: Spurs - Victor Wembanyama (Slam Dunk) Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698918183"
+        },
+        {
+          "sku": "FUN90566",
+          "description": "One Piece - Shanks Pop! Plus",
+          "quantity": 9,
+          "price": 12.5,
+          "exc_value": 106.88,
+          "barcode": "0889698905664"
+        },
+        {
+          "sku": "FUN82221",
+          "description": "Peanuts - Snoopy w/Woodstock FL Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698822213"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN93209",
+          "description": "Phineas & Ferb - Vanessa Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932097"
+        },
+        {
+          "sku": "FUN86406",
+          "description": "Simpsons - Homer Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698864060"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "FUN93357",
+          "description": "Star Wars: Clone Wars - Commander Wolffe Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933575"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518174": {
+      "invoice_no": "518174",
+      "store": "Richmond",
+      "store_code": "POPSTOPRICHSEA",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518174 - POPSTOPRICHSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "JAD98717",
+          "description": "Batman Forever - 1:32 Batmobile Diecast Vehicle",
+          "quantity": 1,
+          "price": 10.3,
+          "exc_value": 9.79,
+          "barcode": "0801310987179"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 2,
+          "price": 18.15,
+          "exc_value": 34.49,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN90512",
+          "description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+          "quantity": 3,
+          "price": 6.05,
+          "exc_value": 17.24,
+          "barcode": "0889698905121"
+        },
+        {
+          "sku": "FUN90566",
+          "description": "One Piece - Shanks Pop! Plus",
+          "quantity": 3,
+          "price": 12.5,
+          "exc_value": 35.63,
+          "barcode": "0889698905664"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN86406",
+          "description": "Simpsons - Homer Pop!",
+          "quantity": 1,
+          "price": 14.2,
+          "exc_value": 13.49,
+          "barcode": "889698864060"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 2,
+          "price": 14.2,
+          "exc_value": 26.98,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518176": {
+      "invoice_no": "518176",
+      "store": "Te Rapa",
+      "store_code": "POPSTOPTRSEA",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518176 - POPSTOPTRSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN93297",
+          "description": "Dan Da Dan - Kinta Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932974"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "FUN49680",
+          "description": "Demon Slayer - Tanjiro w/Dragon GW TR Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698496803"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 4,
+          "price": 18.15,
+          "exc_value": 68.97,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN91957",
+          "description": "Jason Universe - Jason Voorhees in Water Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "889698919579"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "ABYBAG410",
+          "description": "Naruto - Gama-chan Replica Coin Purse",
+          "quantity": 1,
+          "price": 17.0,
+          "exc_value": 16.15,
+          "barcode": "3665361038603"
+        },
+        {
+          "sku": "FUN90512",
+          "description": "NBA: Hornets - Lamelo Ball (Home) Pop!",
+          "quantity": 3,
+          "price": 6.05,
+          "exc_value": 17.24,
+          "barcode": "0889698905121"
+        },
+        {
+          "sku": "FUN90566",
+          "description": "One Piece - Shanks Pop! Plus",
+          "quantity": 4,
+          "price": 12.5,
+          "exc_value": 47.5,
+          "barcode": "0889698905664"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN93209",
+          "description": "Phineas & Ferb - Vanessa Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932097"
+        },
+        {
+          "sku": "FUN84435",
+          "description": "Shoresy - Shoresy (White Jersey) Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79,
+          "barcode": "0889698844352"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 9,
+          "price": 14.2,
+          "exc_value": 121.41,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93633",
+          "description": "Star Trek: Next Generation - Worf Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936330"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "FUN93357",
+          "description": "Star Wars: Clone Wars - Commander Wolffe Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698933575"
+        },
+        {
+          "sku": "BLO71175",
+          "description": "Transformers - Action Edition 06 Optimus Prime Limited Model Kit",
+          "quantity": 1,
+          "price": 34.05,
+          "exc_value": 32.35,
+          "barcode": "810181532234"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518178": {
+      "invoice_no": "518178",
+      "store": "Warehouse AKL",
+      "store_code": "POPSWARSEA",
+      "recv_date": "2026-07-20",
+      "subject": "Email of Sales Invoice - 518178 - POPSWARSEA from Ikon Collectables Pty Ltd",
+      "shipping": "Sea Freight",
+      "customer_ref": "SEA 17.07",
+      "items": [
+        {
+          "sku": "FUN93783",
+          "description": "Alice in Wonderland (1951) - White Rabbit w/Horn Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698937832"
+        },
+        {
+          "sku": "HOTTMS137",
+          "description": "Arcane (TV) - Jinx 1:6 Figure",
+          "quantity": 1,
+          "price": 378.0,
+          "exc_value": 359.1,
+          "barcode": "4895228620279"
+        },
+        {
+          "sku": "FUN80354",
+          "description": "Bleach: TYBW - Ichigo Pop!",
+          "quantity": 24,
+          "price": 14.2,
+          "exc_value": 323.76,
+          "barcode": "0889698803540"
+        },
+        {
+          "sku": "FUN84413",
+          "description": "Chainsaw Man - Power w/Meowy Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698844130"
+        },
+        {
+          "sku": "FUN93295",
+          "description": "Dan Da Dan - Aira Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932950"
+        },
+        {
+          "sku": "FUN93296",
+          "description": "Dan Da Dan - Jiji Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932967"
+        },
+        {
+          "sku": "FUN93297",
+          "description": "Dan Da Dan - Kinta Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932974"
+        },
+        {
+          "sku": "FUN94118",
+          "description": "Dan Da Dan - Turbo Granny w/Hairdryer Pop!",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "889698941181"
+        },
+        {
+          "sku": "FUN49680",
+          "description": "Demon Slayer - Tanjiro w/Dragon GW TR Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698496803"
+        },
+        {
+          "sku": "JAD34918",
+          "description": "Fast & Furious X - 1:24 1970 Dodge Charger BK Diecast Vehicle",
+          "quantity": 1,
+          "price": 24.25,
+          "exc_value": 23.04,
+          "barcode": "0801310349182"
+        },
+        {
+          "sku": "FUN83868",
+          "description": "FNaF - Mangle 6\" Pop!",
+          "quantity": 2,
+          "price": 28.4,
+          "exc_value": 53.96,
+          "barcode": "889698838689"
+        },
+        {
+          "sku": "FUN83864",
+          "description": "FNaF - Withered Bonnie Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838641"
+        },
+        {
+          "sku": "FUN83867",
+          "description": "FNaF - Withered Freddy Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698838672"
+        },
+        {
+          "sku": "FUN92721",
+          "description": "Football: England - Harry Kane Pop!",
+          "quantity": 4,
+          "price": 14.2,
+          "exc_value": 53.96,
+          "barcode": "0889698927215"
+        },
+        {
+          "sku": "FUN92730",
+          "description": "Football: France - Kylian Mbappe Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698927307"
+        },
+        {
+          "sku": "FUN92732",
+          "description": "Football: France - Ousmane Dembele Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698927321"
+        },
+        {
+          "sku": "FUN93383",
+          "description": "Harry Potter - Sorting Hat Pop! w/SFX",
+          "quantity": 6,
+          "price": 18.15,
+          "exc_value": 103.46,
+          "barcode": "889698933834"
+        },
+        {
+          "sku": "FUN83572",
+          "description": "John Wick - John Wick S6 Pop!",
+          "quantity": 54,
+          "price": 14.2,
+          "exc_value": 728.46,
+          "barcode": "889698835725"
+        },
+        {
+          "sku": "FUN88460",
+          "description": "JoJo's Bizarre Adventure - Jotaro Pop!",
+          "quantity": 24,
+          "price": 14.2,
+          "exc_value": 323.76,
+          "barcode": "889698884600"
+        },
+        {
+          "sku": "FUN91976",
+          "description": "Jujutsu Kaisen 0 - Yuta w/Katana Pop! RS",
+          "quantity": 12,
+          "price": 15.15,
+          "exc_value": 172.71,
+          "barcode": "0889698919760"
+        },
+        {
+          "sku": "FUN93217",
+          "description": "Little Mermaid (1989) - Ariel w/Sebastian Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932172"
+        },
+        {
+          "sku": "FUN93218",
+          "description": "Little Mermaid (1989) - Sebastian & Flounder Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932189"
+        },
+        {
+          "sku": "FUN90824",
+          "description": "Mandalorian & Grogu (2026) - The Mandalorian (Dual Wield) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "0889698908245"
+        },
+        {
+          "sku": "FUN94092",
+          "description": "Minions 3 - Goomi Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940924"
+        },
+        {
+          "sku": "FUN94091",
+          "description": "Minions 3 - James Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698940917"
+        },
+        {
+          "sku": "FUN94697",
+          "description": "MLS: Inter Miami - Lionel Messi (Pink Kit) Pop!",
+          "quantity": 24,
+          "price": 14.2,
+          "exc_value": 323.76,
+          "barcode": "0889698946971"
+        },
+        {
+          "sku": "FUN88405",
+          "description": "Muppets - Waldorf and Statler Pop! 2PK",
+          "quantity": 3,
+          "price": 25.0,
+          "exc_value": 71.25,
+          "barcode": "0889698884051"
+        },
+        {
+          "sku": "FUN90538",
+          "description": "NBA: Bulls - Michael Jordan (3 in a Row) Pop!",
+          "quantity": 36,
+          "price": 14.2,
+          "exc_value": 485.64,
+          "barcode": "0889698905381"
+        },
+        {
+          "sku": "FUN91818",
+          "description": "NBA: Spurs - Victor Wembanyama (Slam Dunk) Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18,
+          "barcode": "0889698918183"
+        },
+        {
+          "sku": "FUN93667",
+          "description": "Neopets - Aisha Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936675"
+        },
+        {
+          "sku": "FUN93668",
+          "description": "Neopets - Cybunny Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936682"
+        },
+        {
+          "sku": "FUN93669",
+          "description": "Neopets - Kacheek Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936699"
+        },
+        {
+          "sku": "FUN93670",
+          "description": "Neopets - Shoyru Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936705"
+        },
+        {
+          "sku": "FUN90566",
+          "description": "One Piece - Shanks Pop! Plus",
+          "quantity": 12,
+          "price": 12.5,
+          "exc_value": 142.5,
+          "barcode": "0889698905664"
+        },
+        {
+          "sku": "FUN82221",
+          "description": "Peanuts - Snoopy w/Woodstock FL Pop! RS",
+          "quantity": 6,
+          "price": 15.15,
+          "exc_value": 86.36,
+          "barcode": "0889698822213"
+        },
+        {
+          "sku": "FUN86691",
+          "description": "Phineas & Ferb - Agent P Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698866910"
+        },
+        {
+          "sku": "FUN93207",
+          "description": "Phineas & Ferb - Candace Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932073"
+        },
+        {
+          "sku": "FUN93208",
+          "description": "Phineas & Ferb - Dr. Doofenshmirtz Pop!",
+          "quantity": 12,
+          "price": 14.2,
+          "exc_value": 161.88,
+          "barcode": "889698932080"
+        },
+        {
+          "sku": "FUN93209",
+          "description": "Phineas & Ferb - Vanessa Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698932097"
+        },
+        {
+          "sku": "FUN84435",
+          "description": "Shoresy - Shoresy (White Jersey) Pop! RS",
+          "quantity": 4,
+          "price": 15.15,
+          "exc_value": 57.57,
+          "barcode": "0889698844352"
+        },
+        {
+          "sku": "FUN86406",
+          "description": "Simpsons - Homer Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "889698864060"
+        },
+        {
+          "sku": "FUN86594",
+          "description": "Spice Girls - Baby Spice (Wannabe) Pop!",
+          "quantity": 72,
+          "price": 14.2,
+          "exc_value": 971.28,
+          "barcode": "0889698865944"
+        },
+        {
+          "sku": "FUN86595",
+          "description": "Spice Girls - Ginger Spice (Wannabe) Pop!",
+          "quantity": 72,
+          "price": 14.2,
+          "exc_value": 971.28,
+          "barcode": "0889698865951"
+        },
+        {
+          "sku": "FUN86596",
+          "description": "Spice Girls - Posh Spice (Wannabe) Pop!",
+          "quantity": 72,
+          "price": 14.2,
+          "exc_value": 971.28,
+          "barcode": "0889698865968"
+        },
+        {
+          "sku": "FUN86597",
+          "description": "Spice Girls - Scary Spice (Wannabe) Pop!",
+          "quantity": 72,
+          "price": 14.2,
+          "exc_value": 971.28,
+          "barcode": "0889698865975"
+        },
+        {
+          "sku": "FUN86598",
+          "description": "Spice Girls - Sporty Spice (Wannabe) Pop!",
+          "quantity": 72,
+          "price": 14.2,
+          "exc_value": 971.28,
+          "barcode": "0889698865982"
+        },
+        {
+          "sku": "FUN93106",
+          "description": "Star Trek: Deep Space 9 - Capt. Benjamin Sisko Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698931069"
+        },
+        {
+          "sku": "FUN93631",
+          "description": "Star Trek: Next Generation - Geordi La Forge Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936316"
+        },
+        {
+          "sku": "FUN93635",
+          "description": "Star Trek: Voyager - The Doctor Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698936354"
+        },
+        {
+          "sku": "FUN90328",
+          "description": "Star Wars - Jango Fett (May the Fourth Retro) Pop!",
+          "quantity": 18,
+          "price": 14.2,
+          "exc_value": 242.82,
+          "barcode": "0889698903288"
+        },
+        {
+          "sku": "FUN93357",
+          "description": "Star Wars: Clone Wars - Commander Wolffe Pop!",
+          "quantity": 3,
+          "price": 14.2,
+          "exc_value": 40.47,
+          "barcode": "0889698933575"
+        },
+        {
+          "sku": "FUN93387",
+          "description": "Wicked x Care Bears - Funshine Bear as Wicked Scarecrow Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933872"
+        },
+        {
+          "sku": "FUN93385",
+          "description": "Wicked x Care Bears - Good Luck Bear as Elphaba Thropp Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933858"
+        },
+        {
+          "sku": "FUN93389",
+          "description": "Wicked x Care Bears - Grumpy Bear as Wicked Tin Man Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933896"
+        },
+        {
+          "sku": "FUN93386",
+          "description": "Wicked x Care Bears - Love-A-Lot Bear as Glinda Upland Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933865"
+        },
+        {
+          "sku": "FUN93388",
+          "description": "Wicked x Care Bears - Tenderheart Bear as The Cowardly Lion Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698933889"
+        },
+        {
+          "sku": "FUN93220",
+          "description": "Winnie the Pooh - Eeyore (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932202"
+        },
+        {
+          "sku": "FUN80237",
+          "description": "Winnie the Pooh - Eeyore S3 Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698802376"
+        },
+        {
+          "sku": "FUN93221",
+          "description": "Winnie the Pooh - Pooh (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932219"
+        },
+        {
+          "sku": "FUN93222",
+          "description": "Winnie the Pooh - Tigger (Whittled Look) Pop!",
+          "quantity": 6,
+          "price": 14.2,
+          "exc_value": 80.94,
+          "barcode": "889698932226"
+        }
+      ],
+      "source": "kelley_email",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518165": {
+      "invoice_no": "518165",
+      "store": "Papanui",
+      "store_code": "POPSHOPSEA",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518165 - POPSHOPSEA from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518167": {
+      "invoice_no": "518167",
+      "store": "Sylvia Park",
+      "store_code": "POPSTOPSF",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518167 - POPSTOPSF from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518169": {
+      "invoice_no": "518169",
+      "store": "Dunedin",
+      "store_code": "POPSTOPDUNSEA",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518169 - POPSTOPDUNSEA from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518171": {
+      "invoice_no": "518171",
+      "store": "Queensgate",
+      "store_code": "POPSTOPQGS",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518171 - POPSTOPQGS from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518173": {
+      "invoice_no": "518173",
+      "store": "Riccarton",
+      "store_code": "POPSTOPRSF",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518173 - POPSTOPRSF from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518175": {
+      "invoice_no": "518175",
+      "store": "Richmond",
+      "store_code": "POPSTOPRICHSEA",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518175 - POPSTOPRICHSEA from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
+    },
+    "518177": {
+      "invoice_no": "518177",
+      "store": "Te Rapa",
+      "store_code": "POPSTOPTRSEA",
+      "recv_date": "2026-07-20",
+      "subject": "**CONFIDENTIAL** Email of Sales Invoice - 518177 - POPSTOPTRSEA from Ikon Collectables Pty Ltd",
+      "shipping": "",
+      "customer_ref": "",
+      "items": [
+        {
+          "sku": "FUN92593",
+          "barcode": "0889698925938",
+          "description": "Persona 5 - Joker Pop! RS",
+          "quantity": 2,
+          "price": 15.15,
+          "exc_value": 28.79
+        },
+        {
+          "sku": "FUN92594",
+          "barcode": "0889698925945",
+          "description": "Chainsaw Man - Pochita on Floaty Pop! RS",
+          "quantity": 3,
+          "price": 15.15,
+          "exc_value": 43.18
+        },
+        {
+          "sku": "PLEASE PACK",
+          "barcode": "THESE TWO SKU'S",
+          "description": "INTO ONE INNER AND ZEBRA LABEL",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        },
+        {
+          "sku": "\"CONFIDENTIAL",
+          "barcode": "- SDCC26\"",
+          "description": "",
+          "quantity": 0,
+          "price": 0.0,
+          "exc_value": 0.0
+        }
+      ],
+      "source": "pdf_fallback",
+      "tnl_job_no": "",
+      "tnl_status": "Pending",
+      "eta": "",
+      "edd": "",
+      "actual_delivery": ""
     }
   },
-  "last_updated": "2026-07-21T10:57:56.684750"
+  "last_updated": "2026-07-21T13:39:16.204295"
 }
