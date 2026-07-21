@@ -27218,13 +27218,14 @@
         }
       ],
       "tnl_job_no": "S00079385",
-      "tnl_status": "Arrived NZ",
+      "tnl_status": "Delivered",
       "eta": "2026-06-17",
       "edd": "2026-06-24",
-      "actual_delivery": "",
+      "actual_delivery": "2026-06-17",
       "entry_ref": "13022978",
       "vessel": "ANDROKLIS",
-      "source": "kelley_email"
+      "source": "kelley_email",
+      "manual_override": true
     },
     "515019": {
       "invoice_no": "515019",
@@ -44827,5 +44828,5 @@
       "actual_delivery": ""
     }
   },
-  "last_updated": "2026-07-21T10:57:56.684750"
+  "last_updated": "2026-07-21T01:28:23.667850"
 }
