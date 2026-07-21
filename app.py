@@ -3,6 +3,9 @@ import pandas as pd
 import os
 import pickle
 import json
+import base64
+import urllib.request
+import urllib.error
 from io import BytesIO
 from datetime import datetime
 
@@ -11,6 +14,90 @@ from openpyxl.styles import PatternFill, Font, Border, Side
 from openpyxl.utils import get_column_letter
 
 DATA_DIR    = os.path.join(os.path.dirname(__file__), "data")
+
+# ── GitHub write-back for manual edits ──────────────────────────────
+# Manual updates (Shipment status/ETA/etc.) used to only write to this
+# container's local disk, which Streamlit Cloud wipes on every redeploy —
+# so edits silently vanished the next time the app rebuilt from GitHub.
+# This commits the change straight to the repo via the GitHub API instead,
+# so it survives redeploys and shows up in `git log` like any other update.
+#
+# Requires a GitHub Personal Access Token (repo scope) added under this
+# app's Settings → Secrets on Streamlit Cloud, as:
+#   github_token = "ghp_xxxxxxxxxxxx"
+GITHUB_OWNER  = "Timsu0116"
+GITHUB_REPO   = "popstop-dashboard"
+GITHUB_BRANCH = "main"
+GITHUB_FILE_PATH = "data/shipment_db.json"
+
+def _github_configured():
+    try:
+        return "github_token" in st.secrets
+    except Exception:
+        return False
+
+def _github_request(method, url, token, body=None):
+    data = json.dumps(body).encode() if body is not None else None
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("Authorization", f"token {token}")
+    req.add_header("Accept", "application/vnd.github+json")
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.loads(r.read())
+
+def save_shipment_update(invoice_no, updates, shipments_lookup):
+    """
+    Apply `updates` (a dict of fields) to shipments[invoice_no] and persist it:
+      1. Always write to the local data file (works immediately in this session).
+      2. If a GitHub token is configured, ALSO commit the change to the repo,
+         so it survives the next redeploy instead of silently disappearing.
+    Returns (ok: bool, message: str).
+    """
+    full_path = os.path.join(DATA_DIR, "shipment_db.json")
+    try:
+        with open(full_path) as f:
+            full_db = json.load(f)
+    except Exception:
+        full_db = {"shipments": {}}
+    if not isinstance(full_db, dict) or "shipments" not in full_db:
+        full_db = {"shipments": full_db.get("shipments", {}) if isinstance(full_db, dict) else {}}
+
+    if invoice_no not in full_db["shipments"]:
+        full_db["shipments"][invoice_no] = dict(shipments_lookup.get(invoice_no, {}))
+    full_db["shipments"][invoice_no].update(updates)
+    full_db["shipments"][invoice_no]["manual_override"] = True
+    full_db["last_updated"] = datetime.now().isoformat()
+
+    try:
+        with open(full_path, "w") as f:
+            json.dump(full_db, f, indent=2)
+    except Exception as e:
+        return False, f"Local write failed: {e}"
+
+    if not _github_configured():
+        return True, ("Saved locally only — this will be LOST on next redeploy. "
+                       "Add a `github_token` in this app's Secrets to make updates permanent.")
+
+    try:
+        token = st.secrets["github_token"]
+        api_url = (f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}"
+                   f"/contents/{GITHUB_FILE_PATH}")
+        current = _github_request("GET", f"{api_url}?ref={GITHUB_BRANCH}", token)
+        new_content_b64 = base64.b64encode(
+            json.dumps(full_db, indent=2).encode()
+        ).decode()
+        _github_request("PUT", api_url, token, {
+            "message": f"Manual update: invoice #{invoice_no} via Shipment Hub",
+            "content": new_content_b64,
+            "sha": current["sha"],
+            "branch": GITHUB_BRANCH,
+        })
+        return True, "Saved and committed to GitHub — this will persist through redeploys."
+    except urllib.error.HTTPError as e:
+        return True, (f"Saved locally, but GitHub commit failed ({e.code}). "
+                       f"Change will be lost on next redeploy unless you check the token/permissions.")
+    except Exception as e:
+        return True, (f"Saved locally, but GitHub commit failed ({e}). "
+                       f"Change will be lost on next redeploy.")
 LIMITS_FILE = os.path.join(os.path.dirname(__file__), "store_limits.csv")
 
 st.set_page_config(
@@ -3048,6 +3135,45 @@ def show_shipment_hub():
                                  width="stretch", hide_index=True,
                                  height=min(55 + len(store_summary)*38, 320))
 
+                    # ── Inline status update (right here, no separate tab) ──
+                    st.markdown("**✏️ Update Shipment Status**")
+                    inv_options = [r["Invoice No"] for r in group_rows]
+                    inv_labels  = {r["Invoice No"]: f"{r['Invoice No']} — {r['Store']}" for r in group_rows}
+                    with st.form(key=f"inline_update_{ref}"):
+                        uc1, uc2, uc3 = st.columns(3)
+                        upd_invoice = uc1.selectbox(
+                            "Store / Invoice", inv_options,
+                            format_func=lambda x: inv_labels.get(x, x),
+                            key=f"upd_inv_{ref}")
+                        cur = shipments.get(upd_invoice, {})
+                        status_opts = ["Waiting for Shipping","Pending","In Transit",
+                                       "Documents Received","In Customs","Customs Cleared",
+                                       "Arrived NZ","Delivered"]
+                        cur_status = cur.get("tnl_status","Pending")
+                        upd_status = uc2.selectbox("Status", status_opts,
+                                        index=status_opts.index(cur_status) if cur_status in status_opts else 0,
+                                        key=f"upd_status_{ref}")
+                        upd_job    = uc3.text_input("TNL Job No", value=cur.get("tnl_job_no",""), key=f"upd_job_{ref}")
+                        uc4, uc5, uc6 = st.columns(3)
+                        upd_eta    = uc4.text_input("ETA (YYYY-MM-DD)", value=cur.get("eta",""), key=f"upd_eta_{ref}")
+                        upd_edd    = uc5.text_input("EDD (YYYY-MM-DD)", value=cur.get("edd",""), key=f"upd_edd_{ref}")
+                        upd_del    = uc6.text_input("Actual Delivery", value=cur.get("actual_delivery",""), key=f"upd_del_{ref}")
+
+                        if st.form_submit_button("💾 Save"):
+                            ok, msg = save_shipment_update(upd_invoice, {
+                                "tnl_status":      upd_status,
+                                "tnl_job_no":       upd_job,
+                                "eta":             upd_eta,
+                                "edd":             upd_edd,
+                                "actual_delivery": upd_del,
+                            }, shipments)
+                            if ok:
+                                st.success(f"✅ #{upd_invoice} updated — {msg}")
+                                st.cache_data.clear()
+                                st.rerun()
+                            else:
+                                st.error(f"❌ Save failed: {msg}")
+
                     # Category breakdown
                     if grp_cat_qty:
                         cat_rows = sorted(grp_cat_qty.items(), key=lambda x: -x[1])
@@ -3614,32 +3740,19 @@ def show_shipment_hub():
             new_delivery = c2.text_input("Actual Delivery",  value=shp.get("actual_delivery",""), key="manual_del")
 
             if st.button("💾 Save Changes", key="manual_save"):
-                full_path = os.path.join(DATA_DIR, "shipment_db.json")
-                try:
-                    with open(full_path) as f:
-                        full_db = json.load(f)
-                    if not isinstance(full_db, dict):
-                        full_db = {"shipments": {}}
-                    if "shipments" not in full_db:
-                        full_db["shipments"] = {}
-                    if selected not in full_db["shipments"]:
-                        full_db["shipments"][selected] = dict(shp)
-                    full_db["shipments"][selected].update({
-                        "tnl_status":      new_status,
-                        "tnl_job_no":      new_job,
-                        "eta":             new_eta,
-                        "edd":             new_edd,
-                        "actual_delivery": new_delivery,
-                        "manual_override": True,
-                    })
-                    full_db["last_updated"] = datetime.now().isoformat()
-                    with open(full_path, "w") as f:
-                        json.dump(full_db, f, indent=2)
-                    st.success(f"✅ Invoice #{selected} updated!")
+                ok, msg = save_shipment_update(selected, {
+                    "tnl_status":      new_status,
+                    "tnl_job_no":      new_job,
+                    "eta":             new_eta,
+                    "edd":             new_edd,
+                    "actual_delivery": new_delivery,
+                }, shipments)
+                if ok:
+                    st.success(f"✅ Invoice #{selected} updated — {msg}")
                     st.cache_data.clear()
                     st.rerun()
-                except Exception as e:
-                    st.error(f"❌ Save failed: {e}")
+                else:
+                    st.error(f"❌ Save failed: {msg}")
 
     if not shipments:
         st.warning("No shipment data found. Make sure shipment_db.json is in the data folder.")
