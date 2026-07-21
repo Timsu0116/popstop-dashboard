@@ -41290,14 +41290,15 @@
           "barcode": "0761568011876"
         }
       ],
-      "tnl_job_no": "S00079733",
-      "tnl_status": "Arrived NZ",
-      "eta": "2026-07-14",
-      "edd": "2026-07-21",
-      "actual_delivery": "",
+      "tnl_job_no": "S00079732",
+      "tnl_status": "Delivered",
+      "eta": "2026-07-22",
+      "edd": "2026-07-29",
+      "actual_delivery": "2026-07-21",
       "source": "kelley_email",
       "entry_ref": "42548243",
-      "vessel": "ANDROKLIS"
+      "vessel": "ANDROKLIS",
+      "manual_override": true
     },
     "518056": {
       "invoice_no": "518056",
@@ -48196,5 +48197,5 @@
       "actual_delivery": ""
     }
   },
-  "last_updated": "2026-07-21T02:04:17.985959"
+  "last_updated": "2026-07-21T11:22:52.246577"
 }
