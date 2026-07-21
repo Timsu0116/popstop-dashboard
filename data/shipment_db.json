@@ -17747,11 +17747,12 @@
         }
       ],
       "tnl_job_no": "",
-      "tnl_status": "Pending",
+      "tnl_status": "Delivered",
       "eta": "",
       "edd": "",
-      "actual_delivery": "",
-      "source": "kelley_email"
+      "actual_delivery": "2026-05-20",
+      "source": "kelley_email",
+      "manual_override": true
     },
     "513914": {
       "invoice_no": "513914",
@@ -44828,5 +44829,5 @@
       "actual_delivery": ""
     }
   },
-  "last_updated": "2026-07-21T01:28:23.667850"
+  "last_updated": "2026-07-21T01:29:13.157555"
 }
